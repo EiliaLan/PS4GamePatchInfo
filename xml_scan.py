@@ -33,7 +33,7 @@ for number in tqdm(range(1, 45000)):
         #content_id = root.find(".//package").attrib["content_id"]
 
         
-        with open("extracted_info.txt", "a", encoding="utf-8") as info_file:
+        with open("extracted_info.txt", "w", encoding="utf-8") as info_file:
             info_file.write(f"{title_id},{title},{version}\n")
 
         print(f"\r{GameID}:{title} - COMPLETE", end="")
