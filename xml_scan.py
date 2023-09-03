@@ -4,6 +4,9 @@ import binascii
 import requests
 import xml.etree.ElementTree as ET
 from tqdm import tqdm
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Function to generate URL using HMAC
 def generate_url(GameID):
@@ -38,7 +41,7 @@ for number in tqdm(range(1, 45000)):
         with open("extracted_info.txt", "a", encoding="utf-8") as info_file:
             info_file.write(f"{title_id},{title},{version},{content_id}\n")
 
-        print(f"{GameID} - Extraction completed!")
+        print(f"{GameID}:{title} - 获取完成")
     except (requests.exceptions.RequestException, ET.ParseError) as e:
         print(f"{GameID} - Error: {e}")
         continue  # 出错时继续下一次循环
