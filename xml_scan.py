@@ -38,7 +38,7 @@ for number in tqdm(range(1, 45000)):
 
         print(f"\r{GameID}:{title} - COMPLETE", end="")
     except (requests.exceptions.RequestException, ET.ParseError) as e:
-        pprint(f"\r{GameID} - Error", end="")
+        print(f"\r{GameID} - Game not exist", end="")
         continue  
         
 print("Extraction and writing completed!")
