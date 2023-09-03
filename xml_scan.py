@@ -36,9 +36,9 @@ for number in tqdm(range(1, 45000)):
         with open("extracted_info.txt", "a", encoding="utf-8") as info_file:
             info_file.write(f"{title_id},{title},{version}\n")
 
-        print(f"{GameID}:{title} - COMPLETE\n")
+        print(f"\r{GameID}:{title} - COMPLETE", end="")
     except (requests.exceptions.RequestException, ET.ParseError) as e:
-        print(f"{GameID} - Error: {e}")
+        pprint(f"\r{GameID} - Error", end="")
         continue  
         
 print("Extraction and writing completed!")
