@@ -30,11 +30,11 @@ for number in tqdm(range(1, 45000)):
         title_id = root.attrib["titleid"]
         title = root.find(".//title").text
         version = root.find(".//package").attrib["version"]
-        content_id = root.find(".//package").attrib["content_id"]
+        #content_id = root.find(".//package").attrib["content_id"]
 
         
         with open("extracted_info.txt", "a", encoding="utf-8") as info_file:
-            info_file.write(f"{title_id},{title},{version},{content_id}\n")
+            info_file.write(f"{title_id},{title},{version}\n")
 
         print(f"{GameID}:{title} - COMPLETE\n")
     except (requests.exceptions.RequestException, ET.ParseError) as e:
