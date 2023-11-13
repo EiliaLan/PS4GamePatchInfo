@@ -132,7 +132,7 @@ CUSA00169,Doki-Doki Universe™,01.02
 CUSA00170,FIFA 14,01.05
 CUSA00175,Sound Shapes,01.14
 CUSA00176,Dead Nation™: Apocalypse Edition,01.03
-CUSA00182,War Thunder,05.34
+CUSA00182,War Thunder,05.37
 CUSA00184,Angry Birds Star Wars,01.01
 CUSA00186,Zen Pinball 2,01.21
 CUSA00187,Zen Pinball 2,01.22
@@ -162,7 +162,7 @@ CUSA00220,Dragon Age™: Inquisition,01.12
 CUSA00221,The Crew™,01.21
 CUSA00222,EA SPORTS™ UFC®,01.08
 CUSA00223,inFAMOUS Second Son™,01.07
-CUSA00224,War Thunder,05.34
+CUSA00224,War Thunder,05.37
 CUSA00225,METAL GEAR SOLID V: GROUND ZEROES,01.05
 CUSA00226,Contrast,01.03
 CUSA00230,Trials Fusion™,01.17
@@ -190,7 +190,7 @@ CUSA00259,Trials Fusion™,01.17
 CUSA00261,Awesomenauts Assemble!,01.10
 CUSA00263,inFAMOUS™ Second Son,01.07
 CUSA00264,EA SPORTS™ UFC®,01.08
-CUSA00265,Minecraft,02.75
+CUSA00265,Minecraft,02.76
 CUSA00268,IGN,01.03
 CUSA00271,Putty Squad,01.02
 CUSA00272,NBA,03.03
@@ -201,14 +201,14 @@ CUSA00278,Now TV,01.04
 CUSA00279,Filmo,02.02
 CUSA00280,MEO VideoClube,01.01
 CUSA00282,Daylight,01.01
-CUSA00283,Minecraft,02.75
-CUSA00285,FINAL FANTASY XIV,10.20
+CUSA00283,Minecraft,02.76
+CUSA00285,FINAL FANTASY XIV,10.25
 CUSA00286,Sniper Elite 3,01.05
-CUSA00288,FINAL FANTASY XIV,10.20
+CUSA00288,FINAL FANTASY XIV,10.25
 CUSA00291,Pinball Arcade,01.33
 CUSA00294,GAME ONE,01.02
 CUSA00299,Bloodborne®,01.09
-CUSA00301,FINAL FANTASY XIV,10.20
+CUSA00301,FINAL FANTASY XIV,10.25
 CUSA00302,Tomb Raider: Definitive Edition,01.01
 CUSA00303,Bound By Flame,01.02
 CUSA00304,Trials Fusion™,01.17
@@ -247,7 +247,7 @@ CUSA00359,Until Dawn™,01.03
 CUSA00361,Tour de France 2014,01.01
 CUSA00362,Alien: Isolation™,01.04
 CUSA00363,Alien: Isolation™,01.04
-CUSA00364,信長の野望 Online ～天楼の章～,04.57
+CUSA00364,信長の野望 Online ～天楼の章～,04.58
 CUSA00365,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,01.03
 CUSA00367,Tour de France 2014,01.01
 CUSA00368,Hotline Miami 2: Wrong Number,01.01
@@ -263,7 +263,7 @@ CUSA00382,FEZ,01.01
 CUSA00383,FEZ,01.01
 CUSA00384,Velocity®2X,01.04
 CUSA00385,Child of Light,01.02
-CUSA00387,鬼斬（おにぎり）,03.41
+CUSA00387,鬼斬（おにぎり）,03.45
 CUSA00388,Arcade Archives Nekketsu Koha Kunio-kun,01.04
 CUSA00389,Arcade Archives City CONNECTION,01.02
 CUSA00390,Arcade Archives CRAZY CLIMBER,01.02
@@ -463,7 +463,7 @@ CUSA00740,Terraria,01.35
 CUSA00741,オメガクインテット,01.03
 CUSA00742,Minutes™,01.01
 CUSA00743,Peggle 2,01.01
-CUSA00744,Minecraft,02.75
+CUSA00744,Minecraft,02.76
 CUSA00745,Rocksmith 2014,01.12
 CUSA00746,Citizens of Earth,01.02
 CUSA00747,Destiny Public Alpha,01.02
@@ -595,7 +595,7 @@ CUSA01009,The Wolf Among Us,01.01
 CUSA01010,The Walking Dead: Season 2,01.02
 CUSA01012,Homefront®: The Revolution,01.12
 CUSA01013,DmC Devil May Cry™: Definitive Edition,01.01
-CUSA01014,Dead Island 2,01.06
+CUSA01014,Dead Island 2,01.07
 CUSA01015,YouTube,02.32
 CUSA01016,ゴジラ-GODZILLA-VS,01.01
 CUSA01017,The Walking Dead: Season 2,01.02
@@ -603,7 +603,7 @@ CUSA01021,Horizon Zero Dawn™,01.54
 CUSA01022,DmC Devil May Cry™: Definitive Edition,01.03
 CUSA01023,RISK,01.02
 CUSA01024,Trivial Pursuit Live!,01.01
-CUSA01026,Four Kings Casino and Slots,01.47
+CUSA01026,Four Kings Casino and Slots,01.48
 CUSA01032,WORLD SOCCER Winning Eleven 2015,01.04
 CUSA01034,YouTube,02.32
 CUSA01035,みんなでスペランカーZ,01.21
@@ -770,7 +770,7 @@ CUSA01336,The Crew™ Beta,01.01
 CUSA01337,MONOPOLY FAMILY FUN PACK,01.02
 CUSA01338,Project CARS,10.00
 CUSA01339,WORLD SOCCER Winning Eleven 2015 DEMO,01.01
-CUSA01340,Dungeon Defenders II,02.33
+CUSA01340,Dungeon Defenders II,02.36
 CUSA01341,DRAGON BALL XENOVERSE,01.07
 CUSA01342,FINAL FANTASY TYPE-0 HD,01.01
 CUSA01344,The Binding of Isaac: Rebirth,01.14
@@ -813,7 +813,7 @@ CUSA01412,Tony Hawk's® Pro Skater™ 5,01.07
 CUSA01413,Rack N Ruin,01.03
 CUSA01415,Loadout,01.05
 CUSA01416,ドラゴンクエストヒーローズ　闇竜と世界樹の城,01.06
-CUSA01418,Dungeon Defenders II,02.33
+CUSA01418,Dungeon Defenders II,02.36
 CUSA01421,Home,01.02
 CUSA01423,Until Dawn™,01.03
 CUSA01427,Game of Thrones,01.07
@@ -831,7 +831,7 @@ CUSA01447,King's Quest,01.06
 CUSA01448,Giana Sisters: Twisted Dreams – Director’s Cut,01.01
 CUSA01451,Tom Clancy's The Division™,01.21
 CUSA01455,Paperbound,01.01
-CUSA01458,Onigiri,02.49
+CUSA01458,Onigiri,02.53
 CUSA01462,ICFLIX,01.01
 CUSA01463,Rugby League Live 3,01.02
 CUSA01467,Pier Solar and the Great Architects,01.02
@@ -940,7 +940,7 @@ CUSA01693,Neon,01.06
 CUSA01694,MilitAnt,01.05
 CUSA01696,Vertical Drop Heroes HD,01.02
 CUSA01701,Star Strike™Ultra,01.03
-CUSA01703,Plex,02.05
+CUSA01703,Plex,03.00
 CUSA01704,MX vs. ATV Supercross Encore,01.04
 CUSA01705,Disney Infinity 3.0,01.06
 CUSA01706,FINAL FANTASY XV,01.30
@@ -978,7 +978,7 @@ CUSA01780,Spotify,03.90
 CUSA01784,Tiny Troopers Joint Ops,01.01
 CUSA01785,Chariot,01.01
 CUSA01787,GOD EATER 2 RAGE BURST 体験版,01.02
-CUSA01788,Tom Clancy's Rainbow Six® Siege,02.60
+CUSA01788,Tom Clancy's Rainbow Six® Siege,02.61
 CUSA01790,Toren,01.02
 CUSA01791,影牢 ～もう１人のプリンセス～,01.05
 CUSA01792,Arcade Archives A-JAX,01.02
@@ -986,7 +986,7 @@ CUSA01793,Arcade Archives GRADIUS,01.03
 CUSA01795,Maddening Overload,01.01
 CUSA01797,Assetto Corsa,01.22
 CUSA01799,Deus Ex: Mankind Divided™,01.14
-CUSA01800,Tom Clancy's Rainbow Six® Siege,02.60
+CUSA01800,Tom Clancy's Rainbow Six® Siege,02.61
 CUSA01803,LET IT DIE,01.67
 CUSA01810,Tom Clancy's The Division™,01.21
 CUSA01811,Drawn to Death™ (Limited Access),02.23
@@ -1006,11 +1006,11 @@ CUSA01837,Zombie Army Trilogy,01.01
 CUSA01838,GOD EATER 2 RAGE BURST 體驗版,01.01
 CUSA01839,ULTRA STREET FIGHTER IV,01.07
 CUSA01840,PlanetSide 2 Closed Beta,01.02
-CUSA01842,Overwatch 2,03.64
+CUSA01842,Overwatch 2,03.65
 CUSA01845,TRANSFORMERS: Fall of Cybertron,01.01
 CUSA01846,ULTRA STREET FIGHTER IV,01.07
 CUSA01847,FINAL FANTASY VII,01.03
-CUSA01850,Plex,02.05
+CUSA01850,Plex,03.00
 CUSA01851,Popcornflix,01.10
 CUSA01852,Skullgirls 2nd Encore,01.18
 CUSA01853,不思議のクロニクル　振リ返リマセン勝ツマデハ,01.07
@@ -1236,7 +1236,7 @@ CUSA02353,Salt and Sanctuary,01.05
 CUSA02354,Nova-111,01.01
 CUSA02366,Beach Buggy Racing,01.01
 CUSA02367,The Elder Scrolls Online: Tamriel Unlimited Beta,01.02
-CUSA02368,Tom Clancy's Rainbow Six® Siege,02.60
+CUSA02368,Tom Clancy's Rainbow Six® Siege,02.61
 CUSA02369,HITMAN™,01.37
 CUSA02376,Assassin's Creed® Syndicate,01.53
 CUSA02377,Assassin's Creed® Syndicate,01.53
@@ -1306,7 +1306,7 @@ CUSA02486,Arcade Archives MAT MANIA EXCITING HOUR,01.01
 CUSA02491,Mass Effect™: Andromeda,01.10
 CUSA02496,RIDE,01.02
 CUSA02498,F1™ 2015,01.08
-CUSA02499,レインボーシックス　シージ,02.60
+CUSA02499,レインボーシックス　シージ,02.61
 CUSA02500,Broken Sword 5 - the Serpent's Curse,01.01
 CUSA02501,Grand Ages: Medieval,01.04
 CUSA02502,Ether One,01.07
@@ -1375,7 +1375,7 @@ CUSA02641,Pro Evolution Soccer 2016,01.08
 CUSA02642,The Banner Saga,01.03
 CUSA02644,Crunchyroll,03.05
 CUSA02646,This War of Mine: The Little Ones,01.01
-CUSA02647,ファンタシースターオンライン2 ニュージェネシス,08.10
+CUSA02647,ファンタシースターオンライン2 ニュージェネシス,08.11
 CUSA02650,Goosebumps: The Game,01.02
 CUSA02654,ジョジョの奇妙な冒険　アイズオブヘブン　体験版２ｎｄ,01.02
 CUSA02658,Arcade Archives TERRA CRESTA,01.01
@@ -1405,7 +1405,7 @@ CUSA02714,仮面ライダー バトライド・ウォー 創生,01.02
 CUSA02715,PieceFall,01.01
 CUSA02716,仮面ライダー バトライド・ウォー 創生 メモリアルＴＶサウンドエディション,01.02
 CUSA02718,Yu-Gi-Oh! Legacy of the Duelist,01.01
-CUSA02723,World of Tanks Beta,02.06
+CUSA02723,World of Tanks Beta,02.08
 CUSA02724,World of Tanks,02.10
 CUSA02726,The Mean Greens,01.01
 CUSA02729,初音ミク VRフューチャーライブ,01.02
@@ -1442,14 +1442,14 @@ CUSA02798,Lichdom: Battlemage,01.01
 CUSA02800,Gauntlet™,01.03
 CUSA02810,Valley,01.01
 CUSA02813,Pure Hold'em™ - World Poker Championship,02.01
-CUSA02818,Gems of War,01.76
+CUSA02818,Gems of War,01.78
 CUSA02819,Tom Clancy's Ghost Recon® Wildlands,01.31
 CUSA02820,Tom Clancy's Ghost Recon® Wildlands,01.31
 CUSA02821,Tom Clancy's Ghost Recon® Wildlands,01.31
 CUSA02822,Deception IV: The Nightmare Princess,01.02
 CUSA02826,Uncharted™: The Nathan Drake Collection,01.02
 CUSA02827,HBO,01.12
-CUSA02829,Gems of War,01.75
+CUSA02829,Gems of War,01.77
 CUSA02830,Prominence Poker,01.24
 CUSA02831,アルスラーン戦記×無双,01.05
 CUSA02834,진・삼국무쌍７ Empires,01.05
@@ -1659,7 +1659,7 @@ CUSA03285,Twitch,01.60
 CUSA03286,SPELUNKER WORLD,01.12
 CUSA03287,Armello,01.26
 CUSA03288,Zotrix,01.01
-CUSA03289,Four Kings Casino and Slots,01.45
+CUSA03289,Four Kings Casino and Slots,01.46
 CUSA03290,Dead Island: Riptide - Definitive Edition,01.03
 CUSA03291,Dead Island - Definitive Edition,01.03
 CUSA03292,Super Star Wars,01.01
@@ -1962,8 +1962,8 @@ CUSA03967,ドラゴンクエストヒーローズⅡ　双子の王と予言の�
 CUSA03969,Ziggurat,01.02
 CUSA03972,Nioh,01.23
 CUSA03973,サモンナイト６ 失われた境界たち,01.03
-CUSA03974,Overwatch 2,03.64
-CUSA03975,Overwatch 2,03.64
+CUSA03974,Overwatch 2,03.65
+CUSA03975,Overwatch 2,03.65
 CUSA03976,WeatherNation,01.02
 CUSA03977,Dying Light: The Following – Enhanced Edition,01.35
 CUSA03979,BioShock: The Collection,01.03
@@ -2000,7 +2000,7 @@ CUSA04055,Dungeons 2,01.02
 CUSA04056,Dungeons 2,01.01
 CUSA04061,Stikbold!,01.01
 CUSA04064,タイタンフォール® 2,01.13
-CUSA04065,Overwatch 2,03.64
+CUSA04065,Overwatch 2,03.65
 CUSA04066,討鬼伝２ 体験版,01.01
 CUSA04071,UNO®,01.18
 CUSA04075,Lovers in a Dangerous Spacetime,01.01
@@ -2057,8 +2057,8 @@ CUSA04189,INVERSUS Deluxe,01.09
 CUSA04191,BlazBlue Central Fiction,01.10
 CUSA04192,Risk of Rain,01.01
 CUSA04193,Bound,01.03
-CUSA04195,Brawlhalla,11.25
-CUSA04196,Rain World,01.12
+CUSA04195,Brawlhalla,11.27
+CUSA04196,Rain World,01.13
 CUSA04197,Super Mega Baseball 2,01.11
 CUSA04199,소피의 아틀리에 ～신비한 책의 연금술사～,01.01
 CUSA04200,삼국지13,01.05
@@ -2076,7 +2076,7 @@ CUSA04227,Marvel Ultimate Alliance 2,01.01
 CUSA04228,Grand Ages: Medieval,01.01
 CUSA04229,LASTFIGHT,01.02
 CUSA04234,Hawken,01.09
-CUSA04236,Don't Starve Together: Console Edition,02.81
+CUSA04236,Don't Starve Together: Console Edition,02.82
 CUSA04237,Lithium: Inmate 39,01.06
 CUSA04239,Divinity : Original Sin Enhanced Edition,01.03
 CUSA04243,戦国BASARA 真田幸村伝,01.01
@@ -2100,7 +2100,7 @@ CUSA04275,BATTLESHIP®,01.02
 CUSA04277,Arcade Archives MX5000,01.02
 CUSA04279,MilitAnt,01.05
 CUSA04281,Invisible, Inc. Console Edition,01.01
-CUSA04282,Don't Starve Together: Console Edition,02.81
+CUSA04282,Don't Starve Together: Console Edition,02.82
 CUSA04283,Dex,01.02
 CUSA04286,BATTLESHIP®,01.02
 CUSA04287,Mortal Kombat X Online Beta,01.03
@@ -2120,7 +2120,7 @@ CUSA04306,Cook, Serve, Delicious! 2!!,01.01
 CUSA04309,Cast Of The Seven Godsends - Redux,01.03
 CUSA04311,South Park™: The Fractured But Whole™,01.10
 CUSA04313,Dead Rising 2,01.02
-CUSA04314,Neverwinter,12.59
+CUSA04314,Neverwinter,12.62
 CUSA04315,Cast Of The Seven Godsends - Redux,01.02
 CUSA04316,Blade Ballet,01.07
 CUSA04317,ELEX,01.04
@@ -2145,7 +2145,7 @@ CUSA04408,Middle-earth™: Shadow of War™,01.18
 CUSA04409,BLAZBLUE CENTRALFICTION,01.10
 CUSA04411,Sky Force Anniversary,01.03
 CUSA04413,Kyurinaga's Revenge,01.03
-CUSA04414,Paladins,02.71
+CUSA04414,Paladins,02.73
 CUSA04417,Homefront®: The Revolution,01.12
 CUSA04418,R.B.I. Baseball 16,01.02
 CUSA04420,Arcade Archives Soldier Girl Amazon,01.01
@@ -2418,7 +2418,7 @@ CUSA05038,WWE 2K17,01.06
 CUSA05039,Bounce Rescue!,01.01
 CUSA05040,NBA 2K17,01.12
 CUSA05041,Vikings: Wolves of Midgard,01.10
-CUSA05042,Destiny 2,03.05
+CUSA05042,Destiny 2,03.07
 CUSA05043,ACE COMBAT™ 7: SKIES UNKNOWN,02.20
 CUSA05044,Binaries,01.01
 CUSA05045,Drawful 2,01.01
@@ -2439,7 +2439,7 @@ CUSA05069,EARTH'S DAWN,01.01
 CUSA05070,YAKUZA 0,01.05
 CUSA05071,ROMANCE OF THE THREE KINGDOMS XIII,01.06
 CUSA05073,STREET FIGHTER V Soundtrack: PlayStation®Plus Edition,01.04
-CUSA05078,Paladins,02.71
+CUSA05078,Paladins,02.73
 CUSA05083,Odin Sphere Leifthrasir,01.01
 CUSA05085,DRAGON BALL XENOVERSE 2,01.37
 CUSA05087,EARTH'S DAWN,01.01
@@ -2503,7 +2503,7 @@ CUSA05209,Clicker Heroes,01.10
 CUSA05214,ESPN,05.02
 CUSA05216,WRC 6 FIA World Rally Championship,01.02
 CUSA05217,Battlefield™ 1 Open Beta,01.01
-CUSA05218,For Honor,02.46
+CUSA05218,For Honor,02.47
 CUSA05221,TROVE,01.79
 CUSA05223,HBO Max,53.45
 CUSA05226,Blast 'Em Bunnies,01.01
@@ -2515,7 +2515,7 @@ CUSA05238,Rollercoaster Dreams,01.02
 CUSA05240,Neighborhorde,01.01
 CUSA05244,Battlefield™ 1 Open Beta,01.01
 CUSA05245,DUCATI – 90th Anniversary,01.01
-CUSA05246,For Honor,02.46
+CUSA05246,For Honor,02.47
 CUSA05247,MALICIOUS FALLEN™,01.04
 CUSA05249,まりさとアリスのトラップタワー,01.01
 CUSA05251,Among The Sleep,03.10
@@ -2526,9 +2526,9 @@ CUSA05255,Dungeon Punks,01.02
 CUSA05260,AmongtheSleep,03.10
 CUSA05262,Odin Sphere Leifthrasir,01.01
 CUSA05263,RIGS Machine Combat League™,01.07
-CUSA05264,For Honor,02.46
-CUSA05265,For Honor,02.46
-CUSA05266,For Honor,02.46
+CUSA05264,For Honor,02.47
+CUSA05265,For Honor,02.47
+CUSA05266,For Honor,02.47
 CUSA05267,Warlocks vs Shadows,01.01
 CUSA05269,Four Sided Fantasy,01.04
 CUSA05271,RIGS Mechanized Combat League™,01.07
@@ -2561,7 +2561,7 @@ CUSA05319,Yesterday Origins,01.03
 CUSA05323,Werewolves Within,01.04
 CUSA05326,Flywrench,01.01
 CUSA05329,Hand of Fate 2,01.10
-CUSA05330,Brawlhalla,11.25
+CUSA05330,Brawlhalla,11.27
 CUSA05331,SUPERHYPERCUBE,01.02
 CUSA05332,Batman,01.08
 CUSA05333,Skyrim,01.26
@@ -2656,7 +2656,7 @@ CUSA05523,NASCAR Heat Evolution,01.05
 CUSA05525,Big Buck Arcade,01.01
 CUSA05526,STEEP,01.24
 CUSA05527,STEEP,01.24
-CUSA05528,Neverwinter,12.59
+CUSA05528,Neverwinter,12.62
 CUSA05529,Spacelords,01.79
 CUSA05530,√Letter 方根書簡,01.01
 CUSA05531,FINAL FANTASY Ⅻ THE ZODIAC AGE,01.08
@@ -2718,7 +2718,7 @@ CUSA05639,STEEP,01.24
 CUSA05640,Assassin's Creed® Origins,01.60
 CUSA05642,SONIC FORCES,01.01
 CUSA05644,The Witcher 3: Wild Hunt – Game of the Year Edition,04.06
-CUSA05645,DayZ,01.58
+CUSA05645,DayZ,01.59
 CUSA05648,Shadow Warrior 2,01.06
 CUSA05650,Syberia3,01.05
 CUSA05651,PlayStation®VR Demo Disc,01.06
@@ -2730,7 +2730,7 @@ CUSA05662,METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE,01.11
 CUSA05663,PlayStation®VR Demo Disc,01.03
 CUSA05664,Livelock,01.02
 CUSA05666,Hyper Light Drifter,01.03
-CUSA05667,Rain World,01.12
+CUSA05667,Rain World,01.13
 CUSA05668,オメガラビリンスZ,01.01
 CUSA05670,WIPEOUT™ OMEGA COLLECTION,01.07
 CUSA05674,SONIC FORCES,01.01
@@ -2765,13 +2765,13 @@ CUSA05727,Shadow Complex Remastered,01.02
 CUSA05734,PlayStation® VR WORLDS,01.05
 CUSA05735,虚拟现实乐园,01.02
 CUSA05738,Castaway Paradise,01.01
-CUSA05744,Star Trek Online,23.50
+CUSA05744,Star Trek Online,24.00
 CUSA05745,Active Soccer 2 DX,01.06
 CUSA05748,Hatsune Miku: Project DIVA X,01.02
 CUSA05749,STAR WARS™ Battlefront™ II,01.55
 CUSA05750,Pox Nora,01.03
 CUSA05751,Yooka-Laylee,01.05
-CUSA05752,Star Trek Online,23.50
+CUSA05752,Star Trek Online,24.00
 CUSA05753,Hunter's Legacy,01.01
 CUSA05760,Fahrenheit™,01.01
 CUSA05761,Star Trek™: Bridge Crew,01.08
@@ -2890,7 +2890,7 @@ CUSA05956,Everything,01.06
 CUSA05957,A Pixel Story,01.01
 CUSA05960,Worlds of Magic: Planar Conquest,01.01
 CUSA05962,Everything,01.06
-CUSA05963,Destiny 2,03.05
+CUSA05963,Destiny 2,03.07
 CUSA05964,アイドルマスター シンデレラガールズ ビューイングレボリューション,01.90
 CUSA05965,No Man's Sky,04.45
 CUSA05966,Korix,01.08
@@ -2920,7 +2920,7 @@ CUSA05996,Night in the Woods,01.07
 CUSA05997,Huntsman,01.01
 CUSA05999,Need for Speed™ Payback,01.10
 CUSA06000,GAROU: MARK OF THE WOLVES,01.03
-CUSA06001,3on3 FreeStyle,04.48
+CUSA06001,3on3 FreeStyle,04.49
 CUSA06003,Hustle Kings™ VR,01.02
 CUSA06012,東方深秘録　～ Urban Legend in Limbo.,01.05
 CUSA06013,Laser League,01.05
@@ -2929,7 +2929,7 @@ CUSA06017,ROCKETSROCKETSROCKETS,01.02
 CUSA06018,√Letter,01.01
 CUSA06019,Ride 2,01.07
 CUSA06020,Warhammer 40,000: Deathwatch,01.02
-CUSA06021,YouTube,02.38
+CUSA06021,YouTube,02.39
 CUSA06022,Zebra Cartwheels,01.01
 CUSA06024,Super Stardust™Ultra VR,01.03
 CUSA06027,Monster Hunter World: Iceborne,15.20
@@ -2979,7 +2979,7 @@ CUSA06118,Tom Clancy's Ghost Recon® Wildlands - Open Beta,01.03
 CUSA06119,Tom Clancy's Ghost Recon® Wildlands - Open Beta,01.03
 CUSA06120,Rad TV,02.04
 CUSA06121,Whiteboyz Wit Attitude: The Pursuit of Money,01.02
-CUSA06122,Roblox,01.08
+CUSA06122,Roblox,01.13
 CUSA06123,Beep! Beep! Deliveries,01.01
 CUSA06124,SUPER ROBOT WARS V,01.03
 CUSA06125,三國志13 with 威力加強版,01.03
@@ -3001,7 +3001,7 @@ CUSA06167,VirZOOM Arcade,01.24
 CUSA06168,Aragami,01.11
 CUSA06169,2064: Read Only Memories,01.11
 CUSA06171,Patapon™ Remastered,01.01
-CUSA06172,Destiny 2,03.05
+CUSA06172,Destiny 2,03.07
 CUSA06173,WINDJAMMERS,01.05
 CUSA06174,2064: Read Only Memories,01.11
 CUSA06179,NBA 2KVR Experience,01.01
@@ -3052,7 +3052,7 @@ CUSA06253,Victor Vran,01.04
 CUSA06254,100ft Robot Golf,01.05
 CUSA06256,Shiness: The Lightning Kingdom,01.03
 CUSA06259,轩辕剑外传穹之扉,01.03
-CUSA06261,3on3 FreeStyle,04.48
+CUSA06261,3on3 FreeStyle,04.49
 CUSA06262,LEGO® Worlds,01.19
 CUSA06263,數碼寶貝世界 Next Order,01.03
 CUSA06266,Portal Knights,01.72
@@ -3123,7 +3123,7 @@ CUSA06407,Cities: Skylines,14.02
 CUSA06408,Move Or Die,01.16
 CUSA06409,Minecraft: Story Mode,01.02
 CUSA06410,DYING: Reborn VR,01.02
-CUSA06412,TERA,02.06
+CUSA06412,TERA,02.07
 CUSA06417,NARUTO SHIPPUDEN™: Ultimate Ninja® STORM TRILOGY,01.01
 CUSA06419,STEEP BETA,01.04
 CUSA06420,Unearthing Mars,01.03
@@ -3313,11 +3313,11 @@ CUSA06842,Carnival Games VR,01.01
 CUSA06843,Starship Disco,01.01
 CUSA06846,Friday the 13th: The Game,01.40
 CUSA06847,Party Golf,01.02
-CUSA06848,Crossout,03.40
+CUSA06848,Crossout,03.43
 CUSA06851,The Disney Afternoon Collection,01.01
 CUSA06853,PlayStation®VR Demo,01.03
 CUSA06858,Shadowgate,01.04
-CUSA06859,Crossout,03.40
+CUSA06859,Crossout,03.43
 CUSA06860,Torment: Tides of Numenera,01.03
 CUSA06861,Zero Escape: The Nonary Games,01.02
 CUSA06869,Discovery,01.02
@@ -3389,7 +3389,7 @@ CUSA06985,Kitty Powers' Matchmaker,02.03
 CUSA06987,Tokyo Xanadu eX+,01.03
 CUSA06993,PRO EVOLUTION SOCCER 2017 TRIAL EDITION,01.04
 CUSA06994,Sudden Strike 4,01.16
-CUSA06996,NBA,01.15
+CUSA06996,NBA,02.00
 CUSA06997,YAKUZA KIWAMI,01.09
 CUSA07000,Indivisible,01.11
 CUSA07001,Dragon's Crown Pro,01.03
@@ -3402,7 +3402,7 @@ CUSA07014,Nidhogg,01.01
 CUSA07017,WAKANIM,01.01
 CUSA07018,Super Cloudbuilt,01.03
 CUSA07019,Battlefield™ 1 Incursions,01.18
-CUSA07022,Fortnite,04.04
+CUSA07022,Fortnite,04.05
 CUSA07023,Sonic Mania,01.04
 CUSA07028,For Honor Beta,01.03
 CUSA07029,Wonder Boy: The Dragon's Trap,01.03
@@ -3422,7 +3422,7 @@ CUSA07058,Rewrite,01.01
 CUSA07059,Super Cloudbuilt,01.03
 CUSA07062,DiRT 4,01.06
 CUSA07063,BATTLESTAR GALACTICA Deadlock™,01.19
-CUSA07069,3on3 FreeStyle,04.48
+CUSA07069,3on3 FreeStyle,04.49
 CUSA07071,SublevelZero,01.05
 CUSA07072,Siralim 2,01.08
 CUSA07075,BATTLESTAR GALACTICA Deadlock™,01.19
@@ -3541,7 +3541,7 @@ CUSA07307,Dreamfall Chapters,01.02
 CUSA07309,THE ONION KNIGHTS,01.05
 CUSA07310,SUPERHERO-X,01.08
 CUSA07316,Dragon's Dogma: Dark Arisen,01.01
-CUSA07318,3on3 FreeStyle,04.48
+CUSA07318,3on3 FreeStyle,04.49
 CUSA07319,Horizon Zero Dawn™,01.54
 CUSA07320,Horizon Zero Dawn™,01.54
 CUSA07321,Patapon™2 Remastered,01.02
@@ -3627,7 +3627,7 @@ CUSA07476,Outcast - Second Contact,01.04
 CUSA07478,BERSERK and the Band of the Hawk,01.01
 CUSA07480,Micro Machines World Series,01.05
 CUSA07483,ACA NEOGEO BIG TOURNAMENT GOLF,01.02
-CUSA07484,Skyforge,03.04
+CUSA07484,Skyforge,03.05
 CUSA07486,DEMON GAZE Ⅱ  Global Edition,01.02
 CUSA07491,Dollhouse,01.07
 CUSA07492,TheChurchInTheDarkness,01.06
@@ -3716,13 +3716,13 @@ CUSA07656,The Count Lucanor,01.03
 CUSA07657,RC Airplane Challenge,01.05
 CUSA07658,BRIKS,01.01
 CUSA07660,METAL GEAR SURVIVE BETA,01.02
-CUSA07661,Skyforge,03.04
+CUSA07661,Skyforge,03.05
 CUSA07662,ARMORED WARFARE,01.02
 CUSA07663,Little Nightmares,01.07
 CUSA07666,インパクト・ウインター,01.01
 CUSA07667,METAL GEAR SURVIVE BETA,01.02
 CUSA07668,Insurgency: Sandstorm,01.18
-CUSA07669,Fortnite,04.04
+CUSA07669,Fortnite,04.05
 CUSA07670,KNACK™ 2,01.01
 CUSA07671,WIPEOUT™ OMEGA COLLECTION,01.07
 CUSA07673,Raiden V: Director's Cut,01.02
@@ -3742,7 +3742,7 @@ CUSA07695,LocoRoco™ 2 Remastered,01.03
 CUSA07696,Trulon: The Shadow Engine,01.01
 CUSA07697,Thea: The Awakening,01.01
 CUSA07699,Nightmares from the Deep 2: The Siren`s Call,01.01
-CUSA07701,War Thunder,05.34
+CUSA07701,War Thunder,05.37
 CUSA07702,魔女與百騎兵２,01.01
 CUSA07703,Cruz Brothers,01.03
 CUSA07704,THE IDOLM@STER CINDERELLA GIRLS VIEWING REVOLUTION,01.90
@@ -3917,7 +3917,7 @@ CUSA08025,Borderlands® 3,01.30
 CUSA08026,初音ミク Project DIVA Future Tone DX,01.14
 CUSA08027,RPGツクールMV Trinity,01.19
 CUSA08029,Transport Giant,01.04
-CUSA08032,Dead by Daylight,02.97
+CUSA08032,Dead by Daylight,02.99
 CUSA08033,DeerHunterReloaded,01.01
 CUSA08037,StarDrone,01.01
 CUSA08038,FIFA 18,01.15
@@ -3975,7 +3975,7 @@ CUSA08146,Forgotton Anne,01.01
 CUSA08148,SHINY,02.00
 CUSA08149,Sine Mora EX,01.01
 CUSA08153,Tour de France 2017,01.05
-CUSA08154,Tropico 6,20.02
+CUSA08154,Tropico 6,21.03
 CUSA08155,DARK SOULS™ III: The Fire Fades™ Edition,01.03
 CUSA08156,Dragon Fantasy: Volumes of Westeria,01.01
 CUSA08157,Zero Zero Zero Zero,01.01
@@ -3994,7 +3994,7 @@ CUSA08174,Patapon™2 Remastered,01.02
 CUSA08178,PATAPON®2 ドンチャカ,01.02
 CUSA08179,Aces of the Luftwaffe Squadron,01.07
 CUSA08182,Next Up Hero,01.01
-CUSA08183,Dungeons Of Sundaria,01.29
+CUSA08183,Dungeons Of Sundaria,01.31
 CUSA08184,銀魂乱舞,01.06
 CUSA08187,True Fear: Forsaken Souls Part 1,01.05
 CUSA08189,Victor Vran,01.04
@@ -4009,7 +4009,7 @@ CUSA08213,GWENT: The Witcher Card Game,01.53
 CUSA08214,True Fear: Forsaken Souls Part 1,01.05
 CUSA08215,Bandit Six: Combined Arms,01.01
 CUSA08216,Devil May Cry 5,01.10
-CUSA08217,Tropico 6,20.02
+CUSA08217,Tropico 6,21.03
 CUSA08218,Serious Sam Collection,01.02
 CUSA08222,Devil May Cry 5,01.10
 CUSA08223,ADN,01.04
@@ -4057,7 +4057,7 @@ CUSA08283,Life is Strange 2,01.17
 CUSA08284,GUILTY GEAR Xrd REV 2,01.06
 CUSA08285,Senran Kagura PEACH BEACH SPLASH,01.04
 CUSA08289,PRO EVOLUTION SOCCER 2018,01.08
-CUSA08290,MEGOGO - ТВ и Кино,02.02
+CUSA08290,MEGOGO - ТВ і Кіно,03.00
 CUSA08291,The Inpatient,01.02
 CUSA08293,プレキャラ！大富豪,01.03
 CUSA08294,KOWLOON'S GATE VR Suzaku,01.04
@@ -4147,7 +4147,7 @@ CUSA08436,BugsBox,01.02
 CUSA08437,Radio Hammer Station,01.01
 CUSA08439,God's Trigger,01.03
 CUSA08440,E3 VR Livestreaming Player 2017,01.01
-CUSA08444,Dead by Daylight,02.97
+CUSA08444,Dead by Daylight,02.99
 CUSA08447,Randall,01.04
 CUSA08449,ROGUE TROOPER REDUX,01.05
 CUSA08450,Archangel,01.02
@@ -4163,7 +4163,7 @@ CUSA08469,LEGO® MARVEL Super Heroes 2,01.06
 CUSA08472,深夜廻,01.05
 CUSA08476,LEGO® MARVEL Super Heroes 2,01.06
 CUSA08479,Life is Strange: Before the Storm,01.05
-CUSA08481,Rec Room,04.73
+CUSA08481,Rec Room,04.75
 CUSA08483,Destiny 2 Beta,01.04
 CUSA08485,ブロック ビルダー DX,01.01
 CUSA08486,SNKヒロインズ Tag Team Frenzy,01.41
@@ -4192,7 +4192,7 @@ CUSA08521,DrawFighters,01.01
 CUSA08522,The Jackbox Party Pack 4,01.01
 CUSA08523,Steven Universe: Save the Light,01.04
 CUSA08524,OK K.O.! Let’s Play Heroes,01.05
-CUSA08525,TERA,02.06
+CUSA08525,TERA,02.07
 CUSA08526,DARK SOULS™: REMASTERED,01.03
 CUSA08527,DiRT 4,01.06
 CUSA08528,Typoman,01.01
@@ -4307,7 +4307,7 @@ CUSA08757,Vegas Party,01.01
 CUSA08760,STAR WARS™ Battlefront™ II Multiplayer Beta,01.01
 CUSA08761,Project Serene,01.03
 CUSA08763,The Coma: Recut,01.01
-CUSA08767,NARUTO TO BORUTO: SHINOBI STRIKER,02.48
+CUSA08767,NARUTO TO BORUTO: SHINOBI STRIKER,02.49
 CUSA08768,SAMURAI SHODOWN V SPECIAL,01.02
 CUSA08769,Vegas Party,01.01
 CUSA08772,Happy Dungeons,01.15
@@ -4319,15 +4319,15 @@ CUSA08778,EARTH DEFENSE FORCE: IRON RAIN,01.07
 CUSA08779,Dishonored®: Death of the Outsider™,01.03
 CUSA08780,Dishonored®: Death of the Outsider™,01.03
 CUSA08781,Dishonored®: Death of the Outsider™,01.03
-CUSA08782,NARUTO TO BORUTO シノビストライカー,02.48
+CUSA08782,NARUTO TO BORUTO シノビストライカー,02.49
 CUSA08783,NARUTO TO BORUTO: SHINOBI STRIKER βTEST VERSION,01.02
-CUSA08789,NARUTO TO BORUTO: SHINOBI STRIKER,02.48
+CUSA08789,NARUTO TO BORUTO: SHINOBI STRIKER,02.49
 CUSA08790,GUNDAM VERSUS,01.13
 CUSA08791,Blade Strangers,01.06
 CUSA08792,Numantia,01.04
 CUSA08793,Dishonored®: Death of the Outsider™,01.03
 CUSA08796,Project CARS 2,07.10
-CUSA08797,NARUTO TO BORUTO 新忍出擊,02.48
+CUSA08797,NARUTO TO BORUTO 新忍出擊,02.49
 CUSA08798,Darksiders III,01.11
 CUSA08799,GUNDAM VERSUS,01.13
 CUSA08801,Undertale,01.08
@@ -4526,7 +4526,7 @@ CUSA09158,Batman: The Enemy Within,01.05
 CUSA09159,PlayStation®VR Demo Disc 2,01.05
 CUSA09162,DISSIDIA FINAL FANTASY NT Closed β Test,01.03
 CUSA09163,Death end re;Quest,01.05
-CUSA09164,Rain World,01.07
+CUSA09164,Rain World,01.08
 CUSA09165,BIOHAZARD RE:2,01.07
 CUSA09170,3DMiniGolf,01.01
 CUSA09171,RESIDENT EVIL 2,01.07
@@ -4550,12 +4550,12 @@ CUSA09202,NARUTO TO BORUTO: SHINOBI STRIKER βTEST VERSION,01.02
 CUSA09204,Vostok Inc.,01.06
 CUSA09205,仮面ライダー クライマックスファイターズ プレミアムＲサウンドエディション,01.05
 CUSA09206,A Knight's Quest,01.01
-CUSA09209,The Sims™ 4,01.81
+CUSA09209,The Sims™ 4,01.82
 CUSA09211,リトルウィッチアカデミア　時の魔法と七不思議,01.04
 CUSA09213,Jaunt VR,01.01
 CUSA09214,《幻象大师》伊涅斯塔VR纪录片,01.05
 CUSA09215,Light Tracer,01.06
-CUSA09216,The Sims™ 4,01.81
+CUSA09216,The Sims™ 4,01.82
 CUSA09218,The Girl and the Robot,01.01
 CUSA09219,Blue Angels Aerobatic Flight Simulator,01.02
 CUSA09220,Archangel,01.02
@@ -4641,7 +4641,7 @@ CUSA09390,Little Witch Academia: Chamber of Time,01.02
 CUSA09391,DISSIDIA FINAL FANTASY NT Closed Beta Test,01.04
 CUSA09392,Smash Hit Plunder,01.03
 CUSA09395,Splody,01.05
-CUSA09397,The Sims™ 4,01.81
+CUSA09397,The Sims™ 4,01.82
 CUSA09398,FIGHTING EX LAYER,01.21
 CUSA09399,デジモンストーリー サイバースルゥース ハッカーズメモリー,01.05
 CUSA09402,Hidden Dragon Legend,01.09
@@ -4727,7 +4727,7 @@ CUSA09535,ATV Drift & Tricks Definitive Edition,01.03
 CUSA09536,Minit,01.03
 CUSA09537,Secret of Mana,01.03
 CUSA09538,Ben 10,01.02
-CUSA09539,Rec Room,04.73
+CUSA09539,Rec Room,04.75
 CUSA09540,Out Of Ammo,01.02
 CUSA09541,Factotum 90,01.02
 CUSA09547,VRobot,01.01
@@ -4785,7 +4785,7 @@ CUSA09642,Little Witch Academia: Chamber of Time,01.02
 CUSA09643,RESIDENT EVIL 7 biohazard Gold Edition,01.06
 CUSA09644,ATV Drift & Tricks Definitive Edition,01.03
 CUSA09647,千の刃濤、桃花染の皇姫,01.01
-CUSA09648,Crossout,03.40
+CUSA09648,Crossout,03.43
 CUSA09649,サガ スカーレット グレイス 緋色の野望,01.01
 CUSA09650,千の刃濤、桃花染の皇姫 体験版,01.01
 CUSA09652,Cryptract,01.04
@@ -4799,6 +4799,7 @@ CUSA09663,Ashes Cricket,01.11
 CUSA09665,The Crew® 2,01.30
 CUSA09666,假面騎士 巔峰戰士／幪面超人 巔峰戰士,01.05
 CUSA09670,Vroom Kaboom,01.02
+CUSA09671,Mineko's Night Market,01.02
 CUSA09675,Slayaway Camp,01.01
 CUSA09678,蜡烛人,01.01
 CUSA09679,Hidden Agenda,01.11
@@ -5340,7 +5341,7 @@ CUSA10897,ゆらぎ荘の幽奈さん 湯けむり迷宮,01.02
 CUSA10898,Drone Striker,01.02
 CUSA10900,Kingdom: New Lands,01.01
 CUSA10901,Sprint Vector,01.32
-CUSA10904,Rento,01.02
+CUSA10904,Rento Fortune,01.04
 CUSA10905,Tour de France 2018,01.06
 CUSA10908,My Time at Portia,01.06
 CUSA10919,Insurgency: Sandstorm,01.01
@@ -5385,7 +5386,7 @@ CUSA11008,ARK Park,01.03
 CUSA11010,Racket Fury: Table Tennis VR,01.01
 CUSA11011,Xenon Valkyrie+,01.01
 CUSA11013,Arcade Archives MOON PATROL,01.01
-CUSA11018,Xenon Valkyrie+,01.01
+CUSA11018,Xenon Valkyrie+,01.02
 CUSA11020,Trickster VR,01.02
 CUSA11022,Decay of Logos,01.04
 CUSA11027,Frantics™,01.03
@@ -5459,7 +5460,7 @@ CUSA11182,Firewall Zero Hour™,01.83
 CUSA11183,Taiko no Tatsujin: Drum Session!,01.19
 CUSA11185,Happy Drummer VR,01.01
 CUSA11187,Shadow of the Tomb Raider,02.01
-CUSA11191,Rento,01.02
+CUSA11191,Rento Fortune,01.04
 CUSA11192,BLAZBLUE CROSS TAG BATTLE,02.11
 CUSA11193,Obduction,01.03
 CUSA11196,Salary Man Escape™,01.03
@@ -5468,7 +5469,7 @@ CUSA11201,LEFT ALIVE,01.03
 CUSA11202,Black Clover: Quartet Knights,01.30
 CUSA11205,ONE PIECE WORLD SEEKER,01.05
 CUSA11208,OLYMPIC GAMES TOKYO 2020™,01.08
-CUSA11210,MOBILE SUIT GUNDAM BATTLE OPERATION 2,01.72
+CUSA11210,MOBILE SUIT GUNDAM BATTLE OPERATION 2,01.73
 CUSA11215,Exorcist: LegionVR,01.07
 CUSA11216,ChromaGun,01.02
 CUSA11217,SINNER: Sacrifice for Redemption,01.01
@@ -5526,7 +5527,7 @@ CUSA11319,TROVE,01.21
 CUSA11320,AboKhashem,01.03
 CUSA11321,Silence,01.01
 CUSA11324,Splash Blast Panic,01.03
-CUSA11326,Idle Champions,02.80
+CUSA11326,Idle Champions,02.83
 CUSA11327,BRIKS 2,01.01
 CUSA11329,Nippon Marathon,01.02
 CUSA11330,Frutakia 2,01.04
@@ -5556,7 +5557,7 @@ CUSA11379,Mortal Kombat 11,01.30
 CUSA11385,Dracula's Legacy,01.01
 CUSA11386,ACA NEOGEO WAKU WAKU 7,01.01
 CUSA11387,Electronauts,01.11
-CUSA11388,Diablo IV,01.22
+CUSA11388,Diablo IV,01.26
 CUSA11392,Shape of the World,01.01
 CUSA11395,Mortal Kombat 11,01.30
 CUSA11401,Oh...Sir! The Hollywood Roast,01.02
@@ -5749,7 +5750,7 @@ CUSA11775,テイルズ オブ ヴェスペリア REMASTER,01.02
 CUSA11776,Skyworld,01.02
 CUSA11777,Dungeons 3,01.01
 CUSA11778,RollerCoaster Legends II: Thor's Hammer,01.01
-CUSA11782,Path of Exile,02.61
+CUSA11782,Path of Exile,02.63
 CUSA11783,CODE VEIN Trial Edition,01.01
 CUSA11784,GAL*GUNVOLT BURST,01.03
 CUSA11785,Assetto Corsa Ultimate Edition,01.22
@@ -5764,7 +5765,7 @@ CUSA11803,NextVR,01.05
 CUSA11804,Planet Alpha,01.01
 CUSA11805,Raging Justice,01.03
 CUSA11806,CODE VEIN Trial Edition,01.01
-CUSA11809,Tropico 6,20.02
+CUSA11809,Tropico 6,21.03
 CUSA11810,FIFA 19,01.17
 CUSA11811,Marble Duel,01.03
 CUSA11812,Nickelodeon Kart Racers,01.01
@@ -5820,7 +5821,7 @@ CUSA11915,Mugsters,01.01
 CUSA11916,Omen of Sorrow,02.00
 CUSA11917,PixelJunk™ Monsters 2,01.04
 CUSA11920,Mugsters,01.01
-CUSA11924,Path of Exile,02.61
+CUSA11924,Path of Exile,02.63
 CUSA11925,Rooms: The Unsolvable Puzzle,01.03
 CUSA11926,Timespinner,01.04
 CUSA11927,RollerCoaster Legends II: Thor's Hammer,01.02
@@ -5943,7 +5944,7 @@ CUSA12149,Castaway Paradise,01.01
 CUSA12152,DEAD OR ALIVE 6: Core Fighters,01.29
 CUSA12153,DEAD OR ALIVE 6,01.30
 CUSA12154,Fate/EXTELLA LINK,01.01
-CUSA12156,Riddled Corpses EX,01.01
+CUSA12156,Riddled Corpses EX,01.02
 CUSA12159,The Mooseman,01.01
 CUSA12161,Construction Simulator 2 US - Console Edition,01.01
 CUSA12164,Detached,01.03
@@ -5994,7 +5995,7 @@ CUSA12255,Gekido Kintaro's Revenge,01.02
 CUSA12257,Shenmue III,01.06
 CUSA12258,Toon War,01.01
 CUSA12259,I Hate Running Backwards,01.05
-CUSA12260,Generation Zero,01.40
+CUSA12260,Generation Zero,01.41
 CUSA12261,Bus Simulator,02.22
 CUSA12263,428 Shibuya Scramble,01.01
 CUSA12265,Fallout 76,01.81
@@ -6053,7 +6054,7 @@ CUSA12376,Fishing Sim World,01.30
 CUSA12377,Warface,02.08
 CUSA12378,Hungry Shark® World,01.01
 CUSA12388,Hungry Shark® World,01.01
-CUSA12389,CARAVAN STORIES,02.03
+CUSA12389,CARAVAN STORIES,02.05
 CUSA12390,DRAGON BALL XENOVERSE 2 Lite,01.30
 CUSA12391,魔界戰記 DISGAEA Refine,01.02
 CUSA12392,ASTRO BOT Rescue Mission,01.04
@@ -6117,7 +6118,7 @@ CUSA12488,Blacksea Odyssey,01.01
 CUSA12489,Salary Man Escape™,01.04
 CUSA12490,Dream Daddy,01.01
 CUSA12494,Fishing Sim World,01.30
-CUSA12495,Warface,02.70
+CUSA12495,Warface,02.72
 CUSA12496,Warface,01.04
 CUSA12497,RESIDENT EVIL 2,01.07
 CUSA12499,NARUTO TO BORUTO シノビストライカー βテストバージョン2,01.02
@@ -6137,15 +6138,15 @@ CUSA12530,Necromunda: Underhive Wars,01.10
 CUSA12536,Wartile,01.06
 CUSA12538,Animal Force,01.01
 CUSA12539,STAR WARS Jedi: Fallen Order™,01.12
-CUSA12540,Apex Legends,02.36
+CUSA12540,Apex Legends,02.39
 CUSA12542,Shenmue,01.03
 CUSA12543,Shenmue II,01.04
 CUSA12545,Little Dragons Café,01.02
 CUSA12546,EARTH DEFENSE FORCE 5,01.01
 CUSA12549,Just Dance® 2019,01.04
 CUSA12550,Unruly Heroes,01.02
-CUSA12552,Apex Legends,02.36
-CUSA12555,Dying Light 2: Stay Human,01.40
+CUSA12552,Apex Legends,02.39
+CUSA12555,Dying Light 2: Stay Human,01.41
 CUSA12562,Bloodstained: Curse of the Moon,01.01
 CUSA12563,Scribblenauts Mega Pack,01.01
 CUSA12564,The Surge 2,01.10
@@ -6155,7 +6156,7 @@ CUSA12571,SNK HEROINES Tag Team Frenzy,01.41
 CUSA12573,Honor and Duty: D-Day Beta,01.28
 CUSA12578,Jupiter and Mars,01.03
 CUSA12583,Zombie Army 4: Dead War,01.48
-CUSA12584,Dying Light 2: Stay Human,01.40
+CUSA12584,Dying Light 2: Stay Human,01.41
 CUSA12586,Vacation Simulator,01.07
 CUSA12588,Mecho Wars: Desert Ashes,01.03
 CUSA12590,BIOHAZARD RE:2 Z Version,01.07
@@ -6170,17 +6171,17 @@ CUSA12608,Waking Violet,01.02
 CUSA12611,Divinity: Original Sin 2 - Definitive Edition,01.15
 CUSA12612,DEATH STRANDING®,01.13
 CUSA12613,DEATH STRANDING™,01.13
-CUSA12615,Tom Clancy's The Division® 2,01.60
+CUSA12615,Tom Clancy's The Division® 2,01.61
 CUSA12620,Guns'n'Stories: Bulletproof VR,01.03
 CUSA12623,The Wizards,01.04
 CUSA12627,SEPARATION,01.03
-CUSA12630,Tom Clancy's The Division® 2,01.60
-CUSA12631,Tom Clancy's The Division® 2,01.60
-CUSA12632,Tom Clancy's The Division® 2,01.60
+CUSA12630,Tom Clancy's The Division® 2,01.61
+CUSA12631,Tom Clancy's The Division® 2,01.61
+CUSA12632,Tom Clancy's The Division® 2,01.61
 CUSA12633,Achtung Cthulhu Tactics,01.02
 CUSA12635,Just Cause 4,01.32
 CUSA12637,Achtung Cthulhu Tactics,01.02
-CUSA12639,Tom Clancy's The Division® 2,01.60
+CUSA12639,Tom Clancy's The Division® 2,01.61
 CUSA12641,WARRIORS OROCHI 4,01.09
 CUSA12643,Socketeer,01.02
 CUSA12646,Vacation Simulator,01.07
@@ -6276,13 +6277,13 @@ CUSA12874,Sea of memories,01.01
 CUSA12875,R.B.I. Baseball 19,01.03
 CUSA12876,PUNCHLINE,01.01
 CUSA12877,TerraTech,01.10
-CUSA12878,Beat Saber,01.77
+CUSA12878,Beat Saber,01.79
 CUSA12881,Bibi Blocksberg - Big Broom Race 3,01.01
 CUSA12884,Viking Days,01.05
 CUSA12885,Space Pirate Trainer,01.03
 CUSA12886,Cube Zone,01.01
 CUSA12889,KILL la KILL -IF-,01.07
-CUSA12894,Warface,02.70
+CUSA12894,Warface,02.72
 CUSA12895,RemiLore,01.03
 CUSA12900,Space Pirate Trainer,01.03
 CUSA12901,FAR: Lone Sails,01.03
@@ -6488,6 +6489,7 @@ CUSA13343,ひぐらしのなく頃に奉,02.01
 CUSA13346,DISSIDIA FINAL FANTASY NT Free Edition,01.27
 CUSA13347,魔法氣泡eSports,02.03
 CUSA13350,Haunted Dungeons：Hyakki Castle,01.01
+CUSA13353,Super Volley Blast,01.01
 CUSA13355,MLB® The Show™ 19,01.26
 CUSA13357,OLYMPIC GAMES TOKYO 2020™,01.02
 CUSA13361,花咲ワークスプリング！,01.01
@@ -6495,6 +6497,7 @@ CUSA13362,Battlewake,01.03
 CUSA13367,Asterix & Obelix XXL2,01.03
 CUSA13369,Mark of the Ninja: Remastered,01.02
 CUSA13372,Big Bash Boom,01.10
+CUSA13373,Super Volley Blast,01.01
 CUSA13374,Battlewake,01.03
 CUSA13377,STREET FIGHTER V TRIAL,01.12
 CUSA13379,Vane,01.03
@@ -6604,7 +6607,7 @@ CUSA13589,Pixel Ripped 1989,01.02
 CUSA13591,Youtubers Life,01.06
 CUSA13593,My Riding Stables - Life with Horses,01.01
 CUSA13594,Tetris® Effect: Connected,02.03
-CUSA13595,Warhammer: Vermintide 2,01.42
+CUSA13595,Warhammer: Vermintide 2,01.44
 CUSA13596,Rush VR,01.02
 CUSA13597,Kingdom Two Crowns,01.27
 CUSA13599,Truberbrook,01.03
@@ -6632,14 +6635,14 @@ CUSA13637,Bendy and the Ink Machine,01.03
 CUSA13638,In Death,01.06
 CUSA13639,In Death,01.06
 CUSA13643,Tetris® Effect: Connected,02.03
-CUSA13645,Warhammer: Vermintide 2,01.42
+CUSA13645,Warhammer: Vermintide 2,01.44
 CUSA13650,Mages of Mystralia,01.01
 CUSA13653,本格AI搭載 銀星麻雀,01.03
 CUSA13655,FIFA 19 ESPORTS,01.06
 CUSA13659,Skydrift Infinity,01.02
 CUSA13660,Skydrift Infinity,01.02
 CUSA13661,My Little Riding Champion,01.03
-CUSA13664,World of Warships: Legends,02.17
+CUSA13664,World of Warships: Legends,02.18
 CUSA13665,World of Warships: Legends,01.09
 CUSA13671,Heroes of Hammerwatch - Ultimate Edition,01.02
 CUSA13672,ACT IT OUT XL!,01.02
@@ -6648,7 +6651,7 @@ CUSA13675,Fast Striker,01.01
 CUSA13677,Fast Striker,01.01
 CUSA13685,ACT IT OUT XL!,01.02
 CUSA13686,ACA NEOGEO STRIKERS 1945 PLUS,01.01
-CUSA13687,World of Warships: Legends,02.17
+CUSA13687,World of Warships: Legends,02.18
 CUSA13689,The Outer Worlds,01.08
 CUSA13694,ACA NEOGEO THE KING OF FIGHTERS 2002,01.01
 CUSA13706,ACA NEOGEO STRIKERS 1945 PLUS,01.01
@@ -6755,7 +6758,7 @@ CUSA13915,蘿樂娜的鍊金工房 ～亞蘭德之鍊金術士～ DX,01.01
 CUSA13917,Far Cry® New Dawn,01.06
 CUSA13924,Touring Karts,01.10
 CUSA13926,Touring Karts,01.11
-CUSA13930,World War Z Aftermath,01.49
+CUSA13930,World War Z Aftermath,01.50
 CUSA13933,The Dark Pictures Anthology: Man of Medan,01.20
 CUSA13934,Wandersong,01.07
 CUSA13935,HELLFRONT: HONEYMOON,01.01
@@ -6812,7 +6815,7 @@ CUSA14040,탐정 진구지 사부로 PRISM OF EYES,01.02
 CUSA14041,PRO EVOLUTION SOCCER 2019 LITE,01.08
 CUSA14042,GRIP Official Soundtrack,01.01
 CUSA14043,Crow: The Legend,01.02
-CUSA14046,World War Z Aftermath,01.49
+CUSA14046,World War Z Aftermath,01.50
 CUSA14052,不思議の幻想郷 -ロータスラビリンス-,01.16
 CUSA14054,ONE PIECE WORLD SEEKER,01.05
 CUSA14060,Super Kickers League,01.07
@@ -6838,7 +6841,7 @@ CUSA14097,The Sojourn,01.01
 CUSA14099,Conarium,01.01
 CUSA14102,The Dark Pictures Anthology: Man of Medan,01.20
 CUSA14104,The Last Door - Complete Edition,01.04
-CUSA14106,CARAVAN STORIES,01.93
+CUSA14106,CARAVAN STORIES,01.95
 CUSA14110,Lapis x Labyrinth 深淵狂獵,01.01
 CUSA14111,Bit Dungeon Plus,01.01
 CUSA14112,Streets of Rogue,01.06
@@ -6854,7 +6857,7 @@ CUSA14130,BIOHAZARD RESISTANCE,01.11
 CUSA14133,スーパーロボット大戦T,01.04
 CUSA14134,スーパーロボット大戦T プレミアムアニメソング＆サウンドエディション,01.04
 CUSA14137,DISSIDIA FINAL FANTASY NT Free Edition,01.27
-CUSA14143,Beat Saber,01.77
+CUSA14143,Beat Saber,01.79
 CUSA14149,Squishies,01.03
 CUSA14150,HUMANITY,01.08
 CUSA14156,Ni no Kuni Wrath of the White Witch™ Remastered,01.02
@@ -6876,7 +6879,7 @@ CUSA14208,GreedFall,01.08
 CUSA14209,EA SPORTS™ UFC® 4,27.00
 CUSA14210,DISSIDIA FINAL FANTASY NT Free Edition,01.27
 CUSA14211,GreedFall,01.08
-CUSA14212,Generation Zero,01.40
+CUSA14212,Generation Zero,01.41
 CUSA14220,Massira,01.04
 CUSA14223,The Council,01.02
 CUSA14225,R-Type Dimensions EX,01.02
@@ -6906,13 +6909,13 @@ CUSA14283,Redout: Space Assault,01.01
 CUSA14287,Almost There: The Platformer,01.02
 CUSA14289,Cave Digger: Riches,01.11
 CUSA14290,The VideoKid,01.01
-CUSA14296,Rust,01.82
+CUSA14296,Rust,01.83
 CUSA14301,New Star Manager,01.21
 CUSA14303,Legrand Legacy Tale of the Fatebounds,01.06
 CUSA14304,Swimsanity!,03.15
 CUSA14305,AFFECTED: The Manor,01.01
-CUSA14307,Rust,01.82
-CUSA14315,Rust,01.82
+CUSA14307,Rust,01.83
+CUSA14315,Rust,01.83
 CUSA14320,かりぐらし恋愛,01.04
 CUSA14327,DISSIDIA FINAL FANTASY NT Free Edition,01.27
 CUSA14328,Ary and the Secret of Seasons,01.04
@@ -7036,8 +7039,8 @@ CUSA14603,Sky Go Beta,01.15
 CUSA14604,Fishing: Barents Sea,01.50
 CUSA14607,Amoeba Battle,01.03
 CUSA14611,セフィロティックストーリーズ,01.01
-CUSA14613,ドラゴンボールZ KAKAROT,02.00
-CUSA14614,七龍珠Z 卡卡洛特,02.00
+CUSA14613,ドラゴンボールZ KAKAROT,02.01
+CUSA14614,七龍珠Z 卡卡洛特,02.01
 CUSA14615,Fishing: Barents Sea,01.50
 CUSA14617,Crashbots,01.04
 CUSA14618,Everybody's Golf VR,01.02
@@ -7063,7 +7066,7 @@ CUSA14650,The Ascent,01.05
 CUSA14651,フルキス,01.03
 CUSA14652,メモリーズオフ -Innocent Fille- for Dearest,01.02
 CUSA14654,Panda Hero,01.01
-CUSA14655,DRAGON BALL Z: KAKAROT,02.00
+CUSA14655,DRAGON BALL Z: KAKAROT,02.01
 CUSA14656,Blazing Chrome,01.01
 CUSA14657,Dark Devotion,01.01
 CUSA14658,Jumanji: The Video Game,01.02
@@ -7113,10 +7116,10 @@ CUSA14826,RAGE2,01.09
 CUSA14827,RAGE2,01.09
 CUSA14829,Space Channel 5 VR Kinda Funky News Flash!,01.04
 CUSA14831,DEAD OR ALIVE Xtreme 3 Scarlet,01.07
-CUSA14832,World of Warships: Legends,02.19
+CUSA14832,World of Warships: Legends,02.20
 CUSA14833,凱薩琳FULL BODY,01.01
 CUSA14834,隊長小翼 新秀崛起,01.46
-CUSA14835,DRAGON BALL Z: KAKAROT,02.00
+CUSA14835,DRAGON BALL Z: KAKAROT,02.01
 CUSA14838,うたわれるもの斬 体験版,01.01
 CUSA14840,Omen of Sorrow Demo,01.02
 CUSA14841,Effie,01.03
@@ -7223,7 +7226,7 @@ CUSA15090,Need for Speed™ Heat,01.07
 CUSA15091,悪魔城ドラキュラ アニバーサリーコレクション,01.01
 CUSA15094,Deep Rock Galactic,01.42
 CUSA15095,KINGDOM HEARTS:VR Experience,01.02
-CUSA15097,CRSED,02.27
+CUSA15097,CRSED,02.28
 CUSA15099,DYSMANTLE,01.07
 CUSA15101,Castlevania Anniversary Collection,01.01
 CUSA15102,夢現Re:Master,01.02
@@ -7254,7 +7257,7 @@ CUSA15150,Crossovers by POWGI,01.01
 CUSA15155,エスプレイドΨ,01.04
 CUSA15161,Chronos,01.01
 CUSA15162,Toki,01.01
-CUSA15169,CRSED,02.27
+CUSA15169,CRSED,02.28
 CUSA15172,Frane: Dragons' Odyssey,01.01
 CUSA15174,Chronos,01.01
 CUSA15180,Arcade Classics Anniversary Collection,01.02
@@ -7282,7 +7285,7 @@ CUSA15225,The Incredible Adventures of Van Helsing III,01.03
 CUSA15230,ONINAKI,01.02
 CUSA15231,TheNightfall,01.01
 CUSA15232,Mountain Rescue Simulator,01.01
-CUSA15233,Black Desert,02.96
+CUSA15233,Black Desert,02.97
 CUSA15234,Espire 1: VR Operative,01.07
 CUSA15235,DELTARUNE Chapter 1&2,01.06
 CUSA15236,Peaky Blinders: Mastermind,01.02
@@ -7295,7 +7298,7 @@ CUSA15243,Zombieland: Double Tap - Road Trip,01.01
 CUSA15244,Street Outlaws The List,01.02
 CUSA15245,Death Road to Canada,01.05
 CUSA15247,Mosaic,01.02
-CUSA15249,Black Desert,02.96
+CUSA15249,Black Desert,02.97
 CUSA15250,DELTARUNE Chapter 1&2,01.06
 CUSA15251,Please Don't Touch Anything,01.01
 CUSA15252,Espire 1: VR Operative,01.07
@@ -7431,7 +7434,7 @@ CUSA15506,Travis Strikes Again: No More Heroes Complete Edition,01.02
 CUSA15507,Overpass,01.05
 CUSA15508,Rugby 20,01.06
 CUSA15509,Handball 21,01.04
-CUSA15510,DayZ,01.58
+CUSA15510,DayZ,01.59
 CUSA15511,Last Labyrinth,01.06
 CUSA15516,Etherborn,01.03
 CUSA15523,魂斗羅 アニバーサリーコレクション,01.01
@@ -7454,7 +7457,7 @@ CUSA15557,FIFA 20,01.25
 CUSA15558,Ghostbusters: The Video Game Remastered,01.06
 CUSA15559,FIFA 20,01.25
 CUSA15562,BQM,01.23
-CUSA15564,TERA,01.68
+CUSA15564,TERA,01.69
 CUSA15565,DOOM,01.09
 CUSA15566,DOOM 2,01.09
 CUSA15574,Golem Gates,01.02
@@ -7524,7 +7527,7 @@ CUSA15695,Days Gone ボーナスコンテンツ,01.03
 CUSA15696,イースIX -Monstrum NOX-,01.07
 CUSA15697,SAMURAI SHODOWN,02.42
 CUSA15698,Red Dead Redemption 2,01.13
-CUSA15700,World of Warships: Legends,02.34
+CUSA15700,World of Warships: Legends,02.35
 CUSA15705,Townsmen - A Kingdom Rebuilt,01.01
 CUSA15710,The Art of Blood & Truth,01.01
 CUSA15711,The Sound of Blood & Truth,01.01
@@ -7623,7 +7626,7 @@ CUSA15940,Attack On Titan 2 Demo,01.01
 CUSA15941,進撃の巨人２ 体験版,01.01
 CUSA15951,Legend of the Tetrarchs,01.01
 CUSA15952,メディーバル 甦ったガロメアの勇者,01.02
-CUSA15961,Lonely Mountains: Downhill,01.29
+CUSA15961,Lonely Mountains: Downhill,01.30
 CUSA15962,Curious Expedition,01.04
 CUSA15963,SAMURAI SHODOWN,02.42
 CUSA15970,ドカポンUP！ 夢幻のルーレット,01.04
@@ -7636,9 +7639,9 @@ CUSA15994,LoveR,01.01
 CUSA15995,Fury Unleashed,01.10
 CUSA16001,Tom Clancy’s Ghost Recon® Breakpoint,02.02
 CUSA16002,Tom Clancy’s Ghost Recon® Breakpoint,02.02
-CUSA16005,Lonely Mountains: Downhill,01.29
+CUSA16005,Lonely Mountains: Downhill,01.30
 CUSA16006,Curious Expedition,01.04
-CUSA16007,World of Warships: Legends,02.33
+CUSA16007,World of Warships: Legends,02.34
 CUSA16008,Spirit Hunter: NG,01.01
 CUSA16011,MediEvil Original Soundtrack,01.01
 CUSA16014,Utawarerumono: Prelude to the Fallen,01.01
@@ -7694,7 +7697,7 @@ CUSA16105,Project CARS 3,01.13
 CUSA16106,Rugby Challenge 4,02.04
 CUSA16111,DRAGON QUEST BUILDERS 2 DEMO,01.01
 CUSA16113,Bayonetta,01.01
-CUSA16114,MOBILE SUIT GUNDAM BATTLE OPERATION 2,01.72
+CUSA16114,MOBILE SUIT GUNDAM BATTLE OPERATION 2,01.73
 CUSA16117,True Fear: Forsaken Souls Part 2,01.05
 CUSA16120,LANGRISSERⅠ&Ⅱ,01.01
 CUSA16121,Flutter Bombs,01.03
@@ -7712,7 +7715,7 @@ CUSA16147,Vanquish,01.02
 CUSA16148,Yooka-Laylee and the Impossible Lair,01.04
 CUSA16150,NekoPara Vol.3,01.01
 CUSA16151,Ghost Parade,01.04
-CUSA16153,Risk Of Rain 2,01.08
+CUSA16153,Risk of Rain 2,01.09
 CUSA16154,一拳超人 無名英雄,01.40
 CUSA16155,The Surge 2,01.10
 CUSA16156,電脳戦機バーチャロン マスターピース 1995～2001,01.03
@@ -7722,7 +7725,7 @@ CUSA16160,HARDCORE MECHA,01.18
 CUSA16161,Vanquish,01.02
 CUSA16163,Bayonetta,01.01
 CUSA16164,Sniper Elite 5,01.29
-CUSA16169,Risk Of Rain 2,01.08
+CUSA16169,Risk of Rain 2,01.09
 CUSA16170,FINAL FANTASY VII REMAKE,01.02
 CUSA16171,MY HERO ONE'S JUSTICE 2,01.16
 CUSA16175,EA Play Hub,01.14
@@ -7732,7 +7735,7 @@ CUSA16178,Super Monkey Ball: Banana Blitz HD,01.03
 CUSA16182,Super Monkey Ball: Banana Blitz HD,01.03
 CUSA16183,EA Play Hub,01.14
 CUSA16186,ONE PUNCH MAN: A HERO NOBODY KNOWS,01.40
-CUSA16187,World War Z Aftermath,01.32
+CUSA16187,World War Z Aftermath,01.33
 CUSA16189,EA Play Hub,01.14
 CUSA16190,EA Play Hub,01.14
 CUSA16191,The Art of Blood & Truth,01.01
@@ -7743,7 +7746,7 @@ CUSA16199,MY HERO ONE'S JUSTICE 2,01.16
 CUSA16200,我的英雄學院 唯我正義 2,01.16
 CUSA16201,Lethal League Blaze,01.03
 CUSA16206,Marvel's Iron Man VR,01.07
-CUSA16209,Risk Of Rain 2,01.08
+CUSA16209,Risk of Rain 2,01.09
 CUSA16214,SuperMash,01.02
 CUSA16217,The Settlers®: New Allies,01.04
 CUSA16218,Cinders,01.01
@@ -7917,7 +7920,7 @@ CUSA16598,Whipseey and the Lost Atlas,01.03
 CUSA16599,Classic Snake Adventures,01.03
 CUSA16600,FIFA 20 BETA,01.01
 CUSA16603,Arcade Archives Yie Ar KUNG-FU,01.01
-CUSA16606,Brawlhalla,11.25
+CUSA16606,Brawlhalla,11.27
 CUSA16608,EarthNight,01.01
 CUSA16609,Whipseey and the Lost Atlas,01.03
 CUSA16613,Wands,01.07
@@ -8018,7 +8021,7 @@ CUSA16844,bayala - the game,01.01
 CUSA16846,UnderHero,01.04
 CUSA16847,The Curious Tale of the Stolen Pets,01.04
 CUSA16857,Reussir : Code de la route,01.04
-CUSA16858,MOBILE SUIT GUNDAM BATTLE OPERATION 2,01.72
+CUSA16858,MOBILE SUIT GUNDAM BATTLE OPERATION 2,01.73
 CUSA16859,FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition Lite,01.03
 CUSA16865,Werewolf: The Apocalypse - Earthblood,01.04
 CUSA16867,Return of the Obra Dinn,01.01
@@ -8050,7 +8053,7 @@ CUSA16965,Castle Costume,01.02
 CUSA16966,Eastshade,01.04
 CUSA16968,Disney Classic Games: Aladdin and The Lion King,01.08
 CUSA16969,Circuit Superstars,01.07
-CUSA16970,Chivalry 2,01.28
+CUSA16970,Chivalry 2,01.32
 CUSA16972,Ghost of Tsushima,02.18
 CUSA16973,うみねこのなく頃に咲 ～猫箱と夢想の交響曲～,01.03
 CUSA16974,黄金夢想曲†ＣＲＯＳＳ,01.01
@@ -8058,7 +8061,7 @@ CUSA16975,Disney Classic Games: Aladdin and The Lion King,01.08
 CUSA16977,NOS TV,01.04
 CUSA16978,Trials of Mana,01.11
 CUSA16981,Ghost of Tsushima,02.18
-CUSA16982,Chivalry 2,01.28
+CUSA16982,Chivalry 2,01.32
 CUSA16983,Asterix & Obelix XXL3,01.06
 CUSA16985,Throw Anything,01.03
 CUSA16990,Mafia II: Definitive Edition,01.02
@@ -8067,7 +8070,7 @@ CUSA16992,SIMULACRA,01.05
 CUSA16995,Newt One,01.04
 CUSA17000,Super Dodgeball Beats,01.01
 CUSA17001,TT Isle of Man - Ride on the Edge 2,01.03
-CUSA17004,GUILTY GEAR -STRIVE-,01.31
+CUSA17004,GUILTY GEAR -STRIVE-,01.32
 CUSA17005,MEGOGO - ТВ и Кино,02.02
 CUSA17021,Draugen,01.04
 CUSA17022,Wer weiß denn sowas? - Das 2. Spiel,01.03
@@ -8077,7 +8080,7 @@ CUSA17029,El Hijo,01.01
 CUSA17030,Freshly Frosted,01.03
 CUSA17031,TT Isle of Man - Ride on the Edge 2,01.03
 CUSA17033,Wreckfest,02.22
-CUSA17037,Idle Champions,02.44
+CUSA17037,Idle Champions,02.47
 CUSA17040,FAIRY TAIL,01.05
 CUSA17045,Sniper Elite V2 Remastered,01.01
 CUSA17047,D.C.4 ～ダ・カーポ4～,01.02
@@ -8093,8 +8096,8 @@ CUSA17075,ArtPulse,01.07
 CUSA17076,Immortal Legacy™: The Jade Cipher Console Edition,01.04
 CUSA17080,The Room VR,01.01
 CUSA17082,Daymare 1998,01.04
-CUSA17087,Tales of Arise,01.05
-CUSA17088,破曉傳奇,01.05
+CUSA17087,Tales of Arise,01.06
+CUSA17088,破曉傳奇,01.06
 CUSA17092,MISTOVER,01.09
 CUSA17093,HATSUNE MIKU VR,01.03
 CUSA17103,Deleveled,01.02
@@ -8142,7 +8145,7 @@ CUSA17187,Sky Q,01.06
 CUSA17190,Flutter Bombs,01.03
 CUSA17192,Minute of Islands,01.03
 CUSA17194,PandaBall DEMO,01.08
-CUSA17195,Tales of Arise,01.05
+CUSA17195,Tales of Arise,01.06
 CUSA17196,ONE PIECE: PIRATE WARRIORS 4,01.61
 CUSA17197,Granblue Fantasy: Versus,02.85
 CUSA17198,Orangeblood,01.06
@@ -8151,18 +8154,18 @@ CUSA17200,Call of Duty®: Modern Warfare® - Open Beta,01.02
 CUSA17201,Project Resistance,01.01
 CUSA17202,Ghost Parade,01.03
 CUSA17203,Atomicrops,01.15
-CUSA17204,Disney+,03.76
+CUSA17204,Disney+,03.78
 CUSA17206,Overland,01.04
 CUSA17208,FIFA 20 ESPORTS,01.05
 CUSA17210,スーパードッジボールビーツ,01.01
-CUSA17211,Disney+,03.76
+CUSA17211,Disney+,03.78
 CUSA17212,Mutant Year Zero: Road to Eden Deluxe Edition,01.01
 CUSA17214,MISTOVER Time Trial,01.01
 CUSA17217,Call of Duty®: Modern Warfare® - Open Beta,01.02
 CUSA17218,Call of Duty®: Modern Warfare® - 2v2 Alpha,01.01
 CUSA17219,FIFA 20 ESPORTS,01.05
 CUSA17221,Aces of the Multiverse,01.04
-CUSA17225,Tales of Arise,01.05
+CUSA17225,Tales of Arise,01.06
 CUSA17226,ONE PIECE: PIRATE WARRIORS 4,01.61
 CUSA17227,Those Who Remain,01.03
 CUSA17229,OLYMPIC GAMES TOKYO 2020™,01.02
@@ -8299,7 +8302,7 @@ CUSA17538,Relicta,01.11
 CUSA17540,Port Royale 4,01.14
 CUSA17544,女神異聞錄５ 皇家版,01.02
 CUSA17545,페르소나 5 더 로열,01.03
-CUSA17546,KNIVES OUT,01.86
+CUSA17546,KNIVES OUT,01.88
 CUSA17547,Granblue Fantasy: Versus,02.85
 CUSA17552,Jigsaw Zen,01.01
 CUSA17555,Mafia II: Definitive Edition,01.02
@@ -8315,7 +8318,7 @@ CUSA17581,Maitetsu:Pure Station,01.03
 CUSA17582,Gunlord X,01.01
 CUSA17584,FAIRY TAIL,01.05
 CUSA17587,Subnautica,01.21
-CUSA17588,Project Winter,01.24
+CUSA17588,Project Winter,01.26
 CUSA17589,妖怪ウォッチ4++,01.05
 CUSA17590,FAIRY TAIL,01.05
 CUSA17596,TRANSFORMERS: BATTLEGROUNDS,01.03
@@ -8352,11 +8355,11 @@ CUSA17656,神田川JET GIRLS デジタルサウンドトラック,01.01
 CUSA17659,Construction Simulator 3 - Console Edition,01.02
 CUSA17660,ROLLER CHAMPIONS,01.01
 CUSA17667,AeternoBlade II Demo,01.01
-CUSA17669,Golf With Your Friends,01.09
+CUSA17669,Golf With Your Friends,01.10
 CUSA17670,Moving Out,01.03
 CUSA17672,Valfaris,01.01
 CUSA17675,Moving Out,01.03
-CUSA17676,Golf With Your Friends,01.09
+CUSA17676,Golf With Your Friends,01.10
 CUSA17679,용과 같이7 빛과 어둠의 행방,01.12
 CUSA17680,人中之龍７　光與闇的去向,01.12
 CUSA17685,Audica,01.03
@@ -8505,9 +8508,9 @@ CUSA18016,Without Escape,01.01
 CUSA18017,Resident Evil Village,01.13
 CUSA18018,Romance of the Three Kingdoms XIV,01.22
 CUSA18023,BIOHAZARD VILLAGE,01.13
-CUSA18027,Trailmakers,01.11
+CUSA18027,Trailmakers,01.14
 CUSA18028,The Dark Pictures Anthology: Little Hope,01.12
-CUSA18032,Trailmakers,01.11
+CUSA18032,Trailmakers,01.14
 CUSA18034,Fairune Collection,01.01
 CUSA18045,Resident Evil Village,01.13
 CUSA18052,英雄伝説 零の軌跡：改,01.03
@@ -8555,7 +8558,7 @@ CUSA18144,GORN,01.01
 CUSA18145,My Friend Pedro - Blood Bullets Bananas,01.01
 CUSA18149,LANGRISSERⅠ&Ⅱ Demo,01.01
 CUSA18151,Space Crew,01.07
-CUSA18152,Stranded Deep,01.19
+CUSA18152,Stranded Deep,01.20
 CUSA18153,The Adventures of 00 Dilly®,01.03
 CUSA18158,EMMA: Lost in Memories,01.02
 CUSA18159,LANGRISSERⅠ&Ⅱ Demo,01.01
@@ -8576,10 +8579,10 @@ CUSA18189,Shadow Corridor,01.07
 CUSA18194,Ride 4,01.34
 CUSA18198,Star Wars Episode I: Racer,01.01
 CUSA18200,Warhammer Quest 2,01.01
-CUSA18201,HITMAN 3,01.18
+CUSA18201,HITMAN 3,01.20
 CUSA18207,Darwin Project,01.06
 CUSA18209,Winter Ember,01.03
-CUSA18210,HITMAN 3,01.18
+CUSA18210,HITMAN 3,01.20
 CUSA18211,Star Wars Episode I: Racer,01.01
 CUSA18220,DeMagneteVR,01.04
 CUSA18222,Winter Ember,01.03
@@ -8674,7 +8677,7 @@ CUSA18441,NASCAR Heat 5,01.19
 CUSA18442,Remnant: From the Ashes,01.08
 CUSA18443,NASCAR Heat 5,01.19
 CUSA18447,WillyJetman,01.01
-CUSA18449,Stranded Deep,01.20
+CUSA18449,Stranded Deep,01.21
 CUSA18452,Explosive Jake,01.02
 CUSA18458,HOMESTAR VR SPECIAL EDITION,01.04
 CUSA18459,BELOW,01.02
@@ -8684,7 +8687,7 @@ CUSA18462,Freedom Finger,01.03
 CUSA18465,Moons of Madness,01.02
 CUSA18468,BIOHAZARD VILLAGE Z Version,01.13
 CUSA18469,pixelBOT EXTREME!,01.01
-CUSA18470,Century:Age of Ashes,01.37
+CUSA18470,Century:Age of Ashes,01.39
 CUSA18471,NieR Replicant ver.1.22474487139...,01.03
 CUSA18473,BELOW,01.02
 CUSA18475,HOMESTAR VR SPECIAL EDITION,01.04
@@ -9019,7 +9022,7 @@ CUSA19199,Wheel of Fortune®,01.01
 CUSA19202,Valthirian Arc: Hero School Story DEMO,01.01
 CUSA19204,NO STRAIGHT ROADS,01.05
 CUSA19205,Roombo: First Blood,01.01
-CUSA19210,Guilty Gear -Strive-,01.31
+CUSA19210,Guilty Gear -Strive-,01.32
 CUSA19211,In Celebration of Violence,01.03
 CUSA19212,Blackwind,01.04
 CUSA19214,The Jackbox Party Pack 7,01.02
@@ -9210,7 +9213,7 @@ CUSA19604,Strawberry Vinegar,01.01
 CUSA19605,Warsaw,01.01
 CUSA19606,Little Big Workshop,01.08
 CUSA19607,Dreamworks Spirit Lucky's Big Adventure,01.03
-CUSA19608,Police Simulator: Patrol Officers,01.14
+CUSA19608,Police Simulator: Patrol Officers,01.16
 CUSA19609,Lost In Random™,01.01
 CUSA19610,13 Sentinels: Aegis Rim,01.02
 CUSA19611,Warsaw,01.01
@@ -9229,11 +9232,11 @@ CUSA19630,Legends of Ethernal,01.02
 CUSA19631,サムライフォース：斬！,01.03
 CUSA19632,Blue Fire,01.07
 CUSA19633,Battle Axe,01.01
-CUSA19634,Gearshifters™,01.02
+CUSA19634,Gearshifters™,01.03
 CUSA19635,Dreamworks Spirit Lucky's Big Adventure,01.03
 CUSA19636,EA SPORTS™ UFC® 4 Beta,01.01
 CUSA19637,The Legend of Heroes: Trails of Cold Steel IV,01.02
-CUSA19638,Police Simulator: Patrol Officers,01.14
+CUSA19638,Police Simulator: Patrol Officers,01.16
 CUSA19639,Nexomon: Extinction,02.01
 CUSA19643,Blaster Master Zero,01.01
 CUSA19644,Blaster Master Zero 2,01.04
@@ -9248,7 +9251,7 @@ CUSA20028,SnowRunner,01.43
 CUSA20029,Azure Reflections,01.01
 CUSA20030,Naught,02.02
 CUSA20034,The Legend of Heroes: Trails of Cold Steel IV,01.02
-CUSA20035,Gearshifters™,01.02
+CUSA20035,Gearshifters™,01.03
 CUSA20036,Blaster Master Zero,01.01
 CUSA20037,Blaster Master Zero 2,01.04
 CUSA20043,The Dungeon of Naheulbeuk: the Amulet of Chaos,01.06
@@ -9344,7 +9347,7 @@ CUSA20221,Chorus,01.07
 CUSA20227,Chorus,01.07
 CUSA20230,DEATHVERSE: LET IT DIE,01.26
 CUSA20231,Alchemist Adventure,01.10
-CUSA20232,BAD DREAMs EPISODE 1,01.34
+CUSA20232,BAD DREAMs EPISODE 1,01.35
 CUSA20236,Crisis Brigade 2 reloaded,01.15
 CUSA20239,Alex Kidd in Miracle World DX,01.04
 CUSA20240,TestGame,01.25
@@ -9378,7 +9381,7 @@ CUSA20305,MAD RAT DEAD,01.02
 CUSA20309,Assault On Metaltron,01.01
 CUSA20311,Praey For the Gods,01.13
 CUSA20315,BRIGANDINE The Legend of Runersia,01.15
-CUSA20317,CRSED,02.27
+CUSA20317,CRSED,02.28
 CUSA20325,Bless Unleashed,01.13
 CUSA20331,萊莎的鍊金工房２ ～失落傳說與秘密妖精～,01.08
 CUSA20334,MAD RAT DEAD,01.02
@@ -9386,14 +9389,14 @@ CUSA20338,Assault On Metaltron,01.01
 CUSA20342,Pile Up!,01.01
 CUSA20344,Raji: An Ancient Epic,01.02
 CUSA20345,Beyond Enemy Lines - Remastered Edition,01.03
-CUSA20346,Alvo,02.07
+CUSA20346,Alvo,02.08
 CUSA20349,東方憑依華　～ Antinomy of Common Flowers.,01.04
 CUSA20350,Mortal Blitz : Combat Arena,01.01
 CUSA20351,Alphaset by POWGI,01.01
 CUSA20354,ONE PIECE ODYSSEY,02.01
 CUSA20356,Mom Hid My Game!,01.01
 CUSA20360,Pile Up!,01.01
-CUSA20362,BAD DREAMs EPISODE 1,01.34
+CUSA20362,BAD DREAMs EPISODE 1,01.35
 CUSA20370,A HERO AND A GARDEN,01.02
 CUSA20373,Sniper Ghost Warrior Contracts 2,01.05
 CUSA20374,ONE PIECE ODYSSEY,02.01
@@ -9433,7 +9436,7 @@ CUSA20455,Micetopia,01.01
 CUSA20457,Foregone,01.03
 CUSA20458,Shantae and the Seven Sirens,01.04
 CUSA20459,Windbound,01.05
-CUSA20462,MX vs ATV Legends,02.07
+CUSA20462,MX vs ATV Legends,02.08
 CUSA20464,Tony Hawk's™ Pro Skater™ 1 + 2,01.10
 CUSA20465,Bless Unleashed,01.13
 CUSA20468,Family Mysteries: Poisonous Promises,01.01
@@ -9442,7 +9445,7 @@ CUSA20472,Morbid: The Seven Acolytes,01.05
 CUSA20479,Family Mysteries: Poisonous Promises,01.01
 CUSA20483,Streets of Rage 4,01.09
 CUSA20486,Orangeblood,01.06
-CUSA20487,Path of Titans,01.42
+CUSA20487,Path of Titans,01.46
 CUSA20488,Ride 4,01.34
 CUSA20489,Wunderling,01.02
 CUSA20491,Tony Hawk's™ Pro Skater™ 1 + 2,01.10
@@ -9463,7 +9466,7 @@ CUSA20537,Cake Bash,01.04
 CUSA20538,ASTRO AQUA KITTY,01.02
 CUSA20539,Song Of Horror,01.03
 CUSA20541,Nostos,01.01
-CUSA20545,Alvo,02.07
+CUSA20545,Alvo,02.08
 CUSA20547,OnTheRoad,01.13
 CUSA20549,Bite the Bullet,01.01
 CUSA20550,Bite the Bullet,01.01
@@ -9513,7 +9516,7 @@ CUSA20624,Gryphon Knight Epic: Definitive Edition,01.04
 CUSA20625,GORSD,01.01
 CUSA20626,Skate City,01.01
 CUSA20628,Electronic Super Joy 2,01.02
-CUSA20633,Elemental Knights R,02.18
+CUSA20633,Elemental Knights R,02.19
 CUSA20636,SPACE INVADERS FOREVER,01.01
 CUSA20639,The Eternal Castle [REMASTERED],01.05
 CUSA20640,SPACE INVADERS FOREVER,01.01
@@ -9549,8 +9552,8 @@ CUSA23061,GREEN,01.01
 CUSA23075,Broken Delusion,02.00
 CUSA23079,Untitled Goose Game,01.02
 CUSA23081,Untitled Goose Game,01.02
-CUSA23089,House Flipper,06.04
-CUSA23090,House Flipper,06.04
+CUSA23089,House Flipper,06.05
+CUSA23090,House Flipper,06.05
 CUSA23107,Dance Collider,01.02
 CUSA23108,Dance Collider,01.02
 CUSA23114,Mushroom Wars 2,01.03
@@ -9573,8 +9576,8 @@ CUSA23228,Supraland,01.03
 CUSA23229,Supraland,01.03
 CUSA23232,Wildfire,01.04
 CUSA23233,Wildfire,01.04
-CUSA23249,Battlefield™ 2042,01.44
-CUSA23250,Battlefield™ 2042,01.44
+CUSA23249,Battlefield™ 2042,01.45
+CUSA23250,Battlefield™ 2042,01.45
 CUSA23252,Moss: Book II,01.07
 CUSA23253,Moss: Book II,01.07
 CUSA23258,Bladed Fury,01.02
@@ -9618,8 +9621,8 @@ CUSA23402,Doom 3 VR,01.01
 CUSA23403,Doom 3 VR,01.01
 CUSA23412,Exp Parasite,01.02
 CUSA23413,Exp Parasite,01.01
-CUSA23440,Swordsman VR,01.82
-CUSA23441,Swordsman VR,01.82
+CUSA23440,Swordsman VR,01.83
+CUSA23441,Swordsman VR,01.83
 CUSA23443,Aragami 2,01.10
 CUSA23444,Aragami 2,01.10
 CUSA23445,Tennis World Tour 2,01.13
@@ -9690,7 +9693,7 @@ CUSA23655,moon,01.01
 CUSA23656,moon,01.01
 CUSA23660,Brain Beats,01.01
 CUSA23661,Brain Beats,01.01
-CUSA23662,Path of Titans,01.42
+CUSA23662,Path of Titans,01.46
 CUSA23663,Game Dev Story,01.01
 CUSA23664,Game Dev Story,01.01
 CUSA23666,Hot Springs Story,01.01
@@ -9701,14 +9704,14 @@ CUSA23674,Dungeon Village,01.01
 CUSA23675,The Manga Works,01.01
 CUSA23676,The Manga Works,01.01
 CUSA23677,AKIBA'S TRIP: Hellbound & Debriefed,01.03
-CUSA23678,Genshin Impact,04.11
-CUSA23681,Genshin Impact,04.11
+CUSA23678,Genshin Impact,04.20
+CUSA23681,Genshin Impact,04.20
 CUSA23682,Tin & Kuna,01.01
 CUSA23692,BREAK ARTS II,01.02
 CUSA23693,Dustoff Z,01.01
 CUSA23739,Monster Harvest,01.05
 CUSA23740,Monster Harvest,01.05
-CUSA23744,GUNDAM EVOLUTION,06.00
+CUSA23744,GUNDAM EVOLUTION,07.00
 CUSA23749,Who Wants to Be a Millionaire?,01.04
 CUSA23750,Who Wants to Be a Millionaire?,01.04
 CUSA23752,Space Crew,01.02
@@ -9735,7 +9738,7 @@ CUSA23819,Exoprimal,01.20
 CUSA23820,RESEARCH and DESTROY,01.04
 CUSA23823,MXGP 2020 - The Official Motocross Videogame,01.06
 CUSA23824,MXGP 2020 - The Official Motocross Videogame,01.06
-CUSA23827,Call of Duty®,01.29
+CUSA23827,Call of Duty®: Modern Warfare III,01.32
 CUSA23830,Exoprimal,01.20
 CUSA23831,Exoprimal,01.20
 CUSA23836,My Universe - Pet Clinic Cats & Dogs,01.03
@@ -9743,7 +9746,7 @@ CUSA23838,My Universe - Pet Clinic Cats & Dogs,01.03
 CUSA23839,Olija,01.02
 CUSA23840,Olija,01.02
 CUSA23841,CHRONO CROSS: THE RADICAL DREAMERS EDITION,01.02
-CUSA23843,信長の野望・新生,01.11
+CUSA23843,信長の野望・新生,01.12
 CUSA23852,ANNO: Mutationem,05.03
 CUSA23853,ANNO: Mutationem,05.03
 CUSA23878,Sniper Ghost Warrior Contracts 2,01.05
@@ -9771,7 +9774,7 @@ CUSA23936,Ikenfell,01.03
 CUSA23937,Ikenfell,01.03
 CUSA23943,Super Monkey Ball Banana Mania,01.04
 CUSA23944,Super Monkey Ball Banana Mania,01.04
-CUSA23946,Genshin Impact,04.11
+CUSA23946,Genshin Impact,04.20
 CUSA23959,Fishing Sim World: Bass Pro Shops Edition,01.01
 CUSA23960,Fishing Sim World: Bass Pro Shops Edition,01.01
 CUSA23968,Red Rope,01.04
@@ -9850,7 +9853,7 @@ CUSA24156,Arcade Archives LIGHTNING FIGHTERS,01.01
 CUSA24169,Ghostrunner,01.14
 CUSA24170,Ghostrunner,01.14
 CUSA24171,Deleveled,01.02
-CUSA24172,Five Nights at Freddy's: Security Breach,01.14
+CUSA24172,Five Nights at Freddy's: Security Breach,01.15
 CUSA24173,Wardogs - Red's Return,01.01
 CUSA24174,Wardogs - Red's Return,01.01
 CUSA24175,坦克戰記 異傳：重生,01.02
@@ -9872,7 +9875,7 @@ CUSA24214,Shovel Knight Pocket Dungeon,01.03
 CUSA24215,Vader Immortal: Episode 1,01.01
 CUSA24216,Cyber Shadow,01.04
 CUSA24217,Cyber Shadow,01.04
-CUSA24224,Clone Drone in the Danger Zone,01.14
+CUSA24224,Clone Drone in the Danger Zone,01.15
 CUSA24225,Outbreak Epidemic,01.01
 CUSA24227,Outbreak Lost Hope,01.01
 CUSA24232,The True,01.01
@@ -9967,7 +9970,7 @@ CUSA24594,Quake,01.08
 CUSA24600,Mortal Shell,01.07
 CUSA24601,Endling,01.03
 CUSA24603,RIDERS REPUBLIC™,01.21
-CUSA24605,Two Point Campus,01.27
+CUSA24605,Two Point Campus,01.28
 CUSA24606,A Tale Of Paper,01.03
 CUSA24607,The Crown of Wu,01.07
 CUSA24608,Windfolk,01.01
@@ -9981,9 +9984,9 @@ CUSA24622,9th Dawn III,01.70
 CUSA24625,Call of Duty®: Black Ops Cold War,01.41
 CUSA24626,Override 2: Super Mech League,01.06
 CUSA24627,Override 2: Super Mech League,01.06
-CUSA24628,Wild Park Manager,01.02
-CUSA24629,Wild Park Manager,01.02
-CUSA24630,Wild Park Manager,01.02
+CUSA24628,Wild Park Manager,01.03
+CUSA24629,Wild Park Manager,01.03
+CUSA24630,Wild Park Manager,01.03
 CUSA24643,Drunken Fist,01.01
 CUSA24644,Drunken Fist,01.01
 CUSA24645,Drunken Fist,01.01
@@ -9991,12 +9994,12 @@ CUSA24646,Drunken Fist,01.01
 CUSA24652,Alan Wake Remastered,01.05
 CUSA24653,Alan Wake Remastered,01.05
 CUSA24657,Empire of Sin,01.07
-CUSA24658,遊戯王 マスターデュエル,01.14
-CUSA24659,Yu-Gi-Oh! Master Duel,01.14
-CUSA24660,Yu-Gi-Oh! Master Duel,01.14
+CUSA24658,遊戯王 マスターデュエル,01.17
+CUSA24659,Yu-Gi-Oh! Master Duel,01.17
+CUSA24660,Yu-Gi-Oh! Master Duel,01.17
 CUSA24668,Iris.Fall,01.01
 CUSA24669,Bladed Fury,01.02
-CUSA24697,Gearshifters™,01.02
+CUSA24697,Gearshifters™,01.03
 CUSA24702,ことばのパズル もじぴったんアンコール,01.02
 CUSA24703,Warhammer Age of Sigmar: Storm Ground,01.07
 CUSA24704,Warhammer Age of Sigmar: Storm Ground,01.07
@@ -10018,16 +10021,16 @@ CUSA24758,Light Tracer 2,01.01
 CUSA24762,Arcade Archives EARTH DEFENSE FORCE,01.03
 CUSA24763,Arcade Archives EARTH DEFENSE FORCE,01.01
 CUSA24764,Arcade Archives EARTH DEFENSE FORCE,01.01
-CUSA24765,グランツーリスモ® 7,01.39
-CUSA24767,Gran Turismo™ 7,01.39
-CUSA24769,Gran Turismo® 7,01.39
-CUSA24771,Gran Turismo® 7,01.39
+CUSA24765,グランツーリスモ® 7,01.40
+CUSA24767,Gran Turismo™ 7,01.40
+CUSA24769,Gran Turismo® 7,01.40
+CUSA24771,Gran Turismo® 7,01.40
 CUSA24775,Good Dog, Bad Dog,01.06
 CUSA24779,Voice of Cards: The Isle Dragon Roars Demo,01.01
 CUSA24780,Yupitergrad,01.05
 CUSA24781,Yupitergrad,01.05
-CUSA24785,HITMAN 3,01.18
-CUSA24786,HITMAN 3,01.18
+CUSA24785,HITMAN 3,01.20
+CUSA24786,HITMAN 3,01.20
 CUSA24788,The Wonderful 101: Remastered Wonder-Size Cadet Demo,01.01
 CUSA24789,The Wonderful 101: Remastered Wonder-Size Cadet Demo,01.01
 CUSA24790,The Wonderful 101: Remastered Wonder-Size Cadet Demo,01.01
@@ -10094,7 +10097,7 @@ CUSA24963,二角取りゲーム NIKAKUdori,01.01
 CUSA24964,Batbarian: Testament of the Primordials,01.04
 CUSA24965,Batbarian: Testament of the Primordials,01.04
 CUSA24966,Batbarian: Testament of the Primordials,01.04
-CUSA24967,Fuga: Melodies of Steel,01.52
+CUSA24967,Fuga: Melodies of Steel,01.53
 CUSA24968,Kamen Rider 英雄尋憶 DIGITAL ART COLLECTION,01.01
 CUSA24975,AutoChess,01.82
 CUSA24977,Mine My Mind,01.03
@@ -10127,7 +10130,7 @@ CUSA25044,Foregone,01.03
 CUSA25047,四川麻將 NIKAKUdori,01.01
 CUSA25054,Redout: Space Assault,01.01
 CUSA25055,Neighbours back From Hell,01.02
-CUSA25057,Shotgun Farmers,01.24
+CUSA25057,Shotgun Farmers,01.25
 CUSA25058,Habroxia 2,01.12
 CUSA25059,Habroxia 2,01.13
 CUSA25060,The Addams Family: Mansion Mayhem,01.01
@@ -10174,8 +10177,8 @@ CUSA25157,Puzzle Bobble 3D: Vacation Odyssey,01.06
 CUSA25158,金色ラブリッチェ-GOLDEN TIME-,01.02
 CUSA25162,メモリーズオフ ゆびきりの記憶,01.01
 CUSA25163,メモリーズオフ6～T-wave～,01.01
-CUSA25164,Secret Neighbor,01.08
-CUSA25165,Secret Neighbor,01.08
+CUSA25164,Secret Neighbor,01.09
+CUSA25165,Secret Neighbor,01.09
 CUSA25167,メモリーズオフ2nd,01.01
 CUSA25168,想い出にかわる君～メモリーズオフ～,01.01
 CUSA25169,メモリーズオフ～それから～,01.02
@@ -10234,7 +10237,7 @@ CUSA25309,VirtuaVerse,01.06
 CUSA25317,Stride,01.01
 CUSA25318,Layers of Fear VR,01.01
 CUSA25319,Layers of Fear VR,01.01
-CUSA25325,Guilty Gear -Strive-,01.31
+CUSA25325,Guilty Gear -Strive-,01.32
 CUSA25327,Gravity Heroes,01.03
 CUSA25328,Gravity Heroes,01.04
 CUSA25335,BLUE REFLECTION: Second Light,01.07
@@ -10248,7 +10251,7 @@ CUSA25347,Crystal Ortha,01.01
 CUSA25350,Oddworld: Soulstorm Enhanced Edition,01.20
 CUSA25353,Planetary Defense Force,01.03
 CUSA25355,Cooking Mama: Cookstar,01.02
-CUSA25359,Farming Simulator 22,01.23
+CUSA25359,Farming Simulator 22,01.26
 CUSA25360,Laid-Back Camp - Virtual - Lake Motosu,01.01
 CUSA25361,Laid-Back Camp - Virtual - Fumoto Campsite,01.01
 CUSA25365,She Sees Red,01.01
@@ -10316,7 +10319,7 @@ CUSA25501,Arcade Archives The Fairyland Story,01.01
 CUSA25502,HOT WHEELS UNLEASHED™,01.20
 CUSA25503,HOT WHEELS UNLEASHED™,01.20
 CUSA25504,Syzygy: The Power of the Eclipse,01.02
-CUSA25512,GUILTY GEAR -STRIVE-,01.31
+CUSA25512,GUILTY GEAR -STRIVE-,01.32
 CUSA25517,Leisure Suit Larry - Wet Dreams Dry Twice,01.01
 CUSA25518,Leisure Suit Larry - Wet Dreams Dry Twice,01.01
 CUSA25533,ミスタードリラーアンコール,01.02
@@ -10365,15 +10368,15 @@ CUSA25614,Hotel Transylvania Scary-Tale Adventures,01.01
 CUSA25615,Hotel Transylvania Scary-Tale Adventures,01.01
 CUSA25619,Misk Schools Quest,01.02
 CUSA25620,Misk Schools Quest,01.02
-CUSA25622,MX vs ATV Legends,02.07
+CUSA25622,MX vs ATV Legends,02.08
 CUSA25627,eFootball ウイニングイレブン 2021 LITE,01.05
 CUSA25628,eFootball PES 2021 LITE,01.04
 CUSA25629,eFootball PES 2021 LITE,01.04
 CUSA25630,eFootball PES 2021 LITE,01.04
 CUSA25634,AI: ソムニウムファイル ニルヴァーナイニシアチブ,01.02
 CUSA25635,Paint the Town Red,01.04
-CUSA25640,Elemental Knights R,02.18
-CUSA25641,Elemental Knights R,02.18
+CUSA25640,Elemental Knights R,02.19
+CUSA25641,Elemental Knights R,02.19
 CUSA25642,Doctor Who: The Edge of Reality,01.09
 CUSA25651,Metal: Hellsinger,01.02
 CUSA25652,Metal: Hellsinger,01.02
@@ -10431,9 +10434,9 @@ CUSA25803,Exodemon,01.01
 CUSA25804,Exodemon,01.01
 CUSA25805,Matchpoint - Tennis Championships,01.03
 CUSA25806,Matchpoint - Tennis Championships,01.03
-CUSA25807,Farming Simulator 22,01.23
-CUSA25808,Farming Simulator 22,01.23
-CUSA25809,Farming Simulator 22,01.23
+CUSA25807,Farming Simulator 22,01.26
+CUSA25808,Farming Simulator 22,01.25
+CUSA25809,Farming Simulator 22,01.26
 CUSA25810,Roundout by POWGI,01.01
 CUSA25811,Roundout by POWGI,01.01
 CUSA25815,Boxed In,02.15
@@ -10505,7 +10508,7 @@ CUSA25968,Asdivine Cross,01.01
 CUSA25970,Astalon: Tears Of The Earth,01.04
 CUSA25971,Astalon: Tears Of The Earth,01.04
 CUSA25972,Astalon: Tears Of The Earth,01.05
-CUSA25973,エターナル,01.52
+CUSA25973,エターナル,01.54
 CUSA25976,My Hidden Things,01.01
 CUSA25977,DUNGEON ENCOUNTERS,01.01
 CUSA25978,DUNGEON ENCOUNTERS,01.01
@@ -10615,7 +10618,7 @@ CUSA26189,Katana Kata,01.01
 CUSA26200,LOOP8（ループエイト）,01.03
 CUSA26202,Another Dawn,01.01
 CUSA26203,Another Dawn,01.01
-CUSA26204,ENDLESS™ Dungeon,01.01
+CUSA26204,ENDLESS™ Dungeon,01.03
 CUSA26205,Lumote: The Mastermote Chronicles,01.03
 CUSA26208,Mia's Picnic,01.01
 CUSA26209,Unto The End,01.01
@@ -10673,14 +10676,14 @@ CUSA26332,Blair Witch VR,01.01
 CUSA26333,Blair Witch VR,01.01
 CUSA26342,Splitgate,01.33
 CUSA26343,サムライフォース：斬！,01.02
-CUSA26347,Green Hell,01.11
+CUSA26347,Green Hell,01.13
 CUSA26354,Heavy Burger,01.02
 CUSA26357,Shadow Warrior 3,01.13
 CUSA26358,Shadow Warrior 3,01.13
 CUSA26370,New Joe & Mac: Caveman Ninja,01.03
 CUSA26371,New Joe & Mac: Caveman Ninja,01.03
-CUSA26372,Horse Tales - Emerald Valley Ranch,01.04
-CUSA26373,Horse Tales - Emerald Valley Ranch,01.04
+CUSA26372,Horse Tales - Emerald Valley Ranch,01.05
+CUSA26373,Horse Tales - Emerald Valley Ranch,01.05
 CUSA26375,NEO : The World Ends with You,01.03
 CUSA26376,NEO : The World Ends with You,01.03
 CUSA26377,NEO : The World Ends with You,01.03
@@ -10739,15 +10742,15 @@ CUSA26542,Reverie Knights Tactics,01.01
 CUSA26543,Farm For Your Life,01.40
 CUSA26544,Farm For Your Life,01.40
 CUSA26545,Reverie Knights Tactics,01.01
-CUSA26546,Green Hell,01.11
+CUSA26546,Green Hell,01.13
 CUSA26563,ALTDEUS: Beyond Chronos,01.04
 CUSA26564,ALTDEUS: Beyond Chronos,01.04
 CUSA26571,THE CREW™ MOTORFEST,01.04
 CUSA26572,THE CREW™ MOTORFEST,01.04
 CUSA26573,THE CREW™ MOTORFEST,01.04
 CUSA26576,Mr. DRILLER DrillLand,01.02
-CUSA26579,SMITE PTS,11.98
-CUSA26580,SMITE PTS,11.98
+CUSA26579,SMITE PTS,11.99
+CUSA26580,SMITE PTS,11.99
 CUSA26584,The Dark Pictures Anthology: House Of Ashes,01.07
 CUSA26591,Disco Elysium,01.22
 CUSA26596,Windjammers 2 Open Beta,01.01
@@ -10805,15 +10808,15 @@ CUSA26664,Infinite Tanks WWII,01.01
 CUSA26665,Infinite Tanks WWII,01.01
 CUSA26670,The Smurfs Mission Vileaf,01.04
 CUSA26671,The Smurfs Mission Vileaf,01.04
-CUSA26679,Bleach: Brave Souls,01.44
-CUSA26680,Bleach: Brave Souls,01.44
+CUSA26679,Bleach: Brave Souls,01.45
+CUSA26680,Bleach: Brave Souls,01.45
 CUSA26690,Dungeon Escape,01.01
 CUSA26691,Dungeon Escape,01.01
 CUSA26692,Dungeon Escape,01.01
 CUSA26693,Dungeon Escape,01.01
 CUSA26694,ハッピーダンガンロンパＳ 超高校級の南国サイコロ合宿,01.01
 CUSA26696,Song in the Smoke,01.07
-CUSA26697,Bleach: Brave Souls,01.44
+CUSA26697,Bleach: Brave Souls,01.45
 CUSA26701,Devious,01.05
 CUSA26704,Fishing: North Atlantic,01.13
 CUSA26706,Danganronpa S: Ultimate Summer Camp,01.01
@@ -10826,10 +10829,10 @@ CUSA26734,Biomutant,02.09
 CUSA26743,Star Wars Jedi Knight: Jedi Academy,01.01
 CUSA26748,Star Wars: Republic Commando,01.02
 CUSA26752,Persona4 The ULTIMAX ULTRA SUPLEX HOLD,01.03
-CUSA26753,僕のヒーローアカデミア ULTRA RUMBLE,01.02
-CUSA26754,MY HERO ULTRA RUMBLE,01.02
+CUSA26753,僕のヒーローアカデミア ULTRA RUMBLE,01.03
+CUSA26754,MY HERO ULTRA RUMBLE,01.03
 CUSA26761,MilkChoco,01.01
-CUSA26768,Shotgun Farmers,01.24
+CUSA26768,Shotgun Farmers,01.25
 CUSA26769,Breathedge,01.02
 CUSA26770,Breathedge,01.02
 CUSA26778,神獄塔斷罪瑪麗Finale,01.04
@@ -10910,8 +10913,8 @@ CUSA26936,The Skylia Prophecy,01.03
 CUSA26941,myCANAL,01.03
 CUSA26944,The Forgotten City,01.04
 CUSA26945,The Forgotten City,01.04
-CUSA26950,Chicory: A Colorful Tale,01.05
-CUSA26951,Chicory: A Colorful Tale,01.05
+CUSA26950,Chicory: A Colorful Tale,01.06
+CUSA26951,Chicory: A Colorful Tale,01.06
 CUSA26956,Sir Lovelot,01.02
 CUSA26957,Sir Lovelot,01.02
 CUSA26967,Tunic,01.02
@@ -10941,7 +10944,7 @@ CUSA27016,The Dark Pictures Anthology: House Of Ashes,01.08
 CUSA27020,Papa’s Quiz,05.00
 CUSA27021,Alwa's Legacy,01.03
 CUSA27022,Alwa's Legacy,01.03
-CUSA27030,Ghostbusters: Spirits Unleashed Ecto Edition,01.21
+CUSA27030,Ghostbusters: Spirits Unleashed Ecto Edition,01.22
 CUSA27033,PlayStation Plus Video Pass,01.05
 CUSA27037,Trigger Witch,01.02
 CUSA27038,Trigger Witch,01.04
@@ -10949,7 +10952,7 @@ CUSA27039,Trigger Witch,01.02
 CUSA27040,Trigger Witch,01.02
 CUSA27041,Arcade Archives SWIMMER,01.01
 CUSA27042,Arcade Archives SWIMMER,01.01
-CUSA27043,Dead Island 2,01.06
+CUSA27043,Dead Island 2,01.07
 CUSA27050,Escape First 2,01.07
 CUSA27051,Escape First 2,01.07
 CUSA27053,Loremlpsum33,04.02
@@ -10995,7 +10998,7 @@ CUSA27132,Arcade Archives SABOTEN BOMBERS,01.01
 CUSA27137,Star Wars™ Pinball VR,01.04
 CUSA27138,Star Wars™ Pinball VR,01.04
 CUSA27139,LOREMIPSUM36,05.09
-CUSA27140,Space Engineers,01.19
+CUSA27140,Space Engineers,01.22
 CUSA27144,SRX: The Game,01.09
 CUSA27145,Psychonauts 2,01.09
 CUSA27146,Psychonauts 2,01.09
@@ -11027,7 +11030,7 @@ CUSA27212,The Eternal Castle [REMASTERED],01.03
 CUSA27213,NOTE : a Composer and a Note,01.01
 CUSA27214,Observer: System Redux,01.03
 CUSA27215,MotoGP™21,01.11
-CUSA27221,Space Engineers,01.19
+CUSA27221,Space Engineers,01.22
 CUSA27222,Tails Noir,01.03
 CUSA27223,Tails Noir,01.03
 CUSA27232,Labyrinth of Zangetsu,01.03
@@ -11068,9 +11071,9 @@ CUSA27312,Baldo The guardian owls,01.20
 CUSA27313,NINJA GAIDEN: Master Collection Digital Art Book & Soundtrack,01.01
 CUSA27314,NINJA GAIDEN: Master Collection Digital Art Book & Soundtrack,01.01
 CUSA27317,少女首領の推理領域 -黄金島の密約,01.01
-CUSA27319,Jurassic World Evolution 2,01.26
+CUSA27319,Jurassic World Evolution 2,01.27
 CUSA27320,Voice of Cards: The Isle Dragon Roars,01.03
-CUSA27321,Jurassic World Evolution 2,01.26
+CUSA27321,Jurassic World Evolution 2,01.27
 CUSA27322,Silt,01.03
 CUSA27323,Silt,01.03
 CUSA27325,Operation Tango,01.08
@@ -11227,7 +11230,7 @@ CUSA27737,Dodgeball Academia,01.04
 CUSA27738,Dodgeball Academia,01.04
 CUSA27746,デモンゲイズ エクストラ,01.05
 CUSA27747,神様のような君へ,01.01
-CUSA27749,Clone Drone in the Danger Zone,01.14
+CUSA27749,Clone Drone in the Danger Zone,01.15
 CUSA27750,Two Point Hospital,01.02
 CUSA27766,Flynn: Son of Crimson,01.10
 CUSA27767,Flynn: Son of Crimson,01.10
@@ -11251,6 +11254,8 @@ CUSA27803,Winds and Leaves,01.07
 CUSA27811,Anna's Quest,01.02
 CUSA27816,Marsupilami Hoobadventure,01.02
 CUSA27817,Marsupilami Hoobadventure,01.02
+CUSA27818,Astral Ascent,01.01
+CUSA27819,Astral Ascent,01.01
 CUSA27822,MELTY BLOOD ARCHIVES,01.02
 CUSA27823,MELTY BLOOD ARCHIVES,01.02
 CUSA27824,MELTY BLOOD ARCHIVES,01.02
@@ -11270,7 +11275,7 @@ CUSA27862,Space Revenge,01.02
 CUSA27863,Space Revenge,01.02
 CUSA27871,Hidden Treasures in the Forest of Dreams,01.09
 CUSA27876,AWAY: The Survival Series,01.10
-CUSA27883,Two Point Campus,01.27
+CUSA27883,Two Point Campus,01.28
 CUSA27884,Ryan's Rescue Squad,01.01
 CUSA27885,Ryan's Rescue Squad,01.01
 CUSA27890,Wanderer,01.15
@@ -11293,12 +11298,12 @@ CUSA27916,art of rally,01.03
 CUSA27918,Rune Factory 4 Special,01.06
 CUSA27919,Epic Chef,01.04
 CUSA27920,Epic Chef,01.04
-CUSA27942,MY HERO ULTRA RUMBLE,01.02
+CUSA27942,MY HERO ULTRA RUMBLE,01.03
 CUSA27943,LEAP,01.05
 CUSA27944,LEAP,01.05
 CUSA27945,Dandy Ace,01.01
-CUSA27946,MY HERO ULTRA RUMBLE,01.02
-CUSA27951,Fuga: Melodies of Steel,01.52
+CUSA27946,MY HERO ULTRA RUMBLE,01.03
+CUSA27951,Fuga: Melodies of Steel,01.53
 CUSA27952,MOBILE SUIT GUNDAM BATTLE OPERATION Code Fairy,01.03
 CUSA27956,Arcade Archives DARWIN 4078,01.01
 CUSA27957,Arcade Archives DARWIN 4078,01.01
@@ -11329,10 +11334,10 @@ CUSA28021,Ponpu,01.01
 CUSA28022,Ponpu,01.01
 CUSA28023,Dustwind - The Last Resort,01.03
 CUSA28024,Arashi: Castles of Sin,01.04
-CUSA28031,The Tomorrow Children: Phoenix Edition,01.37
-CUSA28032,The Tomorrow Children: Phoenix Edition,01.37
-CUSA28033,The Tomorrow Children: Phoenix Edition,01.37
-CUSA28034,The Tomorrow Children: Phoenix Edition,01.37
+CUSA28031,The Tomorrow Children: Phoenix Edition,01.38
+CUSA28032,The Tomorrow Children: Phoenix Edition,01.38
+CUSA28033,The Tomorrow Children: Phoenix Edition,01.38
+CUSA28034,The Tomorrow Children: Phoenix Edition,01.38
 CUSA28035,Omno,01.02
 CUSA28036,Chernobylite,01.11
 CUSA28037,Chernobylite,01.11
@@ -11362,6 +11367,8 @@ CUSA28101,Kitaria Fables,01.05
 CUSA28102,Windlands 2,01.03
 CUSA28104,Horizon Forbidden West Digital Deluxe Content,01.01
 CUSA28107,Star+,01.43
+CUSA28108,Nour: Play With Your Food,01.02
+CUSA28109,Nour: Play With Your Food,01.02
 CUSA28118,Aragami 2,01.06
 CUSA28119,REDO!,01.01
 CUSA28120,REDO!,01.01
@@ -11414,8 +11421,8 @@ CUSA28232,Arcade Archives SEA FIGHTER POSEIDON,01.02
 CUSA28233,Arcade Archives SEA FIGHTER POSEIDON,01.02
 CUSA28234,NBA 2K22,01.14
 CUSA28235,NBA 2K22,01.14
-CUSA28239,MechWarrior 5: Mercenaries,01.10
-CUSA28240,MechWarrior 5: Mercenaries,01.10
+CUSA28239,MechWarrior 5: Mercenaries,01.11
+CUSA28240,MechWarrior 5: Mercenaries,01.11
 CUSA28242,LifeOfFly2,01.01
 CUSA28243,LifeOfFly2,01.01
 CUSA28244,DeMagneteVR,01.03
@@ -11460,7 +11467,7 @@ CUSA28327,Mainframe Defenders,01.01
 CUSA28328,Mainframe Defenders,01.01
 CUSA28329,Galaxy Squad,01.01
 CUSA28330,Galaxy Squad,01.01
-CUSA28332,Star+ Beta,01.53
+CUSA28332,Star+ Beta,01.55
 CUSA28333,Tetris® Effect: Connected BETA TEST,01.07
 CUSA28334,Tetris® Effect: Connected BETA TEST,01.07
 CUSA28335,Tetris® Effect: Connected BETA TEST,01.07
@@ -11502,8 +11509,8 @@ CUSA28418,Cotton Boomerang Saturn Tribute,01.02
 CUSA28419,Guardian Force Saturn Tribute,01.02
 CUSA28426,Life is Strange: True Colors™,01.01
 CUSA28430,Paint the Town Red,01.03
-CUSA28431,HITMAN 3,01.18
-CUSA28432,HITMAN 3,01.18
+CUSA28431,HITMAN 3,01.20
+CUSA28432,HITMAN 3,01.20
 CUSA28433,Beyond a Steel Sky,01.01
 CUSA28436,Beyond a Steel Sky,01.01
 CUSA28441,Dragon Break Classic Head to Head,01.01
@@ -11517,7 +11524,7 @@ CUSA28456,F1® 2021,01.18
 CUSA28461,CrisTales,01.04
 CUSA28465,Tails of Iron,01.02
 CUSA28469,Tails of Iron,01.02
-CUSA28474,Project Winter,01.24
+CUSA28474,Project Winter,01.26
 CUSA28492,Star Hunter DX,01.02
 CUSA28494,Star Hunter DX,01.02
 CUSA28495,Star Hunter DX,01.02
@@ -11564,8 +11571,8 @@ CUSA28588,Faraday Protocol,01.02
 CUSA28589,Faraday Protocol,01.01
 CUSA28593,Gelly Break Deluxe,01.01
 CUSA28594,Gelly Break Deluxe,01.01
-CUSA28595,Rubber Bandits,01.27
-CUSA28596,Rubber Bandits,01.27
+CUSA28595,Rubber Bandits,01.28
+CUSA28596,Rubber Bandits,01.28
 CUSA28597,MONARK,01.01
 CUSA28598,MONARK,01.01
 CUSA28599,Knight Squad 2,01.01
@@ -11580,7 +11587,7 @@ CUSA28612,Shadowrun: Hong Kong - Extended Edition,01.03
 CUSA28613,Shadowrun: Hong Kong - Extended Edition,01.03
 CUSA28614,Shadowrun Returns,01.03
 CUSA28615,Shadowrun Returns,01.03
-CUSA28617,Dying Light 2: Stay Human,01.40
+CUSA28617,Dying Light 2: Stay Human,01.41
 CUSA28618,METAL MAX Xeno Reborn,01.01
 CUSA28619,METAL MAX Xeno Reborn,01.01
 CUSA28622,Diablo® II: Resurrected™ Beta,01.02
@@ -11627,7 +11634,7 @@ CUSA28724,奇々怪界 黒マントの謎,01.03
 CUSA28725,SpellForce III Reforced,01.02
 CUSA28726,SpellForce III Reforced,01.02
 CUSA28727,Void Source,01.02
-CUSA28743,Dying Light 2: Stay Human,01.40
+CUSA28743,Dying Light 2: Stay Human,01.41
 CUSA28747,エイリアン：ファイアーチーム エリート,01.38
 CUSA28751,Spelunker HD Deluxe,01.03
 CUSA28753,Bassmaster Fishing 2022 Closed Alpha,01.04
@@ -11658,8 +11665,8 @@ CUSA28815,PAC-MAN MUSEUM+,01.05
 CUSA28829,Call of Duty®: Vanguard Alpha,01.02
 CUSA28830,Call of Duty®: Vanguard Public Beta,01.02
 CUSA28832,那由多之軌跡：改,01.04
-CUSA28833,ドラゴンボール ザ ブレイカーズ,01.10
-CUSA28834,七龍珠 破界鬥士,01.10
+CUSA28833,ドラゴンボール ザ ブレイカーズ,01.12
+CUSA28834,七龍珠 破界鬥士,01.12
 CUSA28837,Solitaire Tripeaks Flowers,01.01
 CUSA28838,The Last Show of Mr. Chardish,01.01
 CUSA28839,The Last Show of Mr. Chardish,01.01
@@ -11700,9 +11707,9 @@ CUSA28923,Pathfinder: Wrath Of The Righteous,01.03
 CUSA28928,Riders Republic Trial Week,01.02
 CUSA28929,Riders Republic Trial Week,01.02
 CUSA28930,Riders Republic Trial Week,01.02
-CUSA28931,Rust Console Edition - Public Test Branch,01.40
-CUSA28932,Rust Console Edition - Public Test Branch,01.40
-CUSA28933,Rust Console Edition - Public Test Branch,01.40
+CUSA28931,Rust Console Edition - Public Test Branch,01.42
+CUSA28932,Rust Console Edition - Public Test Branch,01.42
+CUSA28933,Rust Console Edition - Public Test Branch,01.42
 CUSA28934,The Legend of Heroes: Trails from Zero,01.01
 CUSA28935,The Legend of Heroes: Trails from Zero,01.01
 CUSA28936,Pocky & Rocky Reshrined,01.01
@@ -11754,8 +11761,8 @@ CUSA29063,Arcade Archives SOLDAM,01.01
 CUSA29064,Arcade Archives SOLDAM,01.01
 CUSA29065,Arcade Archives SOLDAM,01.01
 CUSA29066,屍喰らいの冒険メシ,01.22
-CUSA29068,Wild Card Football,01.11
-CUSA29069,Wild Card Football,01.11
+CUSA29068,Wild Card Football,01.14
+CUSA29069,Wild Card Football,01.14
 CUSA29072,Young Souls,01.03
 CUSA29073,Young Souls,01.03
 CUSA29075,Zenith,01.33
@@ -11802,7 +11809,7 @@ CUSA29200,Tormented Souls Release,01.05
 CUSA29204,Matchpoint - Tennis Championships,01.02
 CUSA29209,The Hand of Merlin,01.02
 CUSA29210,The Hand of Merlin,01.02
-CUSA29213,DRAGON BALL: THE BREAKERS,01.10
+CUSA29213,DRAGON BALL: THE BREAKERS,01.12
 CUSA29214,Tales of Symphonia Remastered,01.01
 CUSA29215,Fuga: Melodies of Steel - Deluxe Edition App,01.10
 CUSA29216,Fuga: Melodies of Steel - Deluxe Edition App,01.10
@@ -11814,10 +11821,10 @@ CUSA29228,AFFECTED: The Manor - Complete Edition,01.03
 CUSA29229,AFFECTED: The Manor - Complete Edition,01.02
 CUSA29234,Dakar Desert Rally,01.09
 CUSA29235,Dakar Desert Rally,01.09
-CUSA29236,Fall Guys,01.28
-CUSA29237,Fall Guys,01.28
+CUSA29236,Fall Guys,01.29
+CUSA29237,Fall Guys,01.29
 CUSA29240,アサツグトリ,01.01
-CUSA29241,DRAGON BALL: THE BREAKERS,01.10
+CUSA29241,DRAGON BALL: THE BREAKERS,01.12
 CUSA29242,Gloom And Doom,01.03
 CUSA29248,Teenage Mutant Ninja Turtles: The Cowabunga Collection,01.04
 CUSA29249,Teenage Mutant Ninja Turtles: The Cowabunga Collection,01.04
@@ -11855,9 +11862,9 @@ CUSA29331,The Ascent,01.05
 CUSA29334,Disciples: Liberation,01.03
 CUSA29337,Orcs Must Die! 3,02.04
 CUSA29339,スターメロディー ユメミドリーマー,01.02
-CUSA29340,Enlisted,02.34
-CUSA29341,Enlisted,02.34
-CUSA29342,Enlisted,02.34
+CUSA29340,Enlisted,02.36
+CUSA29341,Enlisted,02.36
+CUSA29342,Enlisted,02.36
 CUSA29346,Axiom Verge 2,01.03
 CUSA29347,Axiom Verge 2,01.03
 CUSA29357,My Universe - Puppies and Kittens,01.04
@@ -11873,7 +11880,7 @@ CUSA29387,Red Ronin,01.01
 CUSA29388,Red Ronin,01.01
 CUSA29390,41 Hours,01.01
 CUSA29391,41 Hours,01.01
-CUSA29398,Gearshifters™,01.01
+CUSA29398,Gearshifters™,01.02
 CUSA29399,Crisis Wing,01.02
 CUSA29400,Crisis Wing,01.02
 CUSA29401,Crisis Wing,01.02
@@ -11933,7 +11940,7 @@ CUSA29518,WayDown,01.03
 CUSA29521,WayDown,01.03
 CUSA29531,Spirit Roots,01.02
 CUSA29532,Spirit Roots,01.02
-CUSA29533,Five Nights at Freddy's: Security Breach,01.14
+CUSA29533,Five Nights at Freddy's: Security Breach,01.15
 CUSA29535,Blind Postman,01.01
 CUSA29536,Blind Postman,01.01
 CUSA29537,Wind Peaks,01.01
@@ -11995,7 +12002,7 @@ CUSA29673,Airport Simulator: Day & Night,01.01
 CUSA29674,Bus Driver Simulator: Countryside,01.02
 CUSA29675,Bus Driver Simulator: Countryside,01.01
 CUSA29676,Bus Driver Simulator: Countryside,01.02
-CUSA29678,MX vs ATV Legends,02.07
+CUSA29678,MX vs ATV Legends,02.08
 CUSA29699,Zombie Hill Racing,01.01
 CUSA29719,Moorhuhn Xtreme,01.01
 CUSA29720,Moorhuhn Xtreme,01.01
@@ -12047,7 +12054,7 @@ CUSA29806,Fury of Dracula,01.02
 CUSA29807,Tears of Avia,01.02
 CUSA29808,Lawn Mowing Simulator,01.04
 CUSA29809,Lawn Mowing Simulator,01.04
-CUSA29813,Phantasy Star Online 2 New Genesis,08.10
+CUSA29813,Phantasy Star Online 2 New Genesis,08.11
 CUSA29819,Touhou Genso Wanderer -Lotus Labyrinth R-,01.01
 CUSA29820,Touhou Genso Wanderer -Lotus Labyrinth R-,01.01
 CUSA29821,Touhou Genso Wanderer -Lotus Labyrinth R-,01.01
@@ -12121,10 +12128,10 @@ CUSA30032,My Universe - Green Adventure: Farmer Friends,01.01
 CUSA30033,My Universe - Green Adventure: Farmer Friends,01.01
 CUSA30039,Super Bullet Break,01.03
 CUSA30050,Zenith,01.33
-CUSA30051,GigaBash,01.17
-CUSA30052,GigaBash,01.17
-CUSA30053,GigaBash,01.17
-CUSA30054,GigaBash,01.17
+CUSA30051,GigaBash,01.24
+CUSA30052,GigaBash,01.24
+CUSA30053,GigaBash,01.24
+CUSA30054,GigaBash,01.24
 CUSA30056,SaGa SCARLET GRACE: AMBITIONS,01.01
 CUSA30065,Elevator Action Returns S-Tribute,01.03
 CUSA30067,Elevator Action Returns S-Tribute,01.03
@@ -12204,8 +12211,8 @@ CUSA30301,Krut The Mythic Wings,01.03
 CUSA30304,魔眼凝望EXTRA,01.04
 CUSA30305,DEMON GAZE EXTRA,01.04
 CUSA30306,DEMON GAZE EXTRA,01.04
-CUSA30312,Autobahn Police Simulator 3,01.21
-CUSA30313,Autobahn Police Simulator 3,01.21
+CUSA30312,Autobahn Police Simulator 3,01.22
+CUSA30313,Autobahn Police Simulator 3,01.22
 CUSA30318,Before We Leave,01.03
 CUSA30319,Before We Leave,01.03
 CUSA30320,20 Bunnies,01.01
@@ -12260,17 +12267,17 @@ CUSA30430,A YEAR OF SPRINGS,01.02
 CUSA30431,A YEAR OF SPRINGS,01.01
 CUSA30436,ATOM RPG,01.01
 CUSA30437,Black Widow: Recharged,01.04
-CUSA30446,Sonic Origins,02.01
-CUSA30448,Sonic Origins,02.01
-CUSA30449,Sonic Origins,02.01
+CUSA30446,Sonic Origins,02.02
+CUSA30448,Sonic Origins,02.02
+CUSA30449,Sonic Origins,02.02
 CUSA30452,Absolute Tactics: Daughters of Mercy,01.01
 CUSA30460,Lord of the Click II,01.01
 CUSA30461,Lord of the Click II,01.01
 CUSA30465,Fury Unleashed,01.01
 CUSA30466,The Legend of Tianding,01.02
 CUSA30467,Justice Chronicles,01.01
-CUSA30472,Isonzo,01.30
-CUSA30473,Isonzo,01.30
+CUSA30472,Isonzo,01.32
+CUSA30473,Isonzo,01.32
 CUSA30476,QUByte Classics - The Immortal by PIKO,01.01
 CUSA30477,QUByte Classics - The Immortal by PIKO,01.01
 CUSA30483,グロー：ソング・オブ・エバーツリー,01.06
@@ -12313,12 +12320,12 @@ CUSA30582,SpongeBob SquarePants: The Cosmic Shake,01.06
 CUSA30583,SpongeBob SquarePants: The Cosmic Shake,01.06
 CUSA30584,The Stanley Parable: Ultra Deluxe,01.05
 CUSA30589,The Last Stand: Aftermath,01.04
-CUSA30598,Stranded: Alien Dawn,01.06
-CUSA30599,Stranded: Alien Dawn,01.06
+CUSA30598,Stranded: Alien Dawn,01.07
+CUSA30599,Stranded: Alien Dawn,01.07
 CUSA30600,Halloween Candy Break 2,01.01
 CUSA30601,Halloween Candy Break 2,01.01
-CUSA30608,KartRider: Drift,01.17
-CUSA30610,KartRider: Drift,01.17
+CUSA30608,KartRider: Drift,01.18
+CUSA30610,KartRider: Drift,01.18
 CUSA30617,Arsonist Heaven,01.01
 CUSA30618,Arsonist Heaven,01.01
 CUSA30619,Arsonist Heaven,01.01
@@ -12403,7 +12410,7 @@ CUSA30888,Road 96,01.01
 CUSA30889,Road 96,01.01
 CUSA30890,Kao the Kangaroo,01.05
 CUSA30891,Kao the Kangaroo,01.05
-CUSA30916,NBA,01.15
+CUSA30916,NBA,02.00
 CUSA30917,Lucky's Tale VR,01.02
 CUSA30918,Lucky's Tale VR,01.02
 CUSA30926,PowerSlave Exhumed,01.04
@@ -12427,7 +12434,7 @@ CUSA30965,Arcade Archives TRIO THE PUNCH,01.01
 CUSA30966,THE KING OF FIGHTERS XV 体験版(オープンβテスト),01.07
 CUSA30967,THE KING OF FIGHTERS XV DEMO (Open Beta),01.07
 CUSA30968,THE KING OF FIGHTERS XV DEMO (Open Beta),01.07
-CUSA30979,Little Witch Nobeta,01.10
+CUSA30979,Little Witch Nobeta,01.12
 CUSA30982,超次元ゲイム ネプテューヌ Sisters vs Sisters,01.06
 CUSA30983,Puzzling Places,01.26
 CUSA30984,Best Month Ever,01.02
@@ -12435,8 +12442,8 @@ CUSA30985,Best Month Ever,01.02
 CUSA30990,Relayer,01.10
 CUSA30991,Teenage Mutant Ninja Turtles: Shredder's Revenge,01.08
 CUSA30992,Teenage Mutant Ninja Turtles: Shredder's Revenge,01.08
-CUSA30993,Infernax,01.04
-CUSA30994,Infernax,01.04
+CUSA30993,Infernax,01.05
+CUSA30994,Infernax,01.05
 CUSA31001,ELEX II,01.05
 CUSA31002,The Savior's Gang,01.01
 CUSA31004,The Centennial Case: A Shijima Story,01.04
@@ -12464,13 +12471,13 @@ CUSA31067,Life in Willowdale: Farm Adventures,01.04
 CUSA31068,Life in Willowdale: Farm Adventures,01.02
 CUSA31069,Life in Willowdale: Farm Adventures,01.03
 CUSA31093,Puzzling Places,01.26
-CUSA31094,Aeterna Noctis,01.05
+CUSA31094,Aeterna Noctis,01.07
 CUSA31117,SD GUNDAM BATTLE ALLIANCE Demo Version,01.01
 CUSA31118,SD GUNDAM 激鬥同盟 體驗版,01.01
 CUSA31119,SD GUNDAM BATTLE ALLIANCE Demo Version,01.01
 CUSA31120,SD GUNDAM BATTLE ALLIANCE Demo Version,01.01
-CUSA31151,Meet Your Maker,01.19
-CUSA31152,Meet Your Maker,01.19
+CUSA31151,Meet Your Maker,01.22
+CUSA31152,Meet Your Maker,01.22
 CUSA31155,Wytchwood,01.02
 CUSA31156,Wytchwood,01.03
 CUSA31157,Super Bout: Champion's Tour Beta,01.07
@@ -12585,10 +12592,10 @@ CUSA31491,We Are OFK,01.05
 CUSA31492,We Are OFK,01.05
 CUSA31495,The Dark Pictures Anthology: The Devil in Me,01.07
 CUSA31496,The Dark Pictures Anthology: The Devil in Me,01.07
-CUSA31497,Street Fighter 6,01.05
-CUSA31498,Street Fighter 6,01.05
-CUSA31499,Street Fighter 6,01.05
-CUSA31500,Street Fighter 6,01.05
+CUSA31497,Street Fighter 6,01.06
+CUSA31498,Street Fighter 6,01.06
+CUSA31499,Street Fighter 6,01.06
+CUSA31500,Street Fighter 6,01.06
 CUSA31505,DNF DUEL Open β,01.01
 CUSA31506,DNF DUEL Open β,01.01
 CUSA31507,DNF DUEL Open β,01.01
@@ -12599,7 +12606,7 @@ CUSA31523,Almost My Floor,01.01
 CUSA31524,Almost My Floor,01.01
 CUSA31525,Tip Top,01.01
 CUSA31526,Tip Top,01.01
-CUSA31531,Sky: Children of the Light,01.16
+CUSA31531,Sky: Children of the Light,01.18
 CUSA31542,WAIFU IMPACT,01.02
 CUSA31543,WAIFU IMPACT,01.02
 CUSA31547,The Game of Life 2,01.03
@@ -12653,7 +12660,7 @@ CUSA31683,Ghostwire: Tokyo - Prelude Corrupted Case File,01.02
 CUSA31684,Little Noah: Scion of Paradise,01.40
 CUSA31685,アンビションレコード,01.02
 CUSA31691,LISA: The Painful - Definitive Edition,01.05
-CUSA31692,LISA: The Painful - Definitive Edition,01.04
+CUSA31692,LISA: The Painful - Definitive Edition,01.05
 CUSA31695,CONV/RGENCE: A League of Legends Story™,01.01
 CUSA31696,CONV/RGENCE: A League of Legends Story™,01.01
 CUSA31697,CONV/RGENCE: A League of Legends Story™,01.01
@@ -12687,7 +12694,7 @@ CUSA31756,Arcade Archives WONDER MOMO,01.02
 CUSA31757,Arcade Archives WONDER MOMO,01.02
 CUSA31758,Arcade Archives WONDER MOMO,01.02
 CUSA31759,Sword of Elpisia,01.01
-CUSA31764,The Expanse: A Telltale Series,01.03
+CUSA31764,The Expanse: A Telltale Series,01.04
 CUSA31766,Gear.Club Unlimited 2 Ultimate Edition,01.01
 CUSA31772,Christmas Run,01.01
 CUSA31773,Christmas Run,01.01
@@ -12708,7 +12715,7 @@ CUSA31820,The Quarry,01.07
 CUSA31821,The Quarry,01.07
 CUSA31822,Destropolis,01.01
 CUSA31823,Destropolis,01.01
-CUSA31824,The Expanse: A Telltale Series,01.03
+CUSA31824,The Expanse: A Telltale Series,01.04
 CUSA31828,Gas Station Simulator,01.01
 CUSA31829,Gas Station Simulator,01.01
 CUSA31830,Flippin Kaktus,01.02
@@ -12732,7 +12739,7 @@ CUSA31885,STORY OF SEASONS: Pioneers of Olive Town,01.01
 CUSA31890,Arcade Archives EMPIRE CITY: 1931,01.02
 CUSA31891,Arcade Archives EMPIRE CITY: 1931,01.02
 CUSA31892,Arcade Archives EMPIRE CITY: 1931,01.02
-CUSA31902,Sky: Children of the Light,01.16
+CUSA31902,Sky: Children of the Light,01.18
 CUSA31905,Ice Hockey - Breakthrough Gaming Arcade,01.01
 CUSA31906,Ice Hockey - Breakthrough Gaming Arcade,01.01
 CUSA31909,Softball - Breakthrough Gaming Arcade,01.01
@@ -12768,9 +12775,9 @@ CUSA32008,みんなのＧＯＬＦ,01.04
 CUSA32009,Wild Arms,01.05
 CUSA32010,Wild Arms,01.05
 CUSA32011,ワイルドアームズ,01.05
-CUSA32012,Kurushi Final: Mental Blocks,01.01
-CUSA32013,Kurushi Final: Mental Blocks,01.01
-CUSA32014,I.Q Final,01.01
+CUSA32012,Kurushi Final: Mental Blocks,01.02
+CUSA32013,Kurushi Final: Mental Blocks,01.02
+CUSA32014,I.Q Final,01.02
 CUSA32015,I.Q Intelligent Qube,01.04
 CUSA32016,Kurushi,01.04
 CUSA32017,Jumping Flash!,01.04
@@ -12787,9 +12794,9 @@ CUSA32038,They Always Run,01.02
 CUSA32039,The Lord of the Rings: Gollum™,01.05
 CUSA32040,The Many Pieces of Mr.Coo,01.12
 CUSA32041,The Many Pieces of Mr.Coo,01.12
-CUSA32042,Infernax,01.04
-CUSA32043,Eternal Kingdom Battle Peak,01.52
-CUSA32044,Eternal Kingdom Battle Peak,01.52
+CUSA32042,Infernax,01.05
+CUSA32043,Eternal Kingdom Battle Peak,01.54
+CUSA32044,Eternal Kingdom Battle Peak,01.54
 CUSA32049,Humankind,01.02
 CUSA32050,Humankind,01.02
 CUSA32051,Tchia,01.13
@@ -12816,6 +12823,8 @@ CUSA32094,Trifox,01.02
 CUSA32095,Trifox,01.02
 CUSA32096,Arcade Spirits: The New Challengers,01.05
 CUSA32097,Arcade Spirits: The New Challengers,01.05
+CUSA32104,Jumanji Wild Adventures,01.01
+CUSA32105,Jumanji Wild Adventures,01.01
 CUSA32106,英雄傳說 黎之軌跡 體驗版,01.02
 CUSA32107,영웅전설 여의 궤적 체험판,01.02
 CUSA32115,Road Maintenance Simulator,01.02
@@ -12840,8 +12849,8 @@ CUSA32173,Like a Dragon: Ishin!,01.05
 CUSA32174,Like a Dragon: Ishin!,01.05
 CUSA32175,FallOfPorcupine,01.05
 CUSA32176,FallOfPorcupine,01.05
-CUSA32177,Railway Empire 2,01.07
-CUSA32178,Railway Empire 2,01.07
+CUSA32177,Railway Empire 2,01.08
+CUSA32178,Railway Empire 2,01.08
 CUSA32179,Fall of Porcupine Prologue,01.03
 CUSA32180,Fall of Porcupine Prologue,01.02
 CUSA32182,No More Heroes 3,01.02
@@ -12853,6 +12862,8 @@ CUSA32193,Ambition Record,01.02
 CUSA32194,Ambition Record,01.01
 CUSA32196,Tour de France 2022,01.05
 CUSA32197,Fueled Up,01.04
+CUSA32201,SteamWorld Build,01.03
+CUSA32202,SteamWorld Build,01.02
 CUSA32204,Godlike Burger,01.02
 CUSA32205,Godlike Burger,01.02
 CUSA32206,Operation Wolf Returns: First Mission,01.04
@@ -12867,15 +12878,15 @@ CUSA32221,Garbage Pail Kids: Mad Mike and the Quest for Stale Gum,01.02
 CUSA32222,Garbage Pail Kids: Mad Mike and the Quest for Stale Gum,01.02
 CUSA32226,Zorro The Chronicles,01.01
 CUSA32227,Zorro The Chronicles,01.01
-CUSA32228,Session: Skate Sim,01.10
-CUSA32229,Session: Skate Sim,01.10
-CUSA32236,Aeterna Noctis,01.05
+CUSA32228,Session: Skate Sim,01.11
+CUSA32229,Session: Skate Sim,01.11
+CUSA32236,Aeterna Noctis,01.07
 CUSA32240,Commandos 3 - HD Remaster,01.02
 CUSA32245,ヴァルキリープロファイル −レナス−,01.01
 CUSA32246,VALKYRIE PROFILE: LENNETH,01.01
 CUSA32247,VALKYRIE PROFILE: LENNETH,01.01
-CUSA32251,Fuga: Melodies of Steel - Demo,01.12
-CUSA32252,Fuga: Melodies of Steel - Demo,01.12
+CUSA32251,Fuga: Melodies of Steel - Demo,01.13
+CUSA32252,Fuga: Melodies of Steel - Demo,01.13
 CUSA32253,DEADCRAFT -Demo Version-,01.01
 CUSA32255,Super Arcade Racing,01.01
 CUSA32256,Super Arcade Racing,01.01
@@ -12907,8 +12918,8 @@ CUSA32299,The Chick C,01.01
 CUSA32300,The Chick C,01.01
 CUSA32301,Ikai,01.02
 CUSA32302,Ikai,01.02
-CUSA32304,Dusk,01.06
-CUSA32306,Dusk,01.01
+CUSA32304,Dusk,01.07
+CUSA32306,Dusk,01.02
 CUSA32309,フェアリーフェンサー エフ Refrain Chord,01.05
 CUSA32312,Labyrinth of Galleria: The Moon Society,01.02
 CUSA32313,Labyrinth of Galleria: The Moon Society,01.02
@@ -12927,7 +12938,9 @@ CUSA32334,Princess Farmer,01.03
 CUSA32335,Princess Farmer,01.03
 CUSA32336,Blade Runner: Enhanced Edition,01.03
 CUSA32337,Blade Runner: Enhanced Edition,01.03
+CUSA32338,Frog Detective: The Entire Mystery,01.41
 CUSA32339,Frog Detective: The Entire Mystery,01.41
+CUSA32340,Frog Detective: The Entire Mystery,01.41
 CUSA32343,Who Pressed Mute on Uncle Marcus?,01.02
 CUSA32344,Who Pressed Mute on Uncle Marcus?,01.02
 CUSA32346,Space Robinson,01.01
@@ -12939,8 +12952,8 @@ CUSA32362,The Company Man,01.02
 CUSA32363,The Company Man,01.02
 CUSA32366,WrestleQuest,01.09
 CUSA32367,WrestleQuest,01.09
-CUSA32368,Eville,01.15
-CUSA32369,Eville,01.15
+CUSA32368,Eville,01.16
+CUSA32369,Eville,01.16
 CUSA32378,Bright Lights of Svetlov,01.01
 CUSA32379,Bright Lights of Svetlov,01.01
 CUSA32391,Airoheart,01.03
@@ -12950,8 +12963,8 @@ CUSA32395,Pizza Tycoon,01.01
 CUSA32396,Pizza Tycoon,01.01
 CUSA32398,Might & Magic: Clash of Heroes - Definitive Edition,01.03
 CUSA32399,POST VOID,01.01
-CUSA32400,Call of the Wild: The Angler,01.32
-CUSA32401,Call of the Wild: The Angler,01.32
+CUSA32400,Call of the Wild: The Angler,01.35
+CUSA32401,Call of the Wild: The Angler,01.35
 CUSA32403,Crash Team Rumble™,01.10
 CUSA32404,Crash Team Rumble™,01.10
 CUSA32414,Murder on the Marine Express,01.01
@@ -12979,15 +12992,15 @@ CUSA32457,英雄伝説 黎の軌跡Ⅱ -CRIMSON SiN-,01.14
 CUSA32461,STRANGER OF PARADISE FINAL FANTASY ORIGIN DEMO VERSION,01.04
 CUSA32462,STRANGER OF PARADISE FINAL FANTASY ORIGIN DEMO VERSION,01.04
 CUSA32463,STRANGER OF PARADISE FINAL FANTASY ORIGIN DEMO VERSION,01.04
-CUSA32469,Bomb Rush Cyberfunk,01.02
+CUSA32469,Bomb Rush Cyberfunk,01.03
 CUSA32470,Syphon Filter 2,01.01
 CUSA32471,Syphon Filter 2,01.01
 CUSA32473,Hot Shots Golf 2,01.03
 CUSA32474,Hot Shots Golf 2,01.03
 CUSA32475,みんなのＧＯＬＦ2,01.03
-CUSA32477,The Legend of Dragoon,01.02
-CUSA32478,The Legend of Dragoon,01.02
-CUSA32479,レジェンド・オブ・ドラグーン,01.02
+CUSA32477,The Legend of Dragoon,01.03
+CUSA32478,The Legend of Dragoon,01.03
+CUSA32479,レジェンド・オブ・ドラグーン,01.03
 CUSA32480,Relayer Trial Version,01.10
 CUSA32481,Relayer Trial Version,01.10
 CUSA32482,Relayer Trial Version,01.10
@@ -12995,7 +13008,7 @@ CUSA32483,STRANGER OF PARADISE FINAL FANTASY ORIGIN DEMO VERSION,01.04
 CUSA32490,Videoland,01.01
 CUSA32498,JUSTICE SUCKS,01.04
 CUSA32499,JUSTICE SUCKS,01.04
-CUSA32502,THEATRHYTHM FINAL BAR LINE,01.02
+CUSA32502,THEATRHYTHM FINAL BAR LINE,01.03
 CUSA32503,Saint Kotar,01.05
 CUSA32504,Saint Kotar,01.05
 CUSA32510,Racing Karts,01.01
@@ -13034,10 +13047,10 @@ CUSA32618,PSIKYO SHOOTING LIBRARY Vol.1,01.04
 CUSA32621,PSIKYO SHOOTING LIBRARY Vol.2,01.03
 CUSA32628,Gunfire Reborn,01.01
 CUSA32629,Gunfire Reborn,01.02
-CUSA32630,Syphon Filter: Logan's Shadow,01.01
-CUSA32631,Syphon Filter: Logan's Shadow,01.01
-CUSA32633,Syphon Filter: Dark Mirror,01.02
-CUSA32634,Syphon Filter: Dark Mirror,01.02
+CUSA32630,Syphon Filter: Logan's Shadow,01.02
+CUSA32631,Syphon Filter: Logan's Shadow,01.02
+CUSA32633,Syphon Filter: Dark Mirror,01.03
+CUSA32634,Syphon Filter: Dark Mirror,01.03
 CUSA32639,LocoRoco Midnight Carnival,01.02
 CUSA32640,LocoRoco Midnight Carnival,01.02
 CUSA32641,LocoRoco Midnight Carnival,01.02
@@ -13063,6 +13076,8 @@ CUSA32666,Z-Warp,01.01
 CUSA32690,What Lies in the Multiverse,01.02
 CUSA32691,Startup Company: Console Edition,02.03
 CUSA32692,Startup Company: Console Edition,02.03
+CUSA32693,Spirit of the Island,01.01
+CUSA32694,Spirit of the Island,01.01
 CUSA32695,DragonRideVR,01.13
 CUSA32706,Unpacking,01.02
 CUSA32707,Unpacking,01.02
@@ -13116,14 +13131,18 @@ CUSA32812,Dragons in Space,01.01
 CUSA32822,Yurukill: The Calumniation Games Demo,01.03
 CUSA32823,Yurukill: The Calumniation Games Demo,01.03
 CUSA32828,The Binding of Isaac: Repentance,01.01
+CUSA32834,NARUTO X BORUTO ナルティメットストームコネクションズ,01.01
+CUSA32835,NARUTO X BORUTO 火影忍者 終極風暴羈絆,01.01
+CUSA32836,NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS,01.01
+CUSA32837,NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS,01.01
 CUSA32841,The Legend of the Dragonflame Highschool Collection,01.01
 CUSA32842,The Legend of the Dragonflame Highschool Collection,01.01
 CUSA32851,Car Mechanic Simulator VR,01.01
-CUSA32852,THEATRHYTHM FINAL BAR LINE,01.02
-CUSA32853,THEATRHYTHM FINAL BAR LINE,01.02
-CUSA32858,GUNDAM EVOLUTION,06.00
+CUSA32852,THEATRHYTHM FINAL BAR LINE,01.03
+CUSA32853,THEATRHYTHM FINAL BAR LINE,01.03
+CUSA32858,GUNDAM EVOLUTION,07.00
 CUSA32859,Akai Katana Shin,01.02
-CUSA32862,GUNDAM EVOLUTION,06.00
+CUSA32862,GUNDAM EVOLUTION,07.00
 CUSA32869,DEADCRAFT -Demo Version-,01.01
 CUSA32870,DEADCRAFT -Demo Version-,01.01
 CUSA32873,Train Valley: Console Edition,01.03
@@ -13242,9 +13261,9 @@ CUSA33142,Catan: Console Edition,03.02
 CUSA33143,Injection π23 'No name, no number' -Complete Edition-,01.01
 CUSA33144,Injection π23 'No name, no number' -Expansion Events-,01.01
 CUSA33145,Injection π23 'No name, no number' -Expansion Events-,01.01
-CUSA33150,Assassin's Creed® Mirage,01.04
-CUSA33151,Assassin's Creed® Mirage,01.04
-CUSA33152,Assassin's Creed® Mirage,01.04
+CUSA33150,Assassin's Creed® Mirage,01.05
+CUSA33151,Assassin's Creed® Mirage,01.05
+CUSA33152,Assassin's Creed® Mirage,01.05
 CUSA33159,Color SlayerS,01.03
 CUSA33160,Color SlayerS,01.03
 CUSA33162,Yurukill: The Calumniation Games Demo,01.03
@@ -13253,9 +13272,9 @@ CUSA33169,Warhammer 40,000: Boltgun,01.02
 CUSA33170,Warhammer 40,000: Boltgun,01.02
 CUSA33172,River City Girls 2,01.04
 CUSA33173,River City Girls 2,01.04
-CUSA33177,Ghostbusters: Spirits Unleashed Ecto Edition,01.21
-CUSA33182,Headbangers: Rhythm Royale,01.02
-CUSA33183,Headbangers: Rhythm Royale,01.02
+CUSA33177,Ghostbusters: Spirits Unleashed Ecto Edition,01.22
+CUSA33182,Headbangers: Rhythm Royale,01.05
+CUSA33183,Headbangers: Rhythm Royale,01.05
 CUSA33184,Final Vendetta,01.01
 CUSA33199,HiQ Ace,01.01
 CUSA33200,HiQ Ace,01.01
@@ -13299,8 +13318,8 @@ CUSA33304,Fashion Police Squad,01.02
 CUSA33305,Fashion Police Squad,01.01
 CUSA33314,Adventures of Chris,01.01
 CUSA33315,Adventures of Chris,01.01
-CUSA33318,LEGO® Bricktales,01.09
-CUSA33319,LEGO® Bricktales,01.09
+CUSA33318,LEGO® Bricktales,01.10
+CUSA33319,LEGO® Bricktales,01.10
 CUSA33320,Cursed to Golf,01.05
 CUSA33321,Cursed to Golf,01.05
 CUSA33322,Paper Cut Mansion,01.03
@@ -13323,9 +13342,9 @@ CUSA33367,Chef Life : A Restaurant Simulator,01.05
 CUSA33368,Chef Life : A Restaurant Simulator,01.04
 CUSA33379,Until the Last Plane,01.01
 CUSA33380,Until the Last Plane,01.01
-CUSA33387,Resident Evil 4,01.10
-CUSA33388,Resident Evil 4,01.10
-CUSA33389,BIOHAZARD RE:4,01.10
+CUSA33387,Resident Evil 4,01.11
+CUSA33388,Resident Evil 4,01.11
+CUSA33389,BIOHAZARD RE:4,01.11
 CUSA33390,Wally,01.03
 CUSA33391,River City Saga: Three Kingdoms,01.01
 CUSA33392,River City Saga: Three Kingdoms,01.01
@@ -13378,9 +13397,9 @@ CUSA33536,MidnightFightExpress,01.03
 CUSA33544,モスメン 1966,01.02
 CUSA33545,Mothmen 1966,01.02
 CUSA33546,Mothmen 1966,01.02
-CUSA33547,RPG Time: The Legend of Wright,01.02
-CUSA33548,RPG Time: The Legend of Wright,01.02
-CUSA33549,RPG Time: The Legend of Wright,01.02
+CUSA33547,RPG Time: The Legend of Wright,01.03
+CUSA33548,RPG Time: The Legend of Wright,01.03
+CUSA33549,RPG Time: The Legend of Wright,01.03
 CUSA33550,義賊探偵ノスリ,01.01
 CUSA33551,Escape First,01.05
 CUSA33552,Escape First,01.05
@@ -13414,8 +13433,8 @@ CUSA33611,Kaiju Wars,01.04
 CUSA33612,Kaiju Wars,01.04
 CUSA33616,The Lord of the Rings: Gollum™,01.05
 CUSA33645,BROKEN MIND,01.02
-CUSA33646,Haunted House,01.01
-CUSA33647,Haunted House,01.01
+CUSA33646,Haunted House,01.02
+CUSA33647,Haunted House,01.02
 CUSA33648,Teslagrad 2,01.03
 CUSA33649,Teslagrad 2,01.03
 CUSA33652,Card Racing Simulator: Otterrific Arcade,01.01
@@ -13521,10 +13540,10 @@ CUSA33890,Chempedak,02.87
 CUSA33891,Chempedak,02.87
 CUSA33899,Rock Paper Scissors - Breakthrough Gaming Arcade,01.01
 CUSA33900,Rock Paper Scissors - Breakthrough Gaming Arcade,01.01
-CUSA33906,Salt and Sacrifice,01.10
-CUSA33907,Salt and Sacrifice,01.10
-CUSA33908,Salt and Sacrifice,01.10
-CUSA33909,Salt and Sacrifice,01.10
+CUSA33906,Salt and Sacrifice,02.01
+CUSA33907,Salt and Sacrifice,02.01
+CUSA33908,Salt and Sacrifice,02.01
+CUSA33909,Salt and Sacrifice,02.01
 CUSA33919,MADiSON,01.25
 CUSA33926,Rise Of The Triad: Ludicrous Edition,01.02
 CUSA33927,Rise Of The Triad: Ludicrous Edition,01.02
@@ -13551,8 +13570,8 @@ CUSA33988,Loot Lite,01.01
 CUSA33989,Hazel Sky,01.10
 CUSA33990,My Life: Riding Stables 3,01.03
 CUSA33991,My Life: Riding Stables 3,01.03
-CUSA33999,Oddworld: Abe's Oddysee,01.01
-CUSA34000,Oddworld: Abe's Oddysee,01.01
+CUSA33999,Oddworld: Abe's Oddysee,01.02
+CUSA34000,Oddworld: Abe's Oddysee,01.02
 CUSA34007,My Life: Pet Vet,01.01
 CUSA34008,My Life: Pet Vet,01.01
 CUSA34014,Disco Elysium,01.02
@@ -13564,10 +13583,10 @@ CUSA34023,Medieval Dynasty,01.03
 CUSA34024,Arcade Archives DIG DUG,01.01
 CUSA34025,Arcade Archives DIG DUG,01.01
 CUSA34026,Arcade Archives DIG DUG,01.01
-CUSA34029,Call of Duty®,01.29
-CUSA34030,Call of Duty®,01.29
-CUSA34031,Call of Duty®,01.29
-CUSA34032,Call of Duty®,01.29
+CUSA34029,Call of Duty®: Modern Warfare III,01.32
+CUSA34030,Call of Duty®: Modern Warfare III,01.32
+CUSA34031,Call of Duty®: Modern Warfare III,01.32
+CUSA34032,Call of Duty®: Modern Warfare III,01.32
 CUSA34035,Little Noah: Scion of Paradise,01.40
 CUSA34036,Little Noah: Scion of Paradise,01.40
 CUSA34037,Little Noah: Scion of Paradise,01.40
@@ -13587,10 +13606,10 @@ CUSA34074,Asterigos: Curse of the Stars,01.08
 CUSA34078,Sixty Words by POWGI,01.01
 CUSA34079,Sixty Words by POWGI,01.01
 CUSA34082,Highway Driving,01.02
-CUSA34100,Under The Waves,01.06
-CUSA34101,Under The Waves,01.06
-CUSA34102,Under The Waves,01.06
-CUSA34104,Under The Waves,01.06
+CUSA34100,Under The Waves,01.07
+CUSA34101,Under The Waves,01.07
+CUSA34102,Under The Waves,01.07
+CUSA34104,Under The Waves,01.07
 CUSA34112,Ray'z Arcade Chronology,01.03
 CUSA34113,R-GEAR,01.02
 CUSA34115,Cuties Hacked,01.02
@@ -13629,9 +13648,9 @@ CUSA34187,Gloomhaven,01.03
 CUSA34188,Gloomhaven,01.03
 CUSA34189,Togges,01.03
 CUSA34190,Togges,01.03
-CUSA34193,Grindstone,01.03
-CUSA34194,Grindstone,01.03
-CUSA34201,Overrogue,01.01
+CUSA34193,Grindstone,01.04
+CUSA34194,Grindstone,01.04
+CUSA34201,Overrogue,01.02
 CUSA34202,Overrogue,01.01
 CUSA34210,Lost Ruins Demo,01.01
 CUSA34211,Lost Ruins Demo,01.01
@@ -13687,8 +13706,8 @@ CUSA34349,Astronite,01.01
 CUSA34350,Astronite,01.01
 CUSA34352,Moo Lander,01.06
 CUSA34358,WITCH ON THE HOLY NIGHT,01.01
-CUSA34369,Aliens: Dark Descent,01.05
-CUSA34370,Aliens: Dark Descent,01.05
+CUSA34369,Aliens: Dark Descent,01.06
+CUSA34370,Aliens: Dark Descent,01.06
 CUSA34373,Season,01.03
 CUSA34376,Long Live The Queen,01.01
 CUSA34377,Long Live The Queen,01.01
@@ -13709,7 +13728,7 @@ CUSA34417,Alice Gear Aegis CS,01.03
 CUSA34418,Alice Gear Aegis CS,01.03
 CUSA34422,SIGNALIS,01.01
 CUSA34423,SIGNALIS,01.01
-CUSA34431,Dungeons Of Sundaria,01.26
+CUSA34431,Dungeons Of Sundaria,01.28
 CUSA34435,The Rumble Fish 2,03.01
 CUSA34436,The Rumble Fish 2,03.01
 CUSA34437,The Rumble Fish 2,03.01
@@ -13722,7 +13741,7 @@ CUSA34467,Bowling (Story Four) (Mark Version) - Project: Summer Ice,01.01
 CUSA34468,Bowling (Story Four) (Mark Version) - Project: Summer Ice,01.01
 CUSA34469,Bowling (Story Five) (Mark Version) - Project: Summer Ice,01.01
 CUSA34470,Bowling (Story Five) (Mark Version) - Project: Summer Ice,01.01
-CUSA34474,Phantasy Star Online 2 New Genesis,08.10
+CUSA34474,Phantasy Star Online 2 New Genesis,08.11
 CUSA34475,Strategic Mind: Fight for Freedom,01.01
 CUSA34476,Strategic Mind: Fight for Freedom,01.01
 CUSA34494,Avenging Spirit,01.01
@@ -13749,7 +13768,7 @@ CUSA34534,Cube Decider,01.01
 CUSA34537,Kaichu: The Kaiju Dating Sim,01.01
 CUSA34538,Kaichu: The Kaiju Dating Sim,01.01
 CUSA34541,となりに彼女のいる幸せ～i fight with summer～,01.01
-CUSA34545,THEATRHYTHM FINAL BAR LINE,01.02
+CUSA34545,THEATRHYTHM FINAL BAR LINE,01.03
 CUSA34546,神田アリスも推理スル。,01.01
 CUSA34553,FIFA 23 BETA,01.03
 CUSA34554,FIFA 23 BETA,01.03
@@ -13776,7 +13795,7 @@ CUSA34633,House Builder,01.01
 CUSA34635,Gale of Windoria,01.01
 CUSA34636,Gale of Windoria,01.01
 CUSA34640,VALKYRIE PROFILE: LENNETH,01.01
-CUSA34641,AEW: Fight Forever,01.05
+CUSA34641,AEW: Fight Forever,01.07
 CUSA34648,OmegaBot,01.02
 CUSA34649,OmegaBot,01.02
 CUSA34658,Process of Elimination,01.01
@@ -13793,13 +13812,13 @@ CUSA34702,Unichrome: A 1-bit Unicorn Adventure,01.10
 CUSA34703,Unichrome: A 1-bit Unicorn Adventure,01.10
 CUSA34705,DriftCE,01.02
 CUSA34706,DriftCE,01.02
-CUSA34710,あくありうむ。,01.02
+CUSA34710,あくありうむ。,01.04
 CUSA34716,Disney Dreamlight Valley,01.72
 CUSA34717,Monster Energy Supercross - The Official Videogame 6,01.07
 CUSA34718,Monster Energy Supercross - The Official Videogame 6,01.07
 CUSA34719,Dropship Commander,01.02
 CUSA34720,Dropship Commander,01.02
-CUSA34721,Diablo IV,01.22
+CUSA34721,Diablo IV,01.26
 CUSA34726,Yars Recharged,01.01
 CUSA34727,Yars Recharged,01.01
 CUSA34728,Atari 50: The Anniversary Celebration,01.03
@@ -13870,37 +13889,37 @@ CUSA34954,Pinball FX,01.10
 CUSA34955,Pinball FX,01.10
 CUSA34961,NHL® 23 Technical Test,01.05
 CUSA34962,NHL™ 23 Technical Test,01.05
-CUSA34963,Cocoon,01.01
-CUSA34964,Cocoon,01.01
-CUSA34965,Cocoon,01.01
-CUSA34966,Cocoon,01.01
+CUSA34963,Cocoon,01.02
+CUSA34964,Cocoon,01.02
+CUSA34965,Cocoon,01.02
+CUSA34966,Cocoon,01.02
 CUSA34978,Evil Dead: The Game,01.52
 CUSA35001,Ankora,02.00
-CUSA35002,Century:Age of Ashes,01.37
+CUSA35002,Century:Age of Ashes,01.39
 CUSA35007,The Darkest Tales,01.02
 CUSA35008,The Darkest Tales,01.02
 CUSA35011,Smile For Me,01.02
 CUSA35012,Smile For Me,01.02
 CUSA35013,Moonscars,01.06
 CUSA35014,Moonscars,01.06
-CUSA35018,Dawn of the Monsters,01.03
+CUSA35018,Dawn of the Monsters,01.04
 CUSA35019,Skateboarding (Special 2022 Edition for North and South America) - Breakthrough Gaming Arcade,01.01
 CUSA35020,Pathfinder: Wrath Of The Righteous,01.18
 CUSA35021,Pathfinder: Wrath Of The Righteous,01.18
-CUSA35024,TT Isle of Man: Ride on the Edge 3,01.06
-CUSA35025,TT Isle of Man: Ride on the Edge 3,01.06
+CUSA35024,TT Isle of Man: Ride on the Edge 3,01.07
+CUSA35025,TT Isle of Man: Ride on the Edge 3,01.07
 CUSA35033,The Tale of Clouds and Wind (QUByte Classics),01.01
 CUSA35034,The Tale of Clouds and Wind (QUByte Classics),01.01
 CUSA35047,モノクロームメビウス 刻ノ代贖 体験版,01.01
-CUSA35049,Tower of Fantasy,01.21
-CUSA35050,Century:Age of Ashes,01.37
+CUSA35049,Tower of Fantasy,01.25
+CUSA35050,Century:Age of Ashes,01.39
 CUSA35071,The Silver Age,01.01
 CUSA35072,The Silver Age,01.01
 CUSA35073,The Silver Age,01.01
 CUSA35074,The Silver Age,01.01
 CUSA35079,SAMURAI MAIDEN,01.45
 CUSA35082,恋する彼女の不器用な舞台,01.01
-CUSA35094,ENDLESS™ Dungeon,01.01
+CUSA35094,ENDLESS™ Dungeon,01.03
 CUSA35095,SAOMI,01.01
 CUSA35096,SAOMI,01.01
 CUSA35109,Trouble Witches Final,01.10
@@ -13917,10 +13936,10 @@ CUSA35123,Arcade Archives CHAMPION WRESTLER,01.02
 CUSA35124,Arcade Archives CHAMPION WRESTLER,01.02
 CUSA35125,Arcade Archives CHAMPION WRESTLER,01.02
 CUSA35132,Wayward Strand,01.03
-CUSA35138,Starsand,01.02
-CUSA35139,Starsand,01.02
-CUSA35140,Starsand,01.02
-CUSA35141,Starsand,01.02
+CUSA35138,Starsand,01.03
+CUSA35139,Starsand,01.03
+CUSA35140,Starsand,01.03
+CUSA35141,Starsand,01.03
 CUSA35146,The Tiger T,01.01
 CUSA35147,The Tiger T,01.01
 CUSA35148,The Tiger T,01.01
@@ -13930,7 +13949,7 @@ CUSA35169,We Love Katamari REROLL+ Royal Reverie,01.02
 CUSA35170,人見人愛的塊魂 安可+ 國王大人的小小回憶,01.02
 CUSA35173,Full Void,01.02
 CUSA35174,Full Void,01.01
-CUSA35178,Century:Age of Ashes,01.37
+CUSA35178,Century:Age of Ashes,01.39
 CUSA35186,We Love Katamari REROLL+ Royal Reverie,01.02
 CUSA35187,We Love Katamari REROLL+ Royal Reverie,01.02
 CUSA35193,The Crown of Wu,01.07
@@ -13939,8 +13958,8 @@ CUSA35215,ANONYMOUS;CODE,01.01
 CUSA35216,ANONYMOUS;CODE,01.01
 CUSA35217,Catmaze,01.01
 CUSA35218,Catmaze,01.01
-CUSA35220,The Texas Chain Saw Massacre,01.07
-CUSA35221,The Texas Chain Saw Massacre,01.07
+CUSA35220,The Texas Chain Saw Massacre,01.08
+CUSA35221,The Texas Chain Saw Massacre,01.08
 CUSA35242,The Witch's House MV,01.02
 CUSA35243,The Witch's House MV,01.02
 CUSA35244,The Witch's House MV,01.02
@@ -13970,8 +13989,8 @@ CUSA35398,Monument Journey,01.01
 CUSA35399,Drift Journey,01.01
 CUSA35401,Drift Journey,01.01
 CUSA35402,Drift Journey,01.01
-CUSA35422,Quake II,01.04
-CUSA35423,Quake II,01.04
+CUSA35422,Quake II,01.05
+CUSA35423,Quake II,01.05
 CUSA35431,The Outbound Ghost,01.02
 CUSA35432,The Outbound Ghost,01.02
 CUSA35435,Pinball (Machine #2) - Our Church and Halloween RPG,01.01
@@ -13995,10 +14014,14 @@ CUSA35473,Baby Shark: Sing & Swim Party,01.01
 CUSA35474,Baby Shark: Sing & Swim Party,01.01
 CUSA35488,UFC Fight Pass,01.02
 CUSA35489,UFC Fight Pass,01.01
-CUSA35521,MLB® The Show™ 23,01.20
+CUSA35519,Bem Feito,01.01
+CUSA35520,Bem Feito,01.01
+CUSA35521,MLB® The Show™ 23,01.21
 CUSA35526,Putt-Putt Saves the Zoo,01.01
 CUSA35542,Summer Pockets REFLECTION BLUE 体験版,01.01
 CUSA35551,The Fox Awaits Me,01.01
+CUSA35552,Train Valley 2: Community Edition,01.01
+CUSA35553,Train Valley 2: Community Edition,01.01
 CUSA35558,Blade of Darkness,01.02
 CUSA35561,Call of Duty®: Modern Warfare II: BETA,01.04
 CUSA35562,Call of Duty®: Modern Warfare II: BETA,01.04
@@ -14014,8 +14037,8 @@ CUSA35577,Bowling (Story Six) (Pammy Version) - Project: Summer Ice,01.01
 CUSA35578,Welcome to Mark's Story in the World of Project: Summer Ice (Visual Novel),01.01
 CUSA35579,Welcome to Mark's Story in the World of Project: Summer Ice (Visual Novel),01.01
 CUSA35580,Marfusha,01.02
-CUSA35582,HOT WHEELS UNLEASHED™ 2 - Turbocharged,01.03
-CUSA35583,HOT WHEELS UNLEASHED™ 2 - Turbocharged,01.03
+CUSA35582,HOT WHEELS UNLEASHED™ 2 - Turbocharged,01.06
+CUSA35583,HOT WHEELS UNLEASHED™ 2 - Turbocharged,01.06
 CUSA35592,Watcher Chronicles,01.01
 CUSA35595,メガトン級ムサシX（クロス）,02.43
 CUSA35596,思い出抱えてアイにコイ!!,01.01
@@ -14031,8 +14054,10 @@ CUSA35630,Fuga : Melodies of Steel 2,01.21
 CUSA35631,Fuga : Melodies of Steel 2,01.21
 CUSA35632,Fuga : Melodies of Steel 2,01.21
 CUSA35633,Fuga : Melodies of Steel 2,01.21
-CUSA35640,AEW: Fight Forever,01.05
-CUSA35643,AEW: Fight Forever,01.05
+CUSA35638,The Last Faith,01.01
+CUSA35639,The Last Faith,01.01
+CUSA35640,AEW: Fight Forever,01.07
+CUSA35643,AEW: Fight Forever,01.07
 CUSA35663,Sakeworld,01.11
 CUSA35666,Nik and Kit - Nik's Adventure,01.01
 CUSA35667,Nik and Kit - Nik's Adventure,01.01
@@ -14040,9 +14065,9 @@ CUSA35674,Elliot (Story Three) - My First Date RPG,01.01
 CUSA35675,Elliot (Story Three) - My First Date RPG,01.01
 CUSA35676,Oriana (Story Three) - My First Date RPG,01.01
 CUSA35677,Oriana (Story Three) - My First Date RPG,01.01
-CUSA35678,Let's Sing 2024,01.02
-CUSA35679,Let's Sing 2024,01.02
-CUSA35681,Dead Island 2,01.06
+CUSA35678,Let's Sing 2024,01.03
+CUSA35679,Let's Sing 2024,01.03
+CUSA35681,Dead Island 2,01.07
 CUSA35682,Repentless,01.01
 CUSA35683,Repentless,01.01
 CUSA35685,Round Invaders Rush,01.01
@@ -14055,7 +14080,7 @@ CUSA35705,Wobbledogs,01.02
 CUSA35706,Wobbledogs,01.02
 CUSA35708,Alchemic Cutie,01.01
 CUSA35709,Alchemic Cutie,01.01
-CUSA35714,Resident Evil 4,01.10
+CUSA35714,Resident Evil 4,01.11
 CUSA35719,Bramble The Mountain King,01.01
 CUSA35720,Bramble The Mountain King,01.01
 CUSA35730,Neptunia: Sisters VS Sisters,01.01
@@ -14070,8 +14095,8 @@ CUSA35748,AFL 23,01.29
 CUSA35749,AFL 23,01.29
 CUSA35761,DREDGE,01.04
 CUSA35762,DREDGE,01.04
-CUSA35770,Daymare: 1994 Sandcastle,02.03
-CUSA35771,Daymare: 1994 Sandcastle,02.03
+CUSA35770,Daymare: 1994 Sandcastle,02.04
+CUSA35771,Daymare: 1994 Sandcastle,02.04
 CUSA35782,Beholgar,01.01
 CUSA35793,A Space for the Unbound 心に咲く花,01.04
 CUSA35797,Geometric Sniper - Blood in Paris,01.01
@@ -14090,14 +14115,14 @@ CUSA35932,You Suck At Parking,01.08
 CUSA35952,Round Invaders Rush,01.02
 CUSA35954,Round Invaders Rush 2,01.01
 CUSA35955,Bestanden! Dein Weg zum Führerschein,01.01
-CUSA35957,Frank and Drake,01.02
-CUSA35958,Frank and Drake,01.02
-CUSA35959,Frank and Drake,01.02
+CUSA35957,Frank and Drake,02.01
+CUSA35958,Frank and Drake,02.01
+CUSA35959,Frank and Drake,01.03
 CUSA35961,Halloween Pinball,01.01
 CUSA35963,Rally Rock 'N Racing,01.02
 CUSA35964,Rally Rock 'N Racing,01.02
-CUSA35965,Saturnalia,01.10
-CUSA35967,Saturnalia,01.10
+CUSA35965,Saturnalia,01.11
+CUSA35967,Saturnalia,01.11
 CUSA35982,Otoko Cross: Pretty Boys Mahjong Solitaire,01.01
 CUSA35983,Otoko Cross: Pretty Boys Mahjong Solitaire,01.01
 CUSA35988,Repentless,01.01
@@ -14181,8 +14206,8 @@ CUSA36355,Nik and Kit Arcade - Breakthrough Gaming Arcade,01.01
 CUSA36356,Nik and Kit Arcade - Breakthrough Gaming Arcade,01.01
 CUSA36357,MoonglowBay,01.01
 CUSA36358,MoonglowBay,01.01
-CUSA36359,Disney Speedstorm,01.16
-CUSA36360,Disney Speedstorm,01.16
+CUSA36359,Disney Speedstorm,01.18
+CUSA36360,Disney Speedstorm,01.18
 CUSA36361,Nik and Kit's Math Quiz - Breakthrough Gaming Activity Center,01.02
 CUSA36362,Nik and Kit's Math Quiz - Breakthrough Gaming Activity Center,01.02
 CUSA36363,ZJ the Ball's Collect Stuff - Breakthrough Gaming Activity Center,01.01
@@ -14190,6 +14215,9 @@ CUSA36364,ZJ the Ball's Collect Stuff - Breakthrough Gaming Activity Center,01.0
 CUSA36365,Welcome to the World of Zippy the Circle (Visual Novel),01.01
 CUSA36366,Welcome to the World of Zippy the Circle (Visual Novel),01.01
 CUSA36375,POSTAL 4: No Regerts,02.02
+CUSA36392,Arcade Archives BURNING FORCE,01.01
+CUSA36393,Arcade Archives BURNING FORCE,01.01
+CUSA36394,Arcade Archives BURNING FORCE,01.01
 CUSA36405,EDENGATE: The Edge of Life,01.03
 CUSA36406,Portal Dungeon: Goblin Escape,01.01
 CUSA36407,Portal Dungeon: Goblin Escape,01.01
@@ -14257,7 +14285,7 @@ CUSA36799,Little Witch Nobeta,01.02
 CUSA36809,Dragon Prana,01.01
 CUSA36812,Project: Summer Ice Bowling Online,01.02
 CUSA36813,Project: Summer Ice Bowling Online,01.03
-CUSA36818,Wo Long: Fallen Dynasty,01.19
+CUSA36818,Wo Long: Fallen Dynasty,01.21
 CUSA36833,The Basketball Quiz,01.02
 CUSA36834,The Basketball Quiz,01.02
 CUSA36835,The Basketball Quiz,01.02
@@ -14266,7 +14294,7 @@ CUSA36842,Red Dead Redemption,01.03
 CUSA36843,Red Dead Redemption,01.03
 CUSA36844,Red Dead Redemption,01.03
 CUSA36845,Red Dead Redemption,01.03
-CUSA36846,Wo Long: Fallen Dynasty,01.19
+CUSA36846,Wo Long: Fallen Dynasty,01.21
 CUSA36847,Lies of P,01.02
 CUSA36848,Lies of P,01.02
 CUSA36849,Lies of P,01.02
@@ -14287,12 +14315,12 @@ CUSA36898,Weeping Willow,01.01
 CUSA36960,My Universe - My Baby Dragon,01.02
 CUSA36961,My Universe - My Baby Dragon,01.02
 CUSA36962,No More Heroes 3 Digital Soundtrack & Artbook,01.01
-CUSA36986,Wo Long: Fallen Dynasty,01.19
+CUSA36986,Wo Long: Fallen Dynasty,01.21
 CUSA36991,Garden City,01.01
 CUSA36992,Garden City,01.01
 CUSA36993,Someday You'll Return: Director's Cut,01.02
 CUSA36994,Someday You'll Return: Director's Cut,01.03
-CUSA37028,Wo Long: Fallen Dynasty,01.19
+CUSA37028,Wo Long: Fallen Dynasty,01.21
 CUSA37034,No More Heroes 3 Digital Soundtrack & Artbook,01.02
 CUSA37039,Sunshine Manor,01.01
 CUSA37041,Arcade Archives Metal Hawk,01.02
@@ -14301,8 +14329,8 @@ CUSA37043,Arcade Archives Metal Hawk,01.02
 CUSA37044,Army of Ruin,01.02
 CUSA37045,Wavetale,01.01
 CUSA37046,Wavetale,01.01
-CUSA37089,Madden NFL 24,01.07
-CUSA37090,Madden NFL 24,01.07
+CUSA37089,Madden NFL 24,01.08
+CUSA37090,Madden NFL 24,01.08
 CUSA37091,Zippy the Circle Calculator,01.01
 CUSA37092,Zippy the Circle Calculator,01.01
 CUSA37093,ZJ the Ball Calculator,01.01
@@ -14354,12 +14382,13 @@ CUSA37311,Tricky Thief,01.02
 CUSA37312,Tricky Thief,01.02
 CUSA37313,The Forest Quartet,01.01
 CUSA37314,The Forest Quartet,01.01
-CUSA37317,Repentless 2,01.02
+CUSA37317,Repentless 2,01.05
+CUSA37318,Repentless 2,01.01
 CUSA37321,AtomicHeart,01.20
 CUSA37322,AtomicHeart,01.20
 CUSA37323,Axis Football 2023,01.02
 CUSA37324,NeuroWorm,01.01
-CUSA37337,Space Engineers,01.19
+CUSA37337,Space Engineers,01.22
 CUSA37338,The Football Quiz,01.01
 CUSA37339,The Football Quiz,01.01
 CUSA37356,Zool Redimensioned,01.01
@@ -14367,8 +14396,8 @@ CUSA37361,Lootbox Lyfe+,01.01
 CUSA37362,Lootbox Lyfe+,01.01
 CUSA37363,Blade of Darkness,01.02
 CUSA37368,笑顔の錬金術師,01.02
-CUSA37425,Paleo Pines,01.03
-CUSA37426,Paleo Pines,01.03
+CUSA37425,Paleo Pines,01.04
+CUSA37426,Paleo Pines,01.04
 CUSA37442,Unheard - Voices of Crime,01.02
 CUSA37443,Unheard - Voices of Crime,01.02
 CUSA37444,Unheard - Voices of Crime,01.02
@@ -14388,8 +14417,8 @@ CUSA37606,Cubic Parking,01.01
 CUSA37607,Cubic Parking,01.01
 CUSA37608,Cubic Parking,01.01
 CUSA37609,Cubic Parking,01.01
-CUSA37612,Gnomes Garden Return of the Queen,01.01
-CUSA37613,Gnomes Garden Return of the Queen,01.01
+CUSA37612,Gnomes Garden Return of the Queen,01.02
+CUSA37613,Gnomes Garden Return of the Queen,01.02
 CUSA37614,Deathwish Enforcers,01.02
 CUSA37616,Watch Over Christmas,01.02
 CUSA37628,The Tale of Onogoro,01.02
@@ -14403,28 +14432,28 @@ CUSA37642,TubiTV,01.10
 CUSA37645,Killsquad,01.01
 CUSA37646,Killsquad,01.01
 CUSA37647,Killsquad,01.01
-CUSA37652,Another Crusade,01.02
-CUSA37653,Another Crusade,01.02
-CUSA37654,BROK the InvestiGator,01.06
-CUSA37655,BROK the InvestiGator,01.06
+CUSA37652,Another Crusade,01.03
+CUSA37653,Another Crusade,01.03
+CUSA37654,BROK the InvestiGator,01.08
+CUSA37655,BROK the InvestiGator,01.08
 CUSA37663,The Crackpet Show,01.20
 CUSA37678,The Crackpet Show,01.20
 CUSA37683,Twice Reborn: A Vampire Visual Novel,01.02
 CUSA37684,Twice Reborn: A Vampire Visual Novel,01.02
 CUSA37688,Speed Truck Racing,01.02
 CUSA37689,Speed Truck Racing,01.01
-CUSA37693,CyberTD,01.03
-CUSA37694,CyberTD,01.03
-CUSA37695,CyberTD,01.03
-CUSA37696,CyberTD,01.03
+CUSA37693,CyberTD,01.04
+CUSA37694,CyberTD,01.04
+CUSA37695,CyberTD,01.04
+CUSA37696,CyberTD,01.04
 CUSA37698,The Button Be Mizzle,01.01
 CUSA37728,Melon Journey,01.04
 CUSA37730,You Suck At Parking,01.08
 CUSA37731,You Suck At Parking,01.08
 CUSA37732,Zapling Bygone,01.01
 CUSA37733,Zapling Bygone,01.01
-CUSA37734,Prison Simulator,01.04
-CUSA37735,Prison Simulator,01.04
+CUSA37734,Prison Simulator,01.05
+CUSA37735,Prison Simulator,01.05
 CUSA37759,That's My Family: Family Fun Night,01.01
 CUSA37760,That's My Family: Family Fun Night,01.01
 CUSA37772,Bendy and the Dark Revival,01.02
@@ -14434,8 +14463,8 @@ CUSA37784,ZJ the Ball Special,01.01
 CUSA37785,ZJ the Ball Special,01.01
 CUSA37787,Zippy the Circle Special,01.01
 CUSA37788,Zippy the Circle Special,01.01
-CUSA37846,Bang-On Balls: Chronicles,01.02
-CUSA37847,Bang-On Balls: Chronicles,01.02
+CUSA37846,Bang-On Balls: Chronicles,01.03
+CUSA37847,Bang-On Balls: Chronicles,01.03
 CUSA37860,Ape Escape: On The Loose,01.02
 CUSA37861,Ape Escape P,01.02
 CUSA37862,サルゲッチュP!,01.02
@@ -14454,20 +14483,20 @@ CUSA37900,Ape Academy 2,01.01
 CUSA37908,Spirit Hunters: Infinite Horde,01.10
 CUSA37909,Spirit Hunters: Infinite Horde,01.10
 CUSA37932,パースートフォース ～大追跡～,01.01
-CUSA37933,NHL® 24,01.11
-CUSA37934,NHL 24,01.11
+CUSA37933,NHL® 24,01.20
+CUSA37934,NHL 24,01.20
 CUSA37935,Spirit Hunters: Infinite Horde,01.10
 CUSA37936,Spirit Hunters: Infinite Horde,01.10
-CUSA37938,Repentless 2,01.02
+CUSA37938,Repentless 2,01.04
 CUSA37944,Gimmick! Special Edition,01.02
 CUSA38011,Hellboy: Web of Wyrd,01.02
 CUSA38012,Hellboy: Web of Wyrd,01.02
 CUSA38017,Trenches,01.01
 CUSA38018,Trenches,01.01
 CUSA38067,Crime Secrets: Crimson Lily,01.02
-CUSA38069,Bomb Rush Cyberfunk,01.02
-CUSA38071,Bomb Rush Cyberfunk,01.02
-CUSA38072,Bomb Rush Cyberfunk,01.02
+CUSA38069,Bomb Rush Cyberfunk,01.03
+CUSA38071,Bomb Rush Cyberfunk,02.01
+CUSA38072,Bomb Rush Cyberfunk,01.03
 CUSA38083,Row of numbers,01.01
 CUSA38084,Row of numbers,01.01
 CUSA38087,Guess the animal,01.01
@@ -14486,8 +14515,8 @@ CUSA38203,Funny Alphabet,01.01
 CUSA38204,Funny Alphabet,01.01
 CUSA38207,Rocket Lift,01.01
 CUSA38208,Rocket Lift,01.01
-CUSA38230,Inescapable: No Rules, No Rescue,01.02
-CUSA38233,Inescapable: No Rules, No Rescue,01.02
+CUSA38230,Inescapable: No Rules, No Rescue,01.04
+CUSA38233,Inescapable: No Rules, No Rescue,01.04
 CUSA38302,Monkey Kong,01.01
 CUSA38303,Monkey Kong,01.01
 CUSA38308,WBSC eBASEBALL: POWER PROS,01.03
@@ -14500,8 +14529,8 @@ CUSA38391,Hopping Girl Kohane EX,01.02
 CUSA38392,ホッピングガールこはね EX,01.02
 CUSA38393,Hopping Girl Kohane EX,01.02
 CUSA38394,Hopping Girl Kohane EX,01.02
-CUSA38395,Sailing Era,01.05
-CUSA38396,Sailing Era,01.05
+CUSA38395,Sailing Era,01.30
+CUSA38396,Sailing Era,01.30
 CUSA38399,Cavity Busters,01.04
 CUSA38400,Cavity Busters,01.04
 CUSA38402,Arcade Archives GALAGA,01.02
@@ -14554,7 +14583,7 @@ CUSA39443,memory®,01.05
 CUSA39451,There is a Genie in my Szechuan Sauce Remastered,01.01
 CUSA39452,There is a Genie in my Szechuan Sauce Remastered,01.01
 CUSA39455,LISA: The Joyful - Definitive Edition,01.05
-CUSA39456,LISA: The Joyful - Definitive Edition,01.04
+CUSA39456,LISA: The Joyful - Definitive Edition,01.05
 CUSA39459,Under the Warehouse,01.01
 CUSA39460,Under the Warehouse,01.01
 CUSA39467,SkateBIRD,01.01
@@ -14629,27 +14658,27 @@ CUSA40234,Backbeat,01.50
 CUSA40239,Roads of Time 2: Odyssey,01.02
 CUSA40246,Forgive Me Father,01.03
 CUSA40247,Forgive Me Father,01.03
-CUSA40251,超次元ゲイム ネプテューヌ GameMaker R:Evolution,01.06
+CUSA40251,超次元ゲイム ネプテューヌ GameMaker R:Evolution,01.07
 CUSA40262,Monster Hunter Rise,16.01
 CUSA40284,페어리 펜서 F Refrain Chord,01.01
 CUSA40292,United Assault - World War 2,01.03
 CUSA40293,United Assault - World War 2,01.03
-CUSA40294,クライマキナ／CRYMACHINA,01.05
+CUSA40294,クライマキナ／CRYMACHINA,01.08
 CUSA40295,Ringlorn Saga,01.03
 CUSA40296,Ringlorn Saga,01.02
 CUSA40297,Ringlorn Saga,01.02
 CUSA40298,Ringlorn Saga,01.02
-CUSA40311,Diablo IV,01.22
+CUSA40311,Diablo IV,01.26
 CUSA40315,The Legend of Tianding,01.01
-CUSA40317,Farworld Pioneers,01.02
-CUSA40318,Farworld Pioneers,01.02
-CUSA40324,EA SPORTS FC 24,01.04
-CUSA40325,EA SPORTS FC 24,01.04
-CUSA40326,EA SPORTS FC 24,01.04
-CUSA40327,EA SPORTS FC 24,01.04
-CUSA40328,EA SPORTS FC 24,01.04
-CUSA40329,EA SPORTS FC 24,01.04
-CUSA40337,BUCCANYAR,01.04
+CUSA40317,Farworld Pioneers,01.03
+CUSA40318,Farworld Pioneers,01.03
+CUSA40324,EA SPORTS FC 24,01.07
+CUSA40325,EA SPORTS FC 24,01.07
+CUSA40326,EA SPORTS FC 24,01.07
+CUSA40327,EA SPORTS FC 24,01.07
+CUSA40328,EA SPORTS FC 24,01.07
+CUSA40329,EA SPORTS FC 24,01.07
+CUSA40337,BUCCANYAR,01.05
 CUSA40344,GYLT,01.02
 CUSA40345,Jimbaori The Onin War,01.03
 CUSA40347,Online Open World RPG,01.01
@@ -14681,9 +14710,9 @@ CUSA40482,Gravity Crash Portable,01.02
 CUSA40500,Magma,01.01
 CUSA40501,Mr. Run and Jump,01.01
 CUSA40502,Mr. Run and Jump,01.01
-CUSA40507,Agatha Christie - Hercule Poirot: The London Case,01.02
-CUSA40508,Agatha Christie - Hercule Poirot: The London Case,01.02
-CUSA40521,Railway Empire 2,01.07
+CUSA40507,Agatha Christie - Hercule Poirot: The London Case,01.03
+CUSA40508,Agatha Christie - Hercule Poirot: The London Case,01.03
+CUSA40521,Railway Empire 2,01.08
 CUSA40522,POSTAL 4: No Regerts,02.02
 CUSA40523,Shame Legacy,01.01
 CUSA40527,discovery+,01.01
@@ -14695,17 +14724,17 @@ CUSA40545,Iris and the Giant,01.03
 CUSA40546,Iris and the Giant,01.03
 CUSA40550,NOOB - The Factionless,01.01
 CUSA40551,NOOB - The Factionless,01.01
-CUSA40556,Hamster on Rails,01.01
-CUSA40557,Hamster on Rails,01.01
-CUSA40558,Hamster on Rails,01.01
-CUSA40559,Hamster on Rails,01.01
+CUSA40556,Hamster on Rails,01.02
+CUSA40557,Hamster on Rails,01.02
+CUSA40558,Hamster on Rails,01.02
+CUSA40559,Hamster on Rails,01.02
 CUSA40560,The Smile Alchemist,01.02
 CUSA40561,The Smile Alchemist,01.02
 CUSA40564,Cross Tails,01.01
 CUSA40565,Cross Tails,01.01
 CUSA40570,Sven - Completely Screwed,01.01
-CUSA40573,Trolls: Remix Rescue,01.01
-CUSA40574,Trolls: Remix Rescue,01.01
+CUSA40573,Trolls: Remix Rescue,01.02
+CUSA40574,Trolls: Remix Rescue,01.02
 CUSA40575,Citizen Sleeper,01.02
 CUSA40576,Citizen Sleeper,01.02
 CUSA40593,Crash Team Rumble™,01.10
@@ -14717,6 +14746,7 @@ CUSA40603,Resident Evil 4 Chainsaw Demo,01.03
 CUSA40604,Backbeat Demo,01.04
 CUSA40605,Mia's Christmas 2,01.03
 CUSA40606,Mia's Christmas 2,01.04
+CUSA40614,Emergency Crew Volcano Eruption,01.01
 CUSA40618,Skautfold: Usurper,01.02
 CUSA40619,Skautfold: Usurper,01.02
 CUSA40622,Omega Strikers,03.01
@@ -14754,8 +14784,11 @@ CUSA40802,Lucky Slots,01.01
 CUSA40805,Argonauts Agency 1 Golden Fleece,01.01
 CUSA40806,Drago Noka,01.02
 CUSA40807,Drago Noka,01.02
-CUSA40840,Disgaea 7: Vows of the Virtueless,01.03
-CUSA40841,Disgaea 7: Vows of the Virtueless,01.03
+CUSA40815,HammerHelm,01.01
+CUSA40816,HammerHelm,01.01
+CUSA40817,HammerHelm,01.01
+CUSA40840,Disgaea 7: Vows of the Virtueless,01.04
+CUSA40841,Disgaea 7: Vows of the Virtueless,01.04
 CUSA40845,THE KING OF FIGHTERS XV OPEN β TEST,01.01
 CUSA40846,THE KING OF FIGHTERS XV OPEN β TEST,01.01
 CUSA40847,THE KING OF FIGHTERS XV OPEN β TEST,01.01
@@ -14772,6 +14805,7 @@ CUSA40895,Vaccine Rebirth,01.30
 CUSA40908,In Stars and Time,01.01
 CUSA40909,In Stars and Time,01.01
 CUSA40912,Roads of Time 2: Odyssey,01.02
+CUSA40915,Emergency Crew Volcano Eruption,01.01
 CUSA40918,Argonauts Agency 1 Golden Fleece,01.01
 CUSA40937,Protodroid Delta,01.03
 CUSA40938,Protodroid Delta,01.03
@@ -14790,12 +14824,12 @@ CUSA40960,Arcade Archives BRAVOMAN,01.01
 CUSA40967,Arcade Archives POLE POSITION,01.01
 CUSA40968,Arcade Archives POLE POSITION,01.01
 CUSA40969,Arcade Archives POLE POSITION,01.01
-CUSA40975,Assassin's Creed® Mirage,01.04
+CUSA40975,Assassin's Creed® Mirage,01.05
 CUSA40982,Nova Lands,01.04
 CUSA40983,Nova Lands,01.04
 CUSA40993,The Crew Motorfest Insider Program,01.01
-CUSA40994,Amnesia: The Bunker,01.61
-CUSA40995,Amnesia: The Bunker,01.61
+CUSA40994,Amnesia: The Bunker,01.71
+CUSA40995,Amnesia: The Bunker,01.71
 CUSA41002,Vaccine Rebirth,01.30
 CUSA41003,TramSim - Console Edition,01.03
 CUSA41004,TramSim - Console Edition,01.03
@@ -14831,10 +14865,12 @@ CUSA41162,Wo Long: Fallen Dynasty Demo,01.02
 CUSA41168,シカトリス,01.10
 CUSA41170,Rooftop Renegade,01.03
 CUSA41173,Vernal Edge,01.02
+CUSA41181,qomp2,01.02
+CUSA41182,qomp2,01.02
 CUSA41183,Vernal Edge,01.02
 CUSA41184,No one lives under the lighthouse,01.03
 CUSA41185,No one lives under the lighthouse,01.03
-CUSA41196,Neverwinter Beta Test Realm,01.20
+CUSA41196,Neverwinter Beta Test Realm,01.23
 CUSA41214,Celebrity Slot Machine,01.01
 CUSA41215,Celebrity Slot Machine,01.01
 CUSA41216,TRANSFORMERS: EARTHSPARK - Expedition,01.01
@@ -14864,23 +14900,28 @@ CUSA41298,POMBERO: The Lord of the Night,01.02
 CUSA41299,POMBERO: The Lord of the Night,01.02
 CUSA41305,METAL GEAR SOLID 3: Snake Eater - Master Collection Version,01.20
 CUSA41310,放課後シンデレラ２,01.03
+CUSA41315,KONOSUBA - God's blessing on this wonderful world! Love for these clothes of desire!,01.01
+CUSA41316,KONOSUBA - God's blessing on this wonderful world! Love for these clothes of desire!,01.01
 CUSA41318,MINABO - A walk through life,01.01
 CUSA41321,Argonauts Agency 2 Pandora's Box,01.01
 CUSA41322,Argonauts Agency 2 Pandora's Box,01.01
 CUSA41325,MINABO - A walk through life,01.01
 CUSA41326,Somerville,01.01
+CUSA41342,UFO ROBOT GRENDIZER - The Feast of the Wolves,01.01
+CUSA41343,UFO ROBOT GRENDIZER - The Feast of the Wolves,01.01
 CUSA41352,Hot Wheels Rift Rally,01.30
 CUSA41357,Dark Quest 3,01.01
-CUSA41367,Star Trek: Resurgence,01.02
-CUSA41368,Star Trek: Resurgence,01.02
+CUSA41367,Star Trek: Resurgence,01.04
+CUSA41368,Star Trek: Resurgence,01.04
+CUSA41384,Mineko's Night Market,01.02
 CUSA41385,Herodes,01.01
 CUSA41386,Herodes,01.01
 CUSA41389,CRYMACHINA,01.05
 CUSA41390,CRYMACHINA,01.05
 CUSA41423,Football 2 - Breakthrough Gaming Arcade,01.01
 CUSA41424,Football 2 - Breakthrough Gaming Arcade,01.01
-CUSA41438,Everdream Valley,01.05
-CUSA41439,Everdream Valley,01.05
+CUSA41438,Everdream Valley,01.06
+CUSA41439,Everdream Valley,01.06
 CUSA41440,Alice Sisters,01.02
 CUSA41441,Alice Sisters,01.02
 CUSA41442,Alice Sisters,01.02
@@ -14927,7 +14968,7 @@ CUSA42179,Mordhau,01.03
 CUSA42180,Mordhau,01.03
 CUSA42181,Mordhau,01.03
 CUSA42215,CRYMACHINA 慟哭奇機,01.06
-CUSA42216,KartRider: Drift,01.17
+CUSA42216,KartRider: Drift,01.18
 CUSA42223,Bookypets Legends,01.10
 CUSA42224,Bookypets Legends,01.10
 CUSA42225,Chants Of Sennaar,01.02
@@ -14940,6 +14981,7 @@ CUSA42257,Argonauts Agency 5 Captive of Circe,01.01
 CUSA42258,Argonauts Agency 5 Captive of Circe,01.01
 CUSA42259,Argonauts Agency 6 Missing Daughter,01.01
 CUSA42260,Argonauts Agency 6 Missing Daughter,01.01
+CUSA42272,Granblue Fantasy Versus: Rising - Beta,02.01
 CUSA42289,Mighty Mage,01.01
 CUSA42290,Mighty Mage,01.01
 CUSA42291,Mighty Mage,01.01
@@ -14957,12 +14999,12 @@ CUSA42340,Shame Legacy,01.01
 CUSA42373,Omega Strikers,03.01
 CUSA42374,Omega Strikers,03.01
 CUSA42375,Omega Strikers,03.01
-CUSA42379,Tower of Fantasy,01.21
+CUSA42379,Tower of Fantasy,01.25
 CUSA42381,MasterChef: The Official Videogame,01.01
 CUSA42382,Punch Club 2: Fast Forward,01.02
 CUSA42383,Punch Club 2: Fast Forward,01.02
-CUSA42390,High on Life,01.10
-CUSA42391,High on Life,01.10
+CUSA42390,High on Life,01.11
+CUSA42391,High on Life,01.11
 CUSA42393,The Big Con,01.01
 CUSA42394,The Big Con,01.01
 CUSA42395,Mystic Gate,01.01
@@ -14984,15 +15026,15 @@ CUSA42475,THE KING OF FIGHTERS XIII GLOBAL MATCH OPEN BETA TEST,03.00
 CUSA42476,THE KING OF FIGHTERS XIII GLOBAL MATCH OPEN BETA TEST,03.00
 CUSA42482,From Space,01.02
 CUSA42483,From Space,01.02
-CUSA42484,New Lands 1,01.01
-CUSA42485,New Lands 1,01.01
+CUSA42484,New Lands 1,01.02
+CUSA42485,New Lands 1,01.02
 CUSA42486,New Lands 2,01.01
 CUSA42487,New Lands 2,01.01
 CUSA42488,New Lands 3 Paradise Island,01.01
 CUSA42489,Chronicles of 2 Heroes: Amaterasu's Wrath,01.02
 CUSA42490,New Lands 3 Paradise Island,01.01
 CUSA42491,Survivor - Castaway Island,01.01
-CUSA42492,Survivor - Castaway Island,01.01
+CUSA42492,Survivor - Castaway Island,01.02
 CUSA42493,F1® Manager 2023,01.09
 CUSA42494,F1® Manager 2023,01.09
 CUSA42497,Wobbly Life,01.05
@@ -15013,10 +15055,10 @@ CUSA42546,RISE of KONG,01.01
 CUSA42547,RISE of KONG,01.01
 CUSA42557,3D Table Soccer Foosball,01.01
 CUSA42558,3D Table Soccer Foosball,01.01
-CUSA42562,Wayfinder,01.13
-CUSA42563,Wayfinder,01.13
-CUSA42564,Wayfinder,01.13
-CUSA42565,Wayfinder,01.13
+CUSA42562,Wayfinder,01.16
+CUSA42563,Wayfinder,01.16
+CUSA42564,Wayfinder,01.16
+CUSA42565,Wayfinder,01.16
 CUSA42595,Wild Seas,01.01
 CUSA42596,FRONT MISSION 1st: Remake,01.02
 CUSA42597,FRONT MISSION 1st: Remake,01.02
@@ -15028,6 +15070,8 @@ CUSA42602,Chronicles of 2 Heroes: Amaterasu's Wrath,01.02
 CUSA42606,Buddy Simulator 1984,01.03
 CUSA42607,Buddy Simulator 1984,01.03
 CUSA42608,Buddy Simulator 1984,01.03
+CUSA42625,Jets'N'Guns 2,01.01
+CUSA42626,Jets'N'Guns 2,01.01
 CUSA42629,To Hell With The Ugly,01.05
 CUSA42630,To Hell With The Ugly,01.05
 CUSA42636,Arcade Archives BARADUKE 2,01.01
@@ -15039,8 +15083,8 @@ CUSA42674,Death Or Treat,01.02
 CUSA42675,Death Or Treat,01.02
 CUSA42676,Death Or Treat,01.02
 CUSA42682,Freevee,04.80
-CUSA42693,Train Sim World 4,01.11
-CUSA42717,Train Sim World 4,01.11
+CUSA42693,Train Sim World 4,01.16
+CUSA42717,Train Sim World 4,01.16
 CUSA42719,Escape First Alchemist,01.01
 CUSA42720,Escape First Alchemist,01.02
 CUSA42723,Wildshade: Unicorn Champions,01.01
@@ -15066,11 +15110,15 @@ CUSA42833,Gravity Oddity,01.01
 CUSA42847,Slaps and Beans 2,01.02
 CUSA42848,Slaps and Beans 2,01.02
 CUSA42850,SENSEs: Midnight,01.03
+CUSA42851,Hidden Cats in London,01.01
+CUSA42852,Hidden Cats in London,01.01
+CUSA42853,Hidden Cats in London,01.01
+CUSA42854,Hidden Cats in London,01.01
 CUSA42855,3D Air Hockey,01.01
 CUSA42856,3D Air Hockey,01.01
 CUSA42872,SENSEs: Midnight,01.03
-CUSA42883,AK Xolotl,01.04
-CUSA42884,AK Xolotl,01.04
+CUSA42883,AK Xolotl,01.05
+CUSA42884,AK Xolotl,01.05
 CUSA42893,Endzone - A World Apart,01.02
 CUSA42894,Endzone - A World Apart,01.02
 CUSA42895,Hero Survival,01.01
@@ -15081,16 +15129,20 @@ CUSA42922,Rubberduck Wave Racer,01.01
 CUSA42923,Rubberduck Wave Racer,01.01
 CUSA42935,Double Dragon Gaiden: Rise of the Dragons,01.04
 CUSA42936,Double Dragon Gaiden: Rise of the Dragons,01.04
-CUSA42945,Project Nightmares Case 36: Henrietta Kedward,01.02
-CUSA42946,Project Nightmares Case 36: Henrietta Kedward,01.02
+CUSA42945,Project Nightmares Case 36: Henrietta Kedward,01.03
+CUSA42946,Project Nightmares Case 36: Henrietta Kedward,01.03
+CUSA42947,Project Nightmares Case 36: Henrietta Kedward,01.03
+CUSA42955,Granblue Fantasy Versus: Rising - Beta,02.01
+CUSA42956,Granblue Fantasy Versus: Rising - Beta,02.01
+CUSA42957,Granblue Fantasy Versus: Rising - Beta,02.01
 CUSA42958,Army of Ruin,01.02
 CUSA42971,No one lives under the lighthouse,01.03
 CUSA42972,STAY OUT OF THE HOUSE,01.05
 CUSA42973,STAY OUT OF THE HOUSE,01.05
 CUSA42974,STAY OUT OF THE HOUSE,01.05
 CUSA42975,No one lives under the lighthouse,01.03
-CUSA42979,NOBUNAGA'S AMBITION: Awakening,01.05
-CUSA42980,NOBUNAGA'S AMBITION: Awakening,01.05
+CUSA42979,NOBUNAGA'S AMBITION: Awakening,01.06
+CUSA42980,NOBUNAGA'S AMBITION: Awakening,01.06
 CUSA42984,Eternights,01.04
 CUSA42985,Eternights,01.04
 CUSA42986,Beat 'Em Up Archives (QUByte Classics),01.01
@@ -15100,9 +15152,11 @@ CUSA42989,Sokolab,01.01
 CUSA42990,Sokolab,01.01
 CUSA42991,Sokolab,01.01
 CUSA43006,River City: Rival Showdown,01.01
+CUSA43011,I'LL KILL HER,01.02
 CUSA43029,クライマキナ／CRYMACHINA オリジナルはなまるアートブック,01.01
 CUSA43102,Chasm: The Rift,01.03
 CUSA43147,Persona 5 Tactica,01.01
+CUSA43148,Persona 5 Tactica,01.01
 CUSA43149,Undergrave,01.01
 CUSA43150,Undergrave,01.01
 CUSA43153,Waifu Space Conquest,01.01
@@ -15130,6 +15184,7 @@ CUSA43222,METAL GEAR SOLID:MASTER COLLECTION Vol.1 BONUS CONTENT,01.01
 CUSA43223,METAL GEAR SOLID:MASTER COLLECTION Vol.1 BONUS CONTENT,01.01
 CUSA43226,Pixel Driver,01.02
 CUSA43227,Pixel Driver,01.02
+CUSA43228,Like a Dragon Gaiden: The Man Who Erased His Name,01.10
 CUSA43231,Magic Exposure - Yuri Visual Novel,01.01
 CUSA43238,POMBERO: The Lord of the Night,01.02
 CUSA43259,Diablo IV,01.01
@@ -15139,8 +15194,10 @@ CUSA43263,Cross Tails Demo,01.01
 CUSA43268,X-Force Genesis,01.02
 CUSA43269,X-Force Genesis,01.02
 CUSA43270,Placid Plastic Duck Simulator,01.02
-CUSA43293,Cricket 24,01.09
-CUSA43294,Cricket 24,01.08
+CUSA43293,Cricket 24,01.10
+CUSA43294,Cricket 24,01.10
+CUSA43305,EbenezerAndTheInvisibleWorld,01.02
+CUSA43306,EbenezerAndTheInvisibleWorld,01.02
 CUSA43316,Mimi the Cat - Mimi's Scratcher,01.01
 CUSA43317,Mimi the Cat - Mimi's Scratcher,01.01
 CUSA43318,Mimi the Cat - Mimi's Scratcher,01.01
@@ -15155,8 +15212,8 @@ CUSA43357,Adore,01.04
 CUSA43358,Adore,01.04
 CUSA43359,Twisted Metal,01.02
 CUSA43360,Twisted Metal,01.02
-CUSA43361,Twisted Metal 2,01.02
-CUSA43362,Twisted Metal EX,01.02
+CUSA43361,Twisted Metal 2,01.03
+CUSA43362,Twisted Metal EX,01.03
 CUSA43363,Tilting Tiles: Micro Challenge,01.01
 CUSA43364,Tilting Tiles: Micro Challenge,01.01
 CUSA43367,Strategic Mind: Spirit of Liberty,01.01
@@ -15165,6 +15222,8 @@ CUSA43385,Cat Ping Pong,01.01
 CUSA43386,Cat Ping Pong,01.01
 CUSA43387,Cat Ping Pong,01.01
 CUSA43393,the Spirit & the Mouse ～精霊とネズミのおはなし～,01.01
+CUSA43395,DESOLATIUM,01.01
+CUSA43396,DESOLATIUM,01.01
 CUSA43399,Onigo Hunter,01.02
 CUSA43400,Onigo Hunter,01.02
 CUSA43405,POSTAL: Brain Damaged,01.01
@@ -15188,6 +15247,7 @@ CUSA43570,The Isle Tide Hotel,01.03
 CUSA43571,The Isle Tide Hotel,01.03
 CUSA43580,The Isle Tide Hotel,01.03
 CUSA43585,Worldless,01.01
+CUSA43586,Worldless,01.01
 CUSA43588,Santas Monster Shootout,01.01
 CUSA43603,Prison City,01.01
 CUSA43604,Prison City,01.01
@@ -15195,11 +15255,16 @@ CUSA43605,Prison City,01.01
 CUSA43606,Prison City,01.01
 CUSA43616,Asterix & Obelix: Heroes,01.01
 CUSA43617,Asterix & Obelix: Heroes,01.01
-CUSA43630,Daymare: 1994 Sandcastle,01.04
+CUSA43622,The Smurfs 2: The Prisoner of the Green Stone,01.01
+CUSA43623,The Smurfs 2: The Prisoner of the Green Stone,01.01
+CUSA43630,Daymare: 1994 Sandcastle,01.05
 CUSA43631,Daymare: 1994 Sandcastle,01.04
 CUSA43644,Thanatos,01.03
 CUSA43645,Thanatos,01.03
-CUSA43652,Agatha Christie - Hercule Poirot: The London Case,01.02
+CUSA43648,Nickelodeon All-Star Brawl 2,01.02
+CUSA43649,Nickelodeon All-Star Brawl 2,01.02
+CUSA43650,Asterix & Obelix Slap Them All! 2,01.01
+CUSA43652,Agatha Christie - Hercule Poirot: The London Case,01.03
 CUSA43659,Road Bustle 2,02.00
 CUSA43660,Road Bustle 2,01.02
 CUSA43661,Road Bustle 2,01.02
@@ -15208,7 +15273,7 @@ CUSA43672,Shootvaders: The Beginning,01.03
 CUSA43673,Shootvaders: The Beginning,01.03
 CUSA43678,Legend Bowl Demo,01.02
 CUSA43679,Legend Bowl Demo,01.02
-CUSA43687,Agatha Christie - Hercule Poirot: The London Case,01.02
+CUSA43687,Agatha Christie - Hercule Poirot: The London Case,01.03
 CUSA43697,EA SPORTS FC 24 BETA,01.02
 CUSA43698,EA SPORTS FC 24 BETA,01.02
 CUSA43709,Strike Force 3,01.03
@@ -15230,6 +15295,10 @@ CUSA43797,Skye Tales,01.01
 CUSA43806,Donuts in Space,01.01
 CUSA43808,Froggy Crossing,01.01
 CUSA43809,Froggy Crossing,01.01
+CUSA43840,Virgo Versus The Zodiac,01.01
+CUSA43841,Virgo Versus The Zodiac,01.01
+CUSA43842,Virgo Versus The Zodiac,01.01
+CUSA43843,Virgo Versus The Zodiac,01.01
 CUSA43854,Alchemy Garden,01.01
 CUSA43868,Arcade Archives GROWL,01.01
 CUSA43869,Arcade Archives GROWL,01.01
@@ -15242,8 +15311,8 @@ CUSA43890,Kind Heart Defenders,01.01
 CUSA43891,Kind Heart Defenders,01.01
 CUSA43892,Kind Heart Defenders,01.01
 CUSA43893,Kind Heart Defenders,01.01
-CUSA43940,Long Gone Days,01.02
-CUSA43941,Long Gone Days,01.02
+CUSA43940,Long Gone Days,01.03
+CUSA43941,Long Gone Days,01.03
 CUSA43957,Tenebris Pictura,01.06
 CUSA43958,Tenebris Pictura,01.06
 CUSA43967,GeoJelly,01.02
@@ -15255,12 +15324,19 @@ CUSA43999,The Snow Fable: Mystery of the Flame,01.01
 CUSA44008,伊蘇X -北境歷險-,01.03
 CUSA44009,이스 X -노딕스- 무삭제판,01.03
 CUSA44027,Rainbow Snake,01.01
+CUSA44035,Formula Retro Racing - World Tour - Special Edition,01.01
+CUSA44038,ShieldKing,01.01
+CUSA44039,ShieldKing,01.01
+CUSA44040,ShieldKing,01.01
+CUSA44041,ShieldKing,01.01
 CUSA44049,Hawked,01.06
 CUSA44050,Hawked,01.06
 CUSA44068,Cry Babies Magic Tears: The Big Game,01.01
 CUSA44069,Cry Babies Magic Tears: The Big Game,01.01
-CUSA44070,双截龍外傳 : 雙龍出海,01.01
+CUSA44070,双截龍外傳 : 雙龍出海,01.02
 CUSA44096,GeoJelly,01.01
+CUSA44137,RollerCoaster Tycoon Adventures: Deluxe,01.01
+CUSA44138,RollerCoaster Tycoon Adventures: Deluxe,01.01
 CUSA44153,Arcade Archives ZING ZING ZIP,01.01
 CUSA44154,Arcade Archives ZING ZING ZIP,01.01
 CUSA44155,Arcade Archives ZING ZING ZIP,01.01
@@ -15278,24 +15354,31 @@ CUSA44195,Shuyan Saga,01.02
 CUSA44196,Shuyan Saga,01.02
 CUSA44197,Shuyan Saga,01.02
 CUSA44218,異世界輪舞 ～御社も異世界もブラックなのでここから先はホワイトライフを目指します！～,01.01
-CUSA44237,Zombie Soup,01.10
-CUSA44239,Zombie Soup,01.10
-CUSA44240,Zombie Soup,01.10
-CUSA44241,Zombie Soup,01.10
-CUSA44245,PolyBoy War,01.02
+CUSA44237,Zombie Soup,01.11
+CUSA44239,Zombie Soup,01.11
+CUSA44240,Zombie Soup,01.11
+CUSA44241,Zombie Soup,01.11
+CUSA44244,PolyBoy War,01.01
+CUSA44245,PolyBoy War,01.03
 CUSA44253,Bright Side: Riddles and Puzzles,01.02
 CUSA44254,Bright Side: Riddles and Puzzles,01.02
+CUSA44281,Dinosaurs,01.03
+CUSA44282,Dinosaurs,01.03
+CUSA44283,Dinosaurs,01.03
 CUSA44305,VISCO Collection,01.01
 CUSA44306,VISCO Collection,01.01
+CUSA44358,Low Story,01.01
+CUSA44359,Low Story,01.01
 CUSA44403,Fur Squadron,01.01
 CUSA44404,Fur Squadron,01.01
-CUSA44479,Hawked,01.06
-CUSA44525,There Is No Light,01.03
-CUSA44526,There Is No Light,01.03
+CUSA44479,Hawked,01.08
+CUSA44525,There Is No Light,01.04
+CUSA44526,There Is No Light,01.04
 CUSA44529,Dolphin Spirit Ocean Mission,01.01
 CUSA44540,FarmBuilder,01.03
 CUSA44541,FarmBuilder,01.01
 CUSA44542,FarmBuilder,01.01
+CUSA44591,グレイス オブ リトアール,01.01
 CUSA44608,Teocida+Estigma,01.02
 CUSA44609,Teocida+Estigma,01.02
 CUSA44624,Builder Simulator,01.01
@@ -15308,9 +15391,10 @@ CUSA44766,Smoots Pinball,01.01
 CUSA44767,Smoots Pinball,01.01
 CUSA44769,Smoots Pinball,01.01
 CUSA44802,Agatha Christie - Murder on the Orient Express,01.02
+CUSA44814,CHRISTMAS MASSACRE,01.02
 CUSA44975,Troopers,01.02
 CUSA44976,Troopers,01.02
-CUSA44977,Sony Pictures Core,01.01
+CUSA44977,Sony Pictures Core,01.04
 CUSA44981,The Gap,01.02
 CUSA44982,The Gap,01.02
 CUSA45006,Skinny and Franko: Fists of Violence Demo,01.01
@@ -15319,8 +15403,11 @@ CUSA45024,暖雪 Warm Snow,01.01
 CUSA45034,The Light in the Darkness,01.06
 CUSA45056,暖雪 Warm Snow,01.01
 CUSA45067,Kittengumi: The Sakabato Thief,01.02
+CUSA45071,Heads Up! Phones Down Edition,01.01
+CUSA45072,Heads Up! Phones Down Edition,01.01
 CUSA45078,League Of Champions Soccer,01.01
 CUSA45079,League Of Champions Soccer,01.01
+CUSA45098,Alina of the Arena,01.01
 CUSA45099,Park Racer,01.01
 CUSA45100,Park Racer,01.01
 CUSA45101,神箱 - Mythology of Cube - DEMO,01.01
@@ -15328,12 +15415,15 @@ CUSA45111,Word Space,01.01
 CUSA45112,Word Space,01.01
 CUSA45113,Word Space,01.01
 CUSA45114,Word Space,01.01
+CUSA45115,Kitty Krawler,01.01
 CUSA45141,Dinobreak,01.04
 CUSA45142,Dinobreak,01.04
 CUSA45190,Zombiezz,01.01
 CUSA45192,KAMiBAKO - Mythology of Cube - DEMO,01.01
 CUSA45193,KAMiBAKO - Mythology of Cube - DEMO,01.01
 CUSA45194,KAMiBAKO - Mythology of Cube - DEMO,01.01
+CUSA45231,Finis,01.01
+CUSA45232,Finis,01.01
 CUSA45279,Zombiezz,01.01
 CUSA45280,Zombiezz,01.01
 CUSA45329,Forklift Extreme: Deluxe Edition,01.01
@@ -15347,14 +15437,38 @@ CUSA45371,Tommy is my hero!,01.01
 CUSA45372,Tommy is my hero!,01.02
 CUSA45381,Jujubos,01.01
 CUSA45382,Jujubos,01.01
+CUSA45406,CHRISTMAS MASSACRE,01.02
+CUSA45407,CHRISTMAS MASSACRE,01.02
+CUSA45408,CHRISTMAS MASSACRE,01.02
 CUSA45423,Aquarium Land,01.01
+CUSA45465,Roots of Pacha,01.01
+CUSA45489,Roots of Pacha,01.01
 CUSA45529,Operation Wolf Returns: First Mission,01.04
-CUSA45563,HappyWords,01.02
+CUSA45563,HappyWords,01.03
 CUSA45564,HappyWords,01.02
-CUSA45583,Axis Football 2024,01.02
-CUSA45809,Potato Sack Racing Simulator 2024,01.01
-CUSA45940,Potato Sack Racing Simulator 2024,01.01
-CUSA45942,Potato Sack Racing Simulator 2024,01.01
-CUSA45943,Potato Sack Racing Simulator 2024,01.01
-CUSA45945,Potato Sack Racing Simulator 2024,01.01
-CUSA45946,Potato Sack Racing Simulator 2024,01.01
+CUSA45583,Axis Football 2024,01.04
+CUSA45677,Roots of Pacha,01.01
+CUSA45678,Roots of Pacha,01.01
+CUSA45681,Berzerk: Recharged,01.01
+CUSA45682,Berzerk: Recharged,01.01
+CUSA45692,Afterdream,01.01
+CUSA45693,Afterdream,01.01
+CUSA45694,Afterdream,01.01
+CUSA45695,Afterdream,01.01
+CUSA45762,Grace of Letoile,01.01
+CUSA45763,Grace of Letoile,01.01
+CUSA45809,Potato Sack Racing Simulator 2024,01.04
+CUSA45812,Burning Secrets - A Bara Visual Novel,01.01
+CUSA45813,Burning Secrets - A Bara Visual Novel,01.01
+CUSA45814,Burning Secrets - A Bara Visual Novel,01.01
+CUSA45816,Alina of the Arena,01.01
+CUSA45882,Urbek City Builder,01.01
+CUSA45940,Potato Sack Racing Simulator 2024,01.04
+CUSA45941,Potato Sack Racing Simulator 2024,01.03
+CUSA45942,Potato Sack Racing Simulator 2024,01.04
+CUSA45943,Potato Sack Racing Simulator 2024,01.04
+CUSA45944,Potato Sack Racing Simulator 2024,01.03
+CUSA45945,Potato Sack Racing Simulator 2024,01.04
+CUSA45946,Potato Sack Racing Simulator 2024,01.04
+CUSA46097,Air Aces,01.01
+CUSA46188,HappyWords,01.01
